@@ -2,7 +2,31 @@
 
 ## Safety Document E.1 — General Laboratory Safety
 
-*This document applies to all laboratory work at every tier. Students acknowledge these requirements before beginning Month 3 of Year One. Requirements escalate at Year Three (see E.3).*
+---
+
+# IMPORTANT DISCLAIMER AND RELEASE OF LIABILITY
+
+**This document provides educational guidelines and best practices for general laboratory safety within the TTAO Inner Academy remote, online educational program curriculum.**
+
+**It does NOT constitute professional safety training, legal advice, or comprehensive risk assessment for your specific workspace or activities.**
+
+**TTAO Inner Academy, its Headmaster, Guides, and affiliates are educators, not professional safety officers, medical personnel, or legal advisors.**
+
+**Your participation in any laboratory work is entirely at your own risk.**
+
+**You are SOLELY responsible for:**
+*   **Ensuring your workspace is safe and compliant with all local laws and regulations.**
+*   **Procuring and correctly using all necessary personal protective equipment (PPE).**
+*   **Understanding and mitigating all risks associated with chemical handling, heat, glassware, and any other materials used.**
+*   **Seeking professional training or consultation if you are unsure about any aspect of laboratory safety.**
+
+**TTAO Inner Academy, its Headmaster, Guides, and affiliates explicitly DISCLAIM ALL LIABILITY for any injury, damage, loss, or adverse outcome whatsoever, whether physical, financial, or otherwise, arising from your engagement in laboratory work, even if caused by alleged negligence of the Academy or its personnel.**
+
+**By proceeding with laboratory work, you fully ASSUME ALL RISKS and RELEASE the Academy from any and all claims.**
+
+---
+
+*This document applies to all laboratory work undertaken by students within the context of this online educational program, at every tier. Students acknowledge these requirements before beginning Month 3 of Year One. Requirements escalate at Year Three (see E.3).*
 
 ---
 
@@ -23,7 +47,7 @@
 - Store all proof spirits in sealed dark glass bottles, away from heat sources and direct sunlight.
 - Do not store more than one litre of high-proof alcohol in a home workspace without a proper flameproof storage cabinet.
 - The **Cotton Wick Test** (Year One, Month 3) must be passed before any alcohol is used as a menstruum. This requirement is non-negotiable.
-- Legal restrictions on the distillation and possession of high-proof spirits vary by jurisdiction. Students are responsible for understanding and complying with their local laws before obtaining or producing rectified spirits of wine.
+- Legal restrictions on the distillation and possession of high-proof spirits vary by jurisdiction. Students are **solely responsible** for understanding and complying with their local laws before obtaining or producing rectified spirits of wine. **The academy disclaims any and all liability for legal non-compliance, accidents, or damages arising from the use or storage of flammable menstrua.**
 
 ---
 
@@ -43,6 +67,8 @@
 - **All calcination must be performed either outdoors or with direct ventilation to the outside.** Burning plant matter produces carbon monoxide and fine particulates. A window fan pointed outward is the minimum acceptable arrangement; dedicated fume extraction is preferred.
 - All long digestions and distillations should be conducted in well-ventilated spaces. If you cannot smell fresh air in your workspace, it is insufficiently ventilated.
 - If a preparation produces an unexpected or very pungent smell, move the operation outside immediately and allow the space to air before re-entering.
+
+**Disclaimer:** These are general ventilation guidelines. Students are solely responsible for ensuring their workspace has adequate and safe ventilation for all operations, and for verifying its effectiveness. The academy disclaims any liability for inadequate ventilation or related health issues.
 
 ---
 
@@ -86,6 +112,6 @@ This record serves a dual purpose: it is the student's primary progress document
 
 ---
 
-*Student acknowledgement of this document is required before beginning Year One Month 3 laboratory work. Signed copy to be retained by the headmaster.*
+*Student acknowledgement of this document is a mandatory condition for beginning Year One Month 3 laboratory work. By signing, the student affirms full understanding of all inherent risks and agrees to release TTAO Inner Academy, its Headmaster, Guides, and affiliates from any and all liability for injuries, damages, or losses incurred during or as a result of laboratory activities.*
 
 > *TTAO Inner Academy — Safety Document E.1*

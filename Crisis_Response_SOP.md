@@ -4,6 +4,22 @@
 
 ---
 
+# IMPORTANT DISCLAIMER
+
+**This document outlines internal operating procedures for TTAO Inner Academy personnel (Headmaster and Guides) regarding student concerns within this online educational program.**
+
+**It is for internal guidance only and does not constitute legal, medical, or psychological advice.**
+
+**TTAO Inner Academy, its Headmaster, Guides, and affiliates are educators, not licensed mental health professionals, medical practitioners, or legal advisors.**
+
+**This SOP does not create a professional duty of care, therapeutic relationship, or any heightened legal obligation beyond the scope of educational instruction as defined by the academy's Terms of Service.**
+
+**Students remain solely responsible for their own mental health, physical well-being, and legal compliance.**
+
+**In any crisis, students must seek support from qualified external professionals (emergency services, crisis lines, licensed therapists/doctors) and/or legal counsel.**
+
+---
+
 ## ⚠️ CRISIS RESOURCES – QUICK REFERENCE
 
 **If a student is in immediate danger or expressing active suicidal intent, direct them to emergency services or crisis lines immediately.**
@@ -23,17 +39,17 @@
 
 ## Purpose & Scope of This Document
 
-This Standard Operating Procedure (SOP) defines how TTAO Inner Academy responds to student psychological crises, elevated concerns, and safety situations. It establishes clear protocols for:
+This Standard Operating Procedure (SOP) defines *internal guidelines* for how TTAO Inner Academy personnel (Headmaster and Guides) *may respond* to student psychological crises, elevated concerns, and safety situations *within the educational context of this online academy*. It outlines discretionary protocols for:
 
-1. **Immediate crisis response** when a student expresses suicidal ideation, self-harm intent, or acute psychological distress
-2. **Elevated concern monitoring** for students showing sustained distress patterns without acute crisis
-3. **Crisis pause and re-entry procedures** for students resuming academy work after a crisis
-4. **Access revocation** for students who repeatedly refuse safety protocols or pose risk to others
-5. **Mandatory reporting** in cases of child abuse or vulnerable adult abuse disclosure
-6. **International crisis resource matching** based on student location and language
-7. **Documentation and legal compliance** for all crisis interventions
+1. **Immediate crisis response** when a student expresses suicidal ideation, self-harm intent, or acute psychological distress (by directing to external resources)
+2. **Elevated concern monitoring** for students showing sustained distress patterns without acute crisis (through compassionate check-ins and resource provision)
+3. **Crisis pause and re-entry procedures** for managing academy participation after a crisis
+4. **Access revocation** for students who repeatedly refuse safety protocols or pose risk to themselves or others
+5. **Mandatory reporting** in cases of child abuse or vulnerable adult abuse disclosure (as legally obligated)
+6. **International crisis resource matching** based on publicly available information
+7. **Documentation and legal compliance** for internal record-keeping
 
-**This SOP is binding on all academy personnel (Headmaster and Guides) and must be followed in all crisis situations.**
+**This SOP provides internal guidance for academy personnel. It does not create a legally binding duty of care to students beyond the educational services provided by the academy's Terms of Service. It does not create any rights or expectations for students regarding crisis intervention or support services beyond those explicitly offered within the educational framework.**
 
 ---
 
@@ -51,15 +67,17 @@ This Standard Operating Procedure (SOP) defines how TTAO Inner Academy responds 
 
 ### The Academy DOES NOT
 
-❌ Provide therapy, crisis counseling, or clinical mental health treatment  
+❌ Provide therapy, crisis counseling, clinical mental health treatment, or medical advice  
 ❌ Diagnose mental health conditions or prescribe medication  
 ❌ Conduct suicide risk assessments or safety planning (refer to professionals)  
-❌ Guarantee student safety or take responsibility for student actions outside the academy  
-❌ Contact emergency services on behalf of students unless explicitly requested and legally appropriate  
-❌ Serve as a substitute for professional mental health care  
-❌ Retain students whose participation poses ongoing risk to themselves or others
+❌ Monitor students for signs of distress or proactively intervene in personal crises  
+❌ Guarantee or assume legal responsibility for student safety or well-being  
+❌ Take responsibility for student actions, decisions, or omissions outside the academy's direct educational instruction  
+❌ Contact emergency services on behalf of students unless explicitly requested and consented to, or legally mandated  
+❌ Serve as a substitute for professional mental health care or legal counsel  
+❌ Retain students whose participation poses an unmanageable risk to themselves or others, or who refuse to engage with safety protocols  
 
-**The Headmaster and Guides are educators, not licensed mental health professionals.** All crisis response is limited to acknowledgment, resource provision, and academy participation management.
+**The Headmaster and Guides are educators, not licensed mental health professionals or legal advisors.** All crisis response is strictly limited to acknowledgment, provision of publicly available external resources, and management of academy participation. The academy's engagement is solely within an educational framework.
 
 ---
 
@@ -158,25 +176,27 @@ Immediately after the exchange, the Headmaster must document:
 
 ---
 
-### Step 5A: Emergency Services Escalation (Rare Cases Only)
+### Step 5A: Discretionary Emergency Services Notification (Exceptional Cases Only)
 
-**When to Contact Emergency Services:**
+**Disclaimer:** As an online educational program, the academy does NOT routinely contact emergency services on behalf of students. Students are solely responsible for contacting emergency services for their own safety or the safety of others. Any notification by academy personnel is an exceptional, discretionary act, and does not create a precedent, establish a duty of care, or imply ongoing monitoring.
 
-The academy does NOT routinely contact emergency services on behalf of students. However, in the following rare circumstances, the Headmaster may contact emergency services:
+**When Academy Personnel *May* Discretionarily Notify Emergency Services:**
 
-1. **Student explicitly requests emergency services contact** and provides their location and consent
-2. **Student is a minor (under 18)** and expresses active suicidal intent with a plan
-3. **Student discloses imminent harm to another person** (e.g., "I'm going to hurt \[specific person] tonight")
+Academy personnel *may*, in their sole discretion, and without establishing any obligation to do so in the future, notify emergency services in the following *extremely rare and exceptional* circumstances:
 
-**Procedure:**
+1. **Explicit Student Request and Consent:** The student *explicitly requests* academy personnel to contact emergency services and *provides clear, informed consent*, along with their precise location and the nature of the emergency.
+2. **Mandated Reporting for Minors:** The student is a *verified minor (under 18)* and expresses active suicidal intent with a specific plan, where mandatory reporting laws in the Headmaster's or student's jurisdiction unequivocally require such notification.
+3. **Mandated Reporting for Imminent Harm to Others:** The student discloses *credible and imminent harm to an identifiable third party*, where mandatory reporting laws in the Headmaster's or student's jurisdiction unequivocally require such notification.
 
-1. Confirm the student's location (address, city, country)
-2. Call the appropriate emergency number for their country (911, 999, 112, 000, etc.)
-3. Provide dispatcher with: student's name, location, nature of crisis, and your role as academy administrator
-4. Document the call immediately (time, dispatcher name if available, outcome)
-5. Notify the student that emergency services have been contacted (if safe to do so)
+**Procedure (if discretionarily notified):**
 
-**Legal Note:** In most jurisdictions, educators and online program administrators are NOT mandatory reporters for adult suicidal ideation unless there is imminent, specific danger. Consult local laws if uncertain. When in doubt, prioritize student safety and document your reasoning.
+1. Verify the student's current precise location (address, city, country) and confirm consent where applicable.
+2. Call the appropriate emergency number for their jurisdiction (e.g., 911, 999, 112, 000).
+3. Provide the dispatcher with factual information: student's name (if known and permissible), verified location, nature of the reported concern, and explicitly state your role as an administrator of an online educational program, *not* a mental health professional.
+4. Document the call immediately (date, time, dispatcher name/ID if available, summary of information provided, and outcome).
+5. Notify the student that emergency services have been contacted (if safe, permissible, and appropriate to do so, considering local laws and the crisis context).
+
+**Legal Note:** In most jurisdictions, educators and administrators of online educational programs are NOT mandatory reporters for adult suicidal ideation or self-harm unless there is an unequivocal legal mandate to do so. The academy disclaims any implied duty to report beyond explicit legal requirements. When acting in good faith based on perceived imminent danger and documented legal advice (if obtained), academy personnel will prioritize student safety within the bounds of this SOP and applicable laws, while always preserving the educational-only nature of the academy. Students are strongly advised to understand their own local laws regarding mandatory reporting.
 
 ---
 
@@ -440,79 +460,79 @@ If the student does not complete the required corrective action by the deadline,
 
 ---
 
-## Part VI: Child or Vulnerable Adult Abuse Disclosure
+
+
+## Part VI: Disclosure of Suspected Abuse (Mandatory Reporting)
+
+**Disclaimer:** TTAO Inner Academy does not provide legal advice. All statements regarding mandatory reporting are for informational purposes only, based on general understanding of common legal frameworks. Students are solely responsible for understanding and complying with mandatory reporting laws in their own jurisdictions.
 
 ### Mandatory Reporting Obligations
 
-If a student discloses that they are currently experiencing abuse (physical, sexual, emotional, or neglect), the Headmaster's legal obligations depend on:
+If a student discloses information that *appears to indicate* child abuse or abuse of a vulnerable adult, academy personnel *may*, in their sole discretion and interpretation of applicable laws, act in accordance with perceived mandatory reporting obligations. The Headmaster's understanding of such obligations depends on:
 
 1. **The student's age** (minor vs. adult)
 2. **The student's jurisdiction** (mandatory reporting laws vary by country and state/province)
 3. **The Headmaster's jurisdiction** (where the Headmaster is located)
 
-**General Guidance:**
+**General Guidance (Informational Only - Not Legal Advice):**
 
-- **If the student is under 18 (minor):** Most jurisdictions require educators and online program administrators to report suspected child abuse to local authorities. The Headmaster should consult local laws and, when in doubt, report.
-- **If the student is an adult:** Mandatory reporting for adult abuse is less common, but some jurisdictions require reporting if the adult is a "vulnerable adult" (e.g., elderly, disabled, dependent on a caregiver). Consult local laws.
+- **If the student reports being a minor (under 18):** In many jurisdictions, educators and program administrators *may* be legally required to report suspected child abuse to local authorities. Academy personnel will act based on their interpretation of such laws.
+- **If the student reports being an adult:** Mandatory reporting for adult abuse is less common but *may* exist if the adult is classified as a "vulnerable adult" (e.g., elderly, disabled, dependent on a caregiver). Academy personnel will act based on their interpretation of such laws.
 
-**The Headmaster is NOT required to investigate or verify the abuse.** The role is to report the disclosure to the appropriate authorities and let them investigate.
+**TTAO Inner Academy personnel are NOT required to investigate, verify, or confirm the abuse.** The academy's role is strictly limited to potentially reporting the disclosure to the appropriate authorities, as interpreted by academy personnel, and letting them investigate. The academy disclaims any responsibility for the outcome or consequences of such reports.
 
 ---
 
-### Step 1: Listen and Document
+### Step 1: Listen and Document (Without Assuming Duty to Report)
 
-If a student discloses abuse:
+If a student discloses information that *may constitute* abuse:
 
-1. **Listen without judgment.** Do not interrogate or demand details.
-2. **Thank them for trusting you.** Acknowledge their courage in sharing.
-3. **Document the disclosure immediately:** Date, time, student's exact words (verbatim if possible), and any details provided (e.g., identity of abuser, location, frequency).
+1. **Listen without judgment.** Do not interrogate, demand details, or express legal opinions.
+2. **Thank them for sharing.** Acknowledge their communication.
+3. **Document the disclosure immediately:** Date, time, student's exact words (verbatim if possible, or detailed summary), and any details provided (e.g., identity of alleged abuser, location, frequency).
 
 **Do NOT:**
 
-- Promise confidentiality (you may be legally required to report)
-- Confront the alleged abuser
-- Attempt to investigate or verify the abuse yourself
+- Promise confidentiality (you may be legally required to report, and the academy will act accordingly).
+- Offer legal advice, therapeutic support, or investigative services.
+- Confront the alleged abuser or attempt to investigate the allegations.
 
 ---
 
-### Step 2: Inform the Student of Reporting Obligations
+### Step 2: Inform the Student of Potential Reporting (No Guarantee Implied)
 
-If you are legally required to report (or believe you may be), inform the student immediately:
+If academy personnel, in their sole discretion, determine that a potential mandatory reporting obligation exists, they *may* inform the student:
 
 **Example Response:**
 
-> "\[Student Name], thank you for trusting me with this. I want you to know that I believe you, and I'm here to support you. However, I need to let you know that because you are \[under 18 / a vulnerable adult], I am legally required to report this disclosure to \[appropriate authority: e.g., child protective services, adult protective services, local police]. This is not because I don't trust you—it's because the law requires me to make sure you're safe. I will not investigate or confront anyone—I will simply pass this information to the authorities so they can help."
+> "\[Student Name], thank you for sharing this sensitive information. I want you to know that we are taking your communication seriously. Based on the information you've provided, and our understanding of certain legal requirements that may apply in [relevant jurisdiction, if known], we *may* be obligated to report this information to the appropriate authorities (such as child protective services or adult protective services). We are not legal experts and cannot advise you on this. You may wish to consult legal counsel yourself. This action is taken solely in perceived compliance with legal mandates and does not imply any further involvement or responsibility on the part of the academy."
 
 ---
 
-### Step 3: Make the Report
+### Step 3: Make the Report (If Discretionarily Decided)
 
-Contact the appropriate authority based on the student's location:
+If academy personnel, in their sole discretion and interpretation of legal requirements, decide to make a report:
 
-- **United States (minors):** Call the Childhelp National Child Abuse Hotline at 1-800-422-4453, or report to the student's local child protective services (CPS) agency. Directory: [childwelfare.gov/organizations](https://www.childwelfare.gov/organizations/)
-- **United Kingdom (minors):** Call the NSPCC Helpline at 0808 800 5000, or report to the student's local council social services. [nspcc.org.uk](https://www.nspcc.org.uk)
-- **Canada (minors):** Report to the student's provincial child welfare agency. Directory: [cwrp.ca](https://cwrp.ca)
-- **Australia (minors):** Report to the student's state/territory child protection service. Directory: [aifs.gov.au](https://aifs.gov.au/resources/resource-sheets/mandatory-reporting-child-abuse-and-neglect)
-
-**For adult abuse:** Consult local adult protective services or elder abuse hotlines.
-
-**Document the report:** Date, time, agency contacted, name of intake worker (if available), and case number (if provided).
+- Contact the appropriate authority based on the student's reported location or the location of the alleged abuse.
+- Use publicly available resources for reporting.
+- **Document the report:** Date, time, agency contacted, name of intake worker (if available), and case number (if provided).
 
 ---
 
-### Step 4: Follow Up with the Student
+### Step 4: Follow Up with the Student (No Ongoing Responsibility)
 
-After making the report, inform the student that the report has been made and offer continued support:
+After potentially making a report, academy personnel *may* inform the student that a report *has been made*, but this does not imply ongoing responsibility or support regarding the abuse situation.
 
 **Example Message:**
 
-> "I've made the report to \[agency name] as required. They will follow up with you directly. I want you to know that this doesn't change your standing in the academy—you are still welcome here, and I'm still here to support you. If you need to talk or if there's anything I can do to help you feel safe, please let me know."
+> "A report *may have been made* to \[agency name] as we believe we are legally required to do so. They *may* follow up with you directly. Please note that TTAO Inner Academy's involvement is now concluded regarding this matter, and we do not have further information or responsibility. Your standing in the academy is not affected by this, and we do not provide ongoing support or mediation related to such disclosures. We encourage you to seek independent legal advice and professional support for your situation."
 
 **Do NOT:**
 
 - Pressure the student to provide updates on the investigation
 - Attempt to mediate between the student and the alleged abuser
 - Assume the student will be removed from the abusive situation immediately (investigations take time)
+- Offer any form of counseling or therapeutic support.
 
 ---
 

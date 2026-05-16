@@ -2,7 +2,34 @@
 
 ## Safety Document E.3 — Mineral & Advanced Laboratory Safety (Year Three)
 
-*This document applies specifically to Year Three mineral work, beginning with the Vinegar of Antimony preparation in Month 1. Students must complete the Year Three Safety Quiz (administered by the headmaster or a designated guide) before beginning any antimony or corrosive solvent work. All Year One general safety requirements (E.1) remain in force and are not repeated here.*
+---
+
+# IMPORTANT DISCLAIMER AND RELEASE OF LIABILITY
+
+**This document provides educational guidelines and best practices for advanced laboratory safety concerning mineral and corrosive materials within the TTAO Inner Academy remote, online educational program curriculum.**
+
+**It does NOT constitute professional safety training, legal advice, medical advice, or comprehensive risk assessment for your specific workspace or activities.**
+
+**TTAO Inner Academy, its Headmaster, Guides, and affiliates are educators, not professional safety officers, chemists, medical personnel, or legal advisors.**
+
+**Mineral work involves inherently DANGEROUS and TOXIC materials (e.g., antimony) and corrosive chemicals.**
+
+**Your participation in any mineral or advanced laboratory work is entirely at your own extreme risk.**
+
+**You are SOLELY responsible for:**
+*   **Ensuring your workspace is safe, adequately ventilated, and compliant with all local laws and regulations.**
+*   **Procuring and correctly using all specified and necessary personal protective equipment (PPE), including appropriate respirators and acid-resistant gloves.**
+*   **Thoroughly understanding and mitigating ALL risks associated with handling, heating, storing, and disposing of hazardous chemicals.**
+*   **Seeking professional training or consultation from qualified chemists, safety experts, or medical professionals if you are unsure about any aspect of mineral safety or its impact on your health.**
+*   **All legal and environmental compliance related to hazardous waste disposal.**
+
+**TTAO Inner Academy, its Headmaster, Guides, and affiliates explicitly DISCLAIM ALL LIABILITY for any injury, illness, chronic health issue, damage, loss, or adverse outcome whatsoever, whether physical, financial, or otherwise, arising from your engagement in mineral or advanced laboratory work, even if caused by alleged negligence of the Academy or its personnel.**
+
+**By proceeding with mineral and advanced laboratory work, you fully ASSUME ALL RISKS, including those unknown or unforeseeable, and RELEASE the Academy from any and all claims.**
+
+---
+
+*This document applies specifically to Year Three mineral work within this online educational program, beginning with the Vinegar of Antimony preparation in Month 1. Students must complete the Year Three Safety Quiz (administered by the headmaster or a designated guide) before beginning any antimony or corrosive solvent work. All Year One general safety requirements (E.1) remain in force and are not repeated here.*
 
 ---
 
@@ -16,9 +43,11 @@ These materials are genuinely hazardous when mishandled. They are also manageabl
 
 ### Antimony: What You Are Working With
 
+**Disclaimer:** The information provided below is for educational awareness of the materials you *may choose* to work with. It does not constitute a comprehensive safety data sheet, chemical hazard assessment, or professional handling instructions. **Students are SOLELY responsible for independently researching, understanding, and safely handling all substances, and for all health and safety implications.**
+
 **Stibnite** (Sb₂S₃) is a natural antimony sulfide mineral, grey-black in colour and often crystalline. It is the primary starting material for alchemical antimony work.
 
-**Antimony trioxide** (Sb₂O₃) — produced when stibnite is roasted or heated in air — is the primary hazardous compound generated during calcination. It is classified as a **possible human carcinogen** (Group 2B, IARC). Inhalation of antimony trioxide dust or fumes is the primary route of significant exposure.
+**Antimony trioxide** (Sb₂O₃) — produced when stibnite is roasted or heated in air — is the primary hazardous compound generated during calcination. It is classified as a **possible human carcinogen** (Group 2B, IARC). Inhalation of antimony trioxide dust or fumes is the primary route of significant exposure. **The academy disclaims any responsibility for acute or chronic health effects resulting from student exposure to antimony compounds.**
 
 **Antimony trichloride** (*Butyrum Antimonii*) is produced in advanced Year Three preparations. It is **corrosive and toxic** and must be handled only with full PPE as described below.
 
@@ -29,6 +58,8 @@ Antimony compounds accumulate in the body over time. Chronic low-level exposure 
 ### Ventilation Requirements
 
 **This is the most important requirement. It cannot be substituted or bypassed.**
+
+**Disclaimer:** These are general educational guidelines for ventilation. **Students are SOLELY responsible for designing, implementing, and verifying the effectiveness of their ventilation setup** to ensure safe operation with hazardous mineral compounds. The academy provides educational information but disclaims all liability for any health issues, accidents, or regulatory non-compliance arising from inadequate ventilation.
 
 All heating of antimony ore or compounds — including initial roasting, calcination at any temperature, and distillation involving antimony — must be performed under one of the following conditions:
 
@@ -83,11 +114,17 @@ Antimony waste — spent ore, calcined ash, used solutions, and contaminated mat
 
 Contact your local council, county, or municipality for hazardous household waste collection information. Many areas have periodic collection days or designated drop-off facilities for hazardous household chemicals. If in doubt, contact your guide or headmaster for guidance specific to your region.
 
+**Disclaimer:** Students are **solely and fully responsible** for understanding and complying with all local, regional, and national laws and regulations concerning the disposal of hazardous chemical waste. The academy provides general guidance but disclaims all liability for any environmental damage, legal penalties, or other consequences arising from improper disposal by the student.
+
 ---
 
 ### Corrosive Solvents: Additional Precautions
 
-Advanced Via Humida preparations in Year Three may involve strong mineral acids or highly concentrated salt solutions as solvents. Before working with any corrosive reagent:
+Advanced Via Humida preparations in Year Three may involve strong mineral acids or highly concentrated salt solutions as solvents.
+
+**Disclaimer:** These are extremely hazardous materials. **Students are SOLELY responsible for their safe handling, storage, emergency response, and for understanding the specific hazards of each chemical.** The academy disclaims all liability for any injuries, damages, or health issues arising from the student's use of corrosive solvents.
+
+Before working with any corrosive reagent:
 
 1. Research the material fully before purchase or use. Know its hazard classification, appropriate PPE, and emergency treatment before it arrives in your workspace.
 2. Never mix reagents without understanding the reaction. Do not combine unknown materials.
@@ -123,6 +160,6 @@ The Grey Wolf is a teacher. Part of what it teaches is respect for the nature of
 
 ---
 
-*Completion of the Year Three Safety Quiz is required before beginning any antimony or corrosive solvent preparation. Signed copy of this document and quiz results to be retained by the headmaster.*
+*Completion of the Year Three Safety Quiz and student acknowledgment of this document are mandatory conditions for beginning any antimony or corrosive solvent preparation. By passing the quiz and signing, the student affirms full understanding of all inherent and extreme risks, and agrees to release TTAO Inner Academy, its Headmaster, Guides, and affiliates from any and all liability for injuries, health issues, damages, or losses incurred during or as a result of mineral and advanced laboratory activities.*
 
 > *TTAO Inner Academy — Safety Document E.3*
