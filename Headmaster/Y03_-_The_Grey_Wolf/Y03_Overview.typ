@@ -25,11 +25,10 @@
 #v(1em)
 
 #hm-note[
-  The third year begins the mineral and metallic work in earnest. The philosophical
-  understanding built across Years One and Two is now applied to the sub-terrestrial
-  kingdom. The *Golden Chain Book III* reveals the deeper structures of the Work:
-  the nature of the Philosopher's Stone as a principle, the way of the Wet Path
-  (Via Humida) and Dry Path (Via Sicca), and the long approach to the great Arcanum.
+  The third year begins the mineral and metallic work in earnest. The philosophical understanding built across Years One and Two is now applied to the sub-terrestrial kingdom.
+  
+  The *Golden Chain Book III* reveals the deeper structures of the Work: the nature of the Philosopher's Stone as a principle, the way of the Wet Path (Via Humida) and Dry Path (Via Sicca), and the long approach to the great Arcanum.
+
   Inner alchemy reaches its most intensive stage.
 ]
 

@@ -8,20 +8,12 @@
 
 === Core Teaching
 
-The third philosophical principle is *Salt*. In the alchemical sense, Salt is the
-*body-principle*: the fixed, mineral residue that remains when everything volatile
-(Mercury and Sulphur) has been driven off.
+The third philosophical principle is *Salt*. In the alchemical sense, Salt is the *body-principle*: the fixed, mineral residue that remains when everything volatile (Mercury and Sulphur) has been driven off.
 
-Contrary to the materialist assumption, Salt is *not* dead matter. It is the most
-fixed and crystallised expression of a substance's vital signature. The Salt of
-each plant is unique, carrying the fixed mineral character that provides the
-structure for the spirit and soul to manifest. In the laboratory, the Salt is
-recovered by calcination — the reduction of the matter to ash by fire.
+Contrary to the materialist assumption, Salt is *not* dead matter. It is the most fixed and crystallised expression of a substance's vital signature. The Salt of each plant is unique, carrying the fixed mineral character that provides the structure for the spirit and soul to manifest. In the laboratory, the Salt is recovered by calcination — the reduction of the matter to ash by fire.
 
 #doctrine[
-  _"Salt is the body — the fixed, mineral residue that remains after the spirit
-  and soul have been extracted. It is the base and the magnet that receives the
-  higher principles."_
+  _"Salt is the body — the fixed, mineral residue that remains after the spirit and soul have been extracted. It is the base and the magnet that receives the higher principles."_
   #align(right)[— TTAO curriculum, adapting Albertus and GCH I]
 ]
 
@@ -35,24 +27,15 @@ recovered by calcination — the reduction of the matter to ash by fire.
 #inner-work[
   *The Threefold Breath — Central Channel (Salt)*
 
-  Complete the sequence of the *Threefold Breath* by introducing the third and
-  final stage.
+  Complete the sequence of the *Threefold Breath* by introducing the third and final stage.
 
   *The Practice:*
-  Sit. After the Mercury (right) and Sulphur (left) breaths, breathe freely through
-  both nostrils. Imagine a steady blue vapour filling the central axis of the body
-  from crown to foot — the fixed, the stable, the crystallising. Breathe out blue
-  vapour. Repeat three times.
+  Sit. After the Mercury (right) and Sulphur (left) breaths, breathe freely through both nostrils. Imagine a steady blue vapour filling the central axis of the body from crown to foot — the fixed, the stable, the crystallising. Breathe out blue vapour. *Repeat three times.*
 
-  This blue vapour represents the Salt principle. Observe its quality: is it stable?
-  Does it feel grounding or restrictive? Sit quietly with all three channels
-  present simultaneously: white on the right, red on the left, blue in the centre.
+  This blue vapour represents the Salt principle. Observe its quality: is it stable? Does it feel grounding or restrictive? Sit quietly with all three channels present simultaneously: white on the right, red on the left, blue in the centre.
 
   *Numerology — The Number 3:*
-  Study the number 3 as a living philosophical principle. It is the first stable
-  triad — Mercury, Sulphur, and Salt in their first coherent differentiation. The
-  tension of the two (the pair) resolves into a third that contains both. This is
-  the foundation of all alchemical reasoning.
+  Study the number 3 as a living philosophical principle. It is the first stable triad — Mercury, Sulphur, and Salt in their first coherent differentiation. The tension of the two (the pair) resolves into a third that contains both. This is the foundation of all alchemical reasoning.
 ]
 
 === Source Readings — Week 3

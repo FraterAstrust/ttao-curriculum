@@ -12,11 +12,7 @@
 #v(0.8em)
 
 #hm-note[
-  Month 5 focuses on the practical integration of astrology into the laboratory.
-  The Moon is the Tyro's primary clock. The student learns to track phases and
-  signs, ensuring their actions are in harmony with the World Spirit's tides.
-  The Tarot practice deepens into the Minor Arcana and the first spatial
-  reading of the working sanctuary.
+  Month 5 focuses on the practical integration of astrology into the laboratory. The Moon is the Tyro's primary clock. The student learns to track phases and signs, ensuring their actions are in harmony with the World Spirit's tides. The Tarot practice deepens into the Minor Arcana and the first spatial reading of the working sanctuary.
 ]
 
 #v(0.5em)
@@ -24,7 +20,7 @@
 == Month Overview
 
 #table(
-  columns: (auto, 1fr, 1fr, 1fr),
+  columns: (auto, auto, auto, auto),
   stroke: 0.5pt + ttao-rule,
   fill: (col, row) => if row == 0 { ttao-mid } else if calc.odd(row) { ttao-pale } else { white },
   inset: 0.6em,
@@ -69,7 +65,7 @@
 Before the student proceeds to Month 6, confirm all of the following:
 
 #table(
-  columns: (auto, 1fr, auto),
+  columns: (auto, auto, auto),
   stroke: 0.5pt + ttao-rule,
   fill: (col, row) => if row == 0 { ttao-mid } else if calc.odd(row) { ttao-pale } else { white },
   inset: 0.6em,

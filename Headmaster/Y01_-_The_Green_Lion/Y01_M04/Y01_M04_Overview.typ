@@ -25,7 +25,7 @@
 == Month Overview
 
 #table(
-  columns: (auto, 1fr, 1fr, 1fr),
+  columns: (auto, auto, auto, auto),
   stroke: 0.5pt + ttao-rule,
   fill: (col, row) => if row == 0 { ttao-mid } else if calc.odd(row) { ttao-pale } else { white },
   inset: 0.6em,
@@ -70,7 +70,7 @@
 Before the student proceeds to Month 5, confirm all of the following:
 
 #table(
-  columns: (auto, 1fr, auto),
+  columns: (auto, auto, auto),
   stroke: 0.5pt + ttao-rule,
   fill: (col, row) => if row == 0 { ttao-mid } else if calc.odd(row) { ttao-pale } else { white },
   inset: 0.6em,

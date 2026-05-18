@@ -8,16 +8,11 @@
 
 === Core Teaching
 
-Alchemy is not performed in isolation from the movements of the heavens. The
-alchemical calendar is governed primarily by the Moon — the closest celestial
-body to the earth and the primary mediator of celestial force into the vegetable
-kingdom.
+Alchemy is not performed in isolation from the movements of the heavens. The alchemical calendar is governed primarily by the Moon — the closest celestial body to the earth and the primary mediator of celestial force into the vegetable kingdom.
 
 The Moon waxes and wanes, and these phases govern the work:
-- *Waxing Moon:* Drawing volatile forces upward into the plant; ideal for gathering
-  and beginning extractions/distillations.
-- *Waning Moon:* Releasing the fixed forces; ideal for calcination and the
-  reduction of matter to ash.
+- *Waxing Moon:* Drawing volatile forces upward into the plant; ideal for gathering and beginning extractions/distillations.
+- *Waning Moon:* Releasing the fixed forces; ideal for calcination and the reduction of matter to ash.
 
 === Topics This Week
 
@@ -28,9 +23,7 @@ The Moon waxes and wanes, and these phases govern the work:
 #inner-work[
   *The Minor Arcana & The Four Elements*
 
-  Having established the Major Arcana keywords, now turn your attention to the
-  Minor Arcana. Lay out all four suits and observe what each group of cards
-  feels like as a set.
+  Having established the Major Arcana keywords, now turn your attention to the Minor Arcana. Lay out all four suits and observe what each group of cards feels like as a set.
 
   The suits and their elemental correspondences:
   - *Wands / Fire:* energy, action, will, leadership.

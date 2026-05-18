@@ -8,13 +8,11 @@
 
 === Core Teaching
 
-This week focus on applying the astronomical knowledge you have gained. If your
-Melissa maceration is underway, observe it through the lens of the lunar phase.
-If you have access to fresh Melissa, attempt to gather a small amount at the
-correct lunar time (waxing moon in an air or solar sign).
+This week focus on applying the astronomical knowledge you have gained. If your Melissa maceration is underway, observe it through the lens of the lunar phase.
 
-Practical timing is the application of willed alignment. By choosing when you
-act, you acknowledge that your hands are not separate from the heavens.
+If you have access to fresh Melissa, attempt to gather a small amount at the correct lunar time (waxing moon in an air or solar sign).
+
+Practical timing is the application of willed alignment. By choosing when you act, you acknowledge that your hands are not separate from the heavens.
 
 === Topics This Week
 
@@ -25,8 +23,7 @@ act, you acknowledge that your hands are not separate from the heavens.
 #inner-work[
   *The First Directional Reading*
 
-  Conduct a simple six-position *Directional Reading* of your laboratory or
-  meditation space.
+  Conduct a simple six-position *Directional Reading* of your laboratory or meditation space.
   1. *Centre:* Core energy of the space.
   2. *East (Air/Swords):* Intellectual or mental focus.
   3. *South (Fire/Wands):* Action or will.
@@ -34,8 +31,9 @@ act, you acknowledge that your hands are not separate from the heavens.
   5. *North (Earth/Pentacles):* Material or physical condition.
   6. *Practitioner:* What directly affects you in this space.
 
-  Write down the cards and your interpretation. Photograph the spread if
-  possible. Return to this after a month to see if the energy has changed.
+  Write down the cards and your interpretation. Photograph the spread if possible. 
+  
+  Return to this after a month to see if the energy has changed.
 ]
 
 === Source Readings — Week 4

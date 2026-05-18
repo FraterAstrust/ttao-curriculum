@@ -13,11 +13,8 @@
 
 #hm-note[
   Month 1 is structured as four weekly lessons. Each week builds on the last.
-  The purpose of Month 1 is not to acquire information but to undergo a genuine
-  *reorientation of perception* — how the student sees matter, nature, time, and
-  themselves. Do not rush students through this month on account of apparent
-  simplicity. The Declaration of Intent, the daily practice, and the journal are
-  the three deliverables. Everything else in the curriculum depends on them.
+
+  The purpose of Month 1 is not to acquire information but to undergo a genuine *reorientation of perception* — how the student sees matter, nature, time, and themselves. Do not rush students through this month on account of apparent simplicity. The Declaration of Intent, the daily practice, and the journal are the three deliverables. Everything else in the curriculum depends on them.
 ]
 
 #v(0.5em)
@@ -25,7 +22,7 @@
 == Month Overview
 
 #table(
-  columns: (auto, 1fr, 1fr, 1fr),
+  columns: (auto, auto, auto, auto),
   stroke: 0.5pt + ttao-rule,
   fill: (col, row) => if row == 0 { ttao-mid } else if calc.odd(row) { ttao-pale } else { white },
   inset: 0.6em,
@@ -72,7 +69,7 @@
 Before the student proceeds to Month 2, confirm all of the following:
 
 #table(
-  columns: (auto, 1fr, auto),
+  columns: (auto, auto, auto),
   stroke: 0.5pt + ttao-rule,
   fill: (col, row) => if row == 0 { ttao-mid } else if calc.odd(row) { ttao-pale } else { white },
   inset: 0.6em,
@@ -89,29 +86,16 @@ Before the student proceeds to Month 2, confirm all of the following:
 
 #v(0.8em)
 
-*Minimum Completion Threshold:* The maceration must be underway. The Declaration
-must be written. The journal must be active.
+*Minimum Completion Threshold:* The maceration must be underway. The Declaration must be written. The journal must be active.
 
-*Competent Completion:* The student can articulate the difference between the three
-principles in plain language and has demonstrated genuine — not performed — engagement
-with the Week 4 assignment on patience.
+*Competent Completion:* The student can articulate the difference between the three principles in plain language and has demonstrated genuine — not performed — engagement with the Week 4 assignment on patience.
 
-*Advancement Readiness:* The student is sitting daily, is honest about the quality
-of the sitting (not claiming results they have not had), and the maceration is sealed
-and tended correctly.
+*Advancement Readiness:* The student is sitting daily, is honest about the quality of the sitting (not claiming results they have not had), and the maceration is sealed and tended correctly.
 
 #hm-note[
-  *Students who have not established the meditation practice before proceeding to
-  Month 2 should be counselled to hold at Month 1 Week 1–2 until the practice is
-  genuinely underway.* The Threefold Breath and Inner Flame practices build on a
-  foundation of basic stillness; without it they are merely physical exercises.
+  *Students who have not established the meditation practice before proceeding to Month 2 should be counselled to hold at Month 1 Week 1–2 until the practice is genuinely underway.* The Threefold Breath and Inner Flame practices build on a foundation of basic stillness; without it they are merely physical exercises.
 
-  The phrase "I'm meditating but I don't think I'm doing it right" is not a red
-  flag — it is a healthy sign of honest engagement. The phrase "I meditate for twenty
-  minutes every day and it's going very well" in Week 1 from a student with no prior
-  practice deserves gentle probing. Either it is true (great!) or the student is
-  performing success for the headmaster — which is precisely the kind of dishonesty
-  the oath is designed to prevent.
+  The phrase "I'm meditating but I don't think I'm doing it right" is not a red flag — it is a healthy sign of honest engagement. The phrase "I meditate for twenty minutes every day and it's going very well" in Week 1 from a student with no prior practice deserves gentle probing. Either it is true (great!) or the student is performing success for the headmaster — which is precisely the kind of dishonesty the oath is designed to prevent.
 ]
 
 #v(1em)

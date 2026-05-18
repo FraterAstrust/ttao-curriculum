@@ -9,11 +9,10 @@
 === Core Teaching
 
 The maceration is the first practical step in the separation of the principles.
-It requires patience and attention to detail. This week, you will grind the
-dried herb to release its Sulphur and begin the extraction process.
 
-Before you begin, you must memorise the *Four Common Errors* that derail first-year
-preparations:
+It requires patience and attention to detail. This week, you will grind the dried herb to release its Sulphur and begin the extraction process.
+
+Before you begin, you must memorise the *Four Common Errors* that derail first-year preparations:
 + *Lost ingress through vitrification:* Calcination must not exceed 400°C.
 + *Impure menstruum:* Failure to pass the Cotton Wick Test.
 + *Mixing kingdoms:* Combining vegetable essence with mineral or animal salts.
