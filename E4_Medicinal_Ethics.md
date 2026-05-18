@@ -1,133 +1,128 @@
 # TTAO Inner Academy
 
-## Safety Document E.4 — Medicinal Preparations: Disclaimer & Ethics
+## Safety Document E.4 — Personal Use of Self-Produced Preparations: Disclaimer & Ethics
 
 ---
 
 # IMPORTANT DISCLAIMER AND RELEASE OF LIABILITY
 
-**This document provides educational context and ethical guidelines for understanding spagyric preparations within the TTAO Inner Academy online educational program curriculum.**
+**TTAO Inner Academy is an educational institution. It sells course access and educational content only. The Academy does not manufacture, supply, sell, distribute, or handle any alchemical preparations, herbs, minerals, chemicals, or materials of any kind. No products of any kind are sold by or on behalf of this Academy.**
 
-**It does NOT constitute medical advice, pharmaceutical endorsement, regulatory approval, or legal counsel regarding the production, use, or distribution of any substance.**
+**Students who produce preparations do so entirely independently, in their own workspace, using materials they have independently sourced, at their own sole risk and expense. The Academy's role is limited to providing educational instruction in historical and traditional alchemical methods.**
 
-**TTAO Inner Academy, its Headmaster, Guides, and affiliates are educators, not licensed medical professionals, pharmacists, or legal advisors.**
+**This document governs the student's own decisions regarding personal use of preparations they have independently produced. It does NOT constitute medical advice, pharmaceutical endorsement, regulatory approval, or legal counsel of any kind.**
 
-**Spagyric preparations discussed or created within this curriculum are EXPERIMENTAL ALCHEMICAL PRODUCTS.**
+**TTAO Inner Academy, its Headmaster, Guides, and affiliates are educators, not licensed medical professionals, pharmacists, herbalists, or legal advisors.**
 
-**They are NOT pharmaceutical medicines, dietary supplements, or regulated therapeutic agents.**
+**Spagyric and alchemical preparations produced by a student within this curriculum are EXPERIMENTAL preparations made by that student for their own personal educational study.**
 
-**They have NOT been tested, approved, or evaluated by any medical, food, or drug regulatory body.**
+**They are NOT:**
+- Pharmaceutical medicines or drugs
+- Dietary supplements or functional foods
+- Regulated therapeutic agents
+- Quality-controlled or standardised products of any kind
+- Endorsed or certified by the Academy for any use
+- Assessed, verified, or tested by the Academy in any way
 
-**The academy makes NO CLAIMS of medical efficacy, diagnostic utility, or therapeutic benefit for any spagyric preparation.**
+**The Academy makes NO CLAIMS of medical efficacy, diagnostic utility, or therapeutic benefit for any preparation.**
 
-**Your decision to produce, use, share, or distribute any spagyric preparation is ENTIRELY at your own extreme risk and SOLE responsibility.**
+**You are SOLELY responsible for all decisions regarding any use of preparations you produce, including all health, legal, and financial consequences of those decisions.**
 
-**You are SOLELY responsible for:**
-*   **Thoroughly researching the properties, safety, and potential effects of all ingredients.**
-*   **Consulting with qualified medical professionals regarding any personal health conditions or potential interactions.**
-*   **Understanding and complying with ALL local, regional, and national laws and regulations concerning the production, possession, use, and distribution of any preparation.**
-*   **All outcomes, consequences, and liabilities arising from the use or sharing of any preparation you create or obtain.**
-
-**TTAO Inner Academy, its Headmaster, Guides, and affiliates explicitly DISCLAIM ALL LIABILITY for any injury, illness, adverse reaction, legal penalty, or any other adverse outcome whatsoever, whether physical, financial, or otherwise, arising from your engagement with spagyric preparations, even if caused by alleged negligence of the Academy or its personnel.**
-
-**By engaging with spagyric preparations, you fully ASSUME ALL RISKS, including those unknown or unforeseeable, and RELEASE the Academy from any and all claims.**
+**TTAO Inner Academy explicitly DISCLAIM ALL LIABILITY for any injury, illness, adverse reaction, legal penalty, or any other adverse outcome arising from any use of any preparation you produce. This release is governed by the laws of the State of Oregon.**
 
 ---
 
-*This document applies to all students of this online educational program who have produced a spagyric preparation and are considering its use or the use of another's preparation. Students acknowledge this document before Year One Month 11.*
+### The Academy's Educational Role
+
+This curriculum teaches traditional Paracelsian alchemical methods — the spagyric separation, purification, and recombination of plant and mineral principles — as a system of philosophical and practical study with deep historical roots. Students learn these methods as part of a broader engagement with Hermetic philosophy, inner work, and the history of Western science.
+
+The Academy teaches methods. Students apply those methods independently. What a student does with knowledge they have acquired, including any preparations they independently produce, is entirely the student's own decision and sole responsibility.
 
 ---
 
-### What Spagyric Preparations Are
+### Personal Internal Use — Conditions and Responsibility
 
-Spagyric preparations produced through the TTAO curriculum are experimental alchemical products made according to traditional Paracelsian procedures. They are the product of the separation, purification, and reunification of the three principles of a plant or mineral, carried out by a student in the context of a curriculum of study.
+A student **may choose** to personally and internally use preparations they have produced, subject to the following non-negotiable conditions. These conditions are educational guidelines, not regulatory approvals. The student bears sole responsibility for all decisions and consequences.
 
-**They are NOT pharmaceutical medicines, dietary supplements, or therapeutic agents. They have NOT been tested, approved, or evaluated by any medical, food, or drug regulatory body.** Their preparation is not standardised in the pharmaceutical sense — each student's preparation is unique, shaped by the specific plant material used, the quality of the menstruum, the calcination achieved, and the integrity of the cohobation.
+**Condition 1 — Independent verification of non-toxicity is the student's sole responsibility.**
 
-**IMPORTANT PROHIBITION:** The academy strictly prohibits the ingestion, topical application, or distribution to third parties of any preparation created within this curriculum. All preparations are for external, symbolic, and private study purposes only. Any violation of this prohibition will result in immediate administrative removal from the academy.
+Before considering any internal use of a self-produced preparation, the student must independently verify, through their own research or consultation with qualified professionals, that:
+- The source plant or mineral is non-toxic at the contemplated dose
+- No preparation method used introduces toxic compounds
+- No contraindications exist for the student's individual health situation
 
-This is not a disclaimer designed to minimise the educational context of the Work. It is an honest statement of what the preparations are and what they are not. The tradition has always held that a genuine spagyric preparation, properly made, is a medicine of genuine virtue. The tradition has also always held that honesty and transparency are foundational to the alchemical Art. **The academy provides this traditional context for educational purposes only and explicitly disclaims any endorsement of medical efficacy or therapeutic claims.**
+**Non-toxic plant preparations** (e.g., Melissa officinalis spagyric) and **toxic mineral preparations** (e.g., any antimony-containing preparation, any lead-containing preparation) are categorically different. **No antimony-containing, lead-containing, mercury-containing, or other toxic mineral preparation may be used internally under any circumstances.** The educational curriculum's discussion of the tradition's medicinal use of mineral preparations is historical and philosophical in nature; it does not constitute instruction or endorsement of internal use of toxic substances.
 
----
+**Condition 2 — Dosage is always small and always diluted.**
 
-### Personal Use
+Traditional starting dose: a few grains of the salt dissolved with a few drops of liquid essence in a glass of distilled water. Nothing is taken undiluted. Effects, if any, are cumulative and gradual — not acute.
 
-**Disclaimer:** Personal use of self-made spagyric preparations is ENTIRELY at the student's own risk and discretion. The academy provides educational context only and disclaims all liability for any health effects or adverse outcomes resulting from personal use.
+**Condition 3 — Maintain a Materia Medica record.**
 
-Students *may choose* to use their own preparations for personal study and self-care. The following principles govern personal use:
+The student maintains a personal record of every preparation they consider using: source material, preparation method, planetary association, calcination stage, any effects observed. This record is for the student's own reference.
 
-**Dosage is always small.** The traditional starting dose is a few grains of salt dissolved with a few drops of liquid essence in a glass of distilled water. The preparation is never taken undiluted. Effects accumulate gradually over sustained use; they are not dramatic in the manner of allopathic medicines.
+**Condition 4 — Do not substitute alchemical preparations for required medical care.**
 
-**Maintain a Materia Medica record** (established in Year One Month 12) for every preparation you use personally. Record: date, preparation name and kingdom, dosage, method, and any effects observed over the following days. This record is essential both for your own learning and for safety.
-
-**Do not combine preparations from different kingdoms.** Vegetable spagyrics and mineral preparations operate at distinct vibratory rates. Combining them without specific understanding is not an alchemical act — it is a confused mixture that produces neither kingdom's effect. See also: the kingdom separation principle in E.1 and the core curriculum.
-
-**Know your contraindications.** Some plants are contraindicated in pregnancy, with specific medications, or with specific medical conditions. The fact that a preparation is spagyric does not exempt it from the plant's inherent chemical and energetic properties. **Students are SOLELY responsible for thoroughly researching the plant, consulting a qualified medical practitioner or herbalist before preparing or using any preparation, and for all health decisions. The academy provides no medical advice.**
-
----
-
-### Sharing Preparations with Others
-
-**Disclaimer:** Sharing any spagyric preparation is ENTIRELY at the student's sole risk and discretion. **TTAO Inner Academy explicitly disclaims all liability for any consequences, health effects, or legal issues arising from a student's decision to share preparations with others.**
-
-A student *may choose* to share a preparation with another person under the following conditions only:
-
-**Full transparency is required.** The person receiving the preparation must know:
-
-- What it is (the name of the plant or mineral and the kingdom)
-- How it was made (a brief, honest account of the preparation method)
-- That it is an experimental alchemical preparation made by a student in the course of study — not a tested, approved, or commercially standardised product
-- The recommended dosage and how to take it
-
-**No payment may be accepted for a preparation.** The alchemical tradition is explicit: the Art is not for personal enrichment. The exchange of money for preparations made in the course of this curriculum is expressly prohibited. Preparations may be shared freely, as a gift, to one who has been deemed prepared to receive them.
-
-**The practitioner must be satisfied that the recipient is appropriate.** Not everyone is ready to receive a spagyric preparation. The practitioner exercises genuine discernment — considering the recipient's physical health, their understanding of what they are receiving, and whether the preparation is suited to their condition. When in doubt, do not share.
-
-**Do not make claims.** Do not represent a preparation as a treatment, cure, or remedy for any specific condition in language that implies pharmaceutical or medical authority. The alchemical tradition has its own language for what preparations do — it speaks of restoring harmony, raising vibration, and assisting nature's own corrective impulse. Use that language, or none at all. **Any medical claims made by a student are strictly their own and are not endorsed or supported by the academy, and may incur legal liability for the student.**
+If you are ill, injured, or experiencing symptoms requiring diagnosis or treatment, consult a qualified medical practitioner. Alchemical preparations are not substitutes for medical care. The use of self-produced preparations alongside conventional care is the student's own decision, made in full awareness of the experimental nature of the preparation and ideally in consultation with a medical professional.
 
 ---
 
-### What Spagyric Preparations Cannot Do
+### Absolute Prohibition on Sharing
 
-**Disclaimer:** TTAO Inner Academy provides educational information only and does NOT offer medical advice, diagnosis, or treatment.
+**Under no circumstances may a student share, give, sell, distribute, or otherwise provide any self-produced preparation to any other person.**
 
-A spagyric preparation is not appropriate as a substitute for professional medical care in the following situations:
+This prohibition is absolute. There are no exceptions. It applies regardless of:
+- Whether the preparation is plant-based or mineral
+- Whether the recipient is a family member, friend, or fellow student
+- Whether any payment or exchange is involved
+- Whether the student believes the preparation to be safe
 
-- Acute illness or injury requiring diagnosis and treatment
-- Conditions requiring pharmaceutical intervention (e.g., bacterial infection, severe inflammation, metabolic disorders)
-- Mental health crises (see E.2)
-- Any situation where a qualified medical practitioner has recommended a specific treatment
+**Reasons this prohibition is non-negotiable:**
 
-Alchemical preparations *may*, in the traditional understanding, be used alongside conventional medical care to support the body's own healing processes. **However, students are SOLELY responsible for consulting with a qualified medical professional before combining spagyric preparations with any conventional medical treatment or medication.** They are not to be positioned as replacements for care that is medically indicated.
+1. **Legal:** The manufacture and distribution of unregistered therapeutic substances is regulated under federal and state law. The Academy's educational programme does not exempt any student from applicable regulations. The student bears sole legal responsibility for any distribution of self-produced materials.
 
-If a student or recipient has any doubt about whether a preparation is appropriate alongside their existing medical care or medication, they **MUST consult a qualified medical practitioner** before proceeding. The academy cannot provide medical advice.
+2. **Safety:** The Academy has no means to assess the quality, purity, or safety of any student's preparation. The student cannot reliably assess these for another person who may have different health conditions, medications, or sensitivities.
 
----
+3. **Ethical:** The alchemical tradition's ethics of sharing (discussed in curriculum Month 11) are philosophical and relational — they do not contemplate the physical transfer of untested preparations to other people.
 
-### On Frater Albertus's Mandate
-
-Frater Albertus states plainly in *The Alchemist's Handbook*:
-
-> "The aim of all true Adepts is to help relieve a suffering mankind in its physical and spiritual misery. A non-acceptance of this excludes one automatically from the circle of Adepts."
-
-This is the ethical centre of alchemical medicine. The preparation is made in the spirit of genuine service — to the practitioner's own development, to the plant's own elevation, and ultimately to the relief of suffering. Personal profit, vanity, and self-aggrandisement are not merely ethically prohibited — the tradition holds that they are practical disqualifiers. A Work undertaken for gain will not proceed. This is not a moral judgment imposed from outside; it is a statement about the nature of the Art.
-
-The student who shares a preparation does so as an extension of this mandate: sincerely, transparently, without expectation of return, and in full respect for both the Work and the recipient.
+**Violation of this prohibition is grounds for immediate administrative removal from the Academy.**
 
 ---
 
-### Regulatory Notice
+### Preparations Are Not for Diagnosis or Treatment
 
-**Disclaimer:** This notice provides general educational information only and does NOT constitute legal advice.
+Self-produced alchemical preparations are not intended, designed, or appropriate for:
+- Diagnosing any disease, disorder, condition, or symptom
+- Treating, curing, mitigating, or preventing any disease, disorder, condition, or symptom
+- Replacing or supplementing any prescribed medication without the guidance of the prescribing physician
 
-In many jurisdictions, the production and distribution of unlicensed medicinal preparations — even herbal or traditional preparations — is subject to strict regulatory oversight and may carry severe legal penalties. **Students are SOLELY responsible for understanding and complying with all legal and regulatory frameworks governing herbal and traditional medicine in their jurisdiction** before producing, possessing, sharing, or distributing any preparation with another person.
-
-When in doubt, students **MUST consult a qualified legal or regulatory professional**. The academy cannot and does not provide legal advice.
-
-The personal use of self-made preparations for private study purposes is generally not regulated in most jurisdictions. Public sale, commercial distribution, and medical claims are regulated in virtually all jurisdictions. **The academy disclaims all liability for any regulatory violations, legal penalties, or other legal consequences incurred by the student.**
+The curriculum's use of traditional alchemical language — "medicine," "healing," "virtue," "relief of suffering" — reflects the historical and philosophical framework of Paracelsian alchemy. This language describes the tradition's own understanding of the Work; it does not constitute any medical claim, instruction, or endorsement by the Academy.
 
 ---
 
-*Student acknowledgement of this document is required before Year One Month 11. By signing, the student affirms full understanding of all inherent risks associated with spagyric preparations, including medical, legal, and financial risks, and agrees to release TTAO Inner Academy, its Headmaster, Guides, and affiliates from any and all liability for injuries, health issues, damages, losses, or legal penalties incurred through the production, use, or sharing of preparations.*
+### Terminology — Procedurally Complete
+
+Within this curriculum, the primary competency test for Year One is the production of a **Procedurally Complete Plant Stone** — a preparation that demonstrates correct execution of the spagyric separation, calcination, and cohobation process as described in the curriculum.
+
+"Procedurally Complete" means:
+- The correct procedure was followed as an educational matter
+- The student can demonstrate understanding of what was done and why
+
+"Procedurally Complete" does **not** mean:
+- The preparation has been tested or assayed for chemical composition
+- The preparation has been verified as safe for any use
+- The Academy has certified or endorsed the preparation in any way
+
+No language in this curriculum — including "verified," "elevated," "potentised," or similar terms drawn from traditional alchemical vocabulary — constitutes a product claim, safety certification, or medical endorsement by the Academy.
+
+---
+
+### Oregon-Specific Note
+
+Oregon law governs this Academy's operations. Oregon Health Authority and Oregon Board of Pharmacy regulations apply to the manufacture and distribution of therapeutic substances within Oregon. This Academy does not manufacture or distribute any substance. Students who independently produce preparations in Oregon are responsible for understanding and complying with all applicable Oregon regulations regarding those preparations.
+
+---
+
+*Student acknowledgement of this document is required before Year One Month 11. By acknowledging, the student affirms full understanding of the above terms and agrees to release TTAO Inner Academy, its Headmaster, Guides, and affiliates from any and all liability arising from any use of any preparation the student independently produces. This release is governed by the laws of the State of Oregon.*
 
 > *TTAO Inner Academy — Safety Document E.4*
