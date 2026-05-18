@@ -155,4 +155,4 @@ Oregon Revised Statutes Chapter 675 governs the practice of psychology, clinical
 
 *Student acknowledgement of this document is required before beginning Year One Month 6 inner work. By signing, the student affirms full understanding of all inherent psychological risks and agrees to release TTAO Inner Academy, its Headmaster, Guides, and affiliates from any and all liability for psychological distress, injury, or adverse outcomes incurred during or as a result of inner work practices. This release is governed by the laws of the State of Oregon.*
 
-> *TTAO Inner Academy — Safety Document E.2 — Revised*
+> *TTAO Inner Academy — Safety Document E.2*
