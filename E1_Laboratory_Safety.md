@@ -32,7 +32,7 @@ This document covers general laboratory safety applicable to all tiers. Specific
 
 | Document | Applies To | Must Be Signed |
 | -------- | ---------- | -------------- |
-| **E.1 — General Laboratory Safety** (this document) | All tiers, Year One onward | Before Year One, Month 3 |
+| **E.1 — General Laboratory Safety** (this document) | All tiers, Year One onward | Before Month 3, Year One |
 | **E.6 — Biological Safety** | Year Two onward (wet/water work) | Before Year Two, Month 1 |
 | **E.3 — Mineral & Advanced Laboratory Safety** | Year Three onward | Before Year Three, Month 1 |
 
@@ -83,9 +83,7 @@ This document covers general laboratory safety applicable to all tiers. Specific
 
 ### Biological Safety — Cross-Reference
 
-**Year Two students working with collected rainwater, dew, and long putrefaction processes must read and acknowledge Safety Document E.6 — Biological Safety before beginning Year Two, Month 1.** Failure to observe biological safety protocols during wet-path work poses risks not addressed by chemical safety protocols alone.
-
-E.1 does not substitute for E.6.
+**Year Two students working with collected rainwater, dew, and long putrefaction processes must read and acknowledge Safety Document E.6 — Biological Safety before beginning Year Two, Month 1.** Failure to observe biological safety protocols during wet-path work poses risks not addressed by chemical safety protocols alone. E.1 does not substitute for E.6.
 
 ---
 
@@ -93,8 +91,8 @@ E.1 does not substitute for E.6.
 
 | Tier | Required PPE |
 | ---- | ------------ |
-| Year One | Safety glasses or goggles (whenever heat is in use); heat-resistant gloves (for calcination); nitrile chemical-resistant gloves (for solvent and mineral salt work); dedicated lab clothes or apron |
-| Year Two | All of Year One; face protection when handling open putrefaction vessels |
+| Year One | Safety glasses or goggles (whenever heat is in use); heat-resistant gloves (for calcination); dedicated lab clothes or apron |
+| Year Two | All of Year One; nitrile chemical-resistant gloves (for solvent and mineral salt work); face protection when handling open putrefaction vessels |
 | Year Three | All of Year Two; full-coverage eye protection (chemical splash goggles); acid-resistant gloves for corrosive solvent work *(see E.3)* |
 
 ---
