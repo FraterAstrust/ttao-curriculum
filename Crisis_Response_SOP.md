@@ -362,14 +362,14 @@ If the student is ready, restore portal access and recommend a modified re-entry
 
 **Re-Entry Recommendations:**
 
-- **Start with foundational work:** Review Appendix E.4 (Grounding & Integration Protocols) before resuming inner work
+- **Start with foundational work:** Review Safety Document E.2 (Psychological Safety & Duty of Care) — specifically the contraindication list and Mandatory Cessation Thresholds — before resuming any inner work practices.
 - **Reduce intensity:** Pause advanced practices (e.g., deep trance, shadow work) and focus on gentler techniques (e.g., breath work, simple visualization)
 - **Increase check-ins:** Schedule weekly or bi-weekly one-on-one sessions for the first month
-- **Set boundaries:** Encourage the student to honor Appendix E.5 (When to Pause Inner Work) and communicate early if distress re-emerges
+- **Set boundaries:** Encourage the student to communicate early if distress re-emerges, and remind them that pausing inner work at any point is always available without penalty
 
 **Example Message:**
 
-> "I'm restoring your portal access now. I'd recommend starting with the grounding practices in Appendix E.4 and taking things slowly for the first few weeks. Let's plan to check in weekly for the next month so I can support you as you ease back in. If at any point things feel overwhelming, please let me know right away—we can always pause again. There's no penalty for taking care of yourself."
+> "I'm restoring your portal access now. I'd recommend starting with the foundational practices from Year One — the basic meditation sitting and nature observation — and taking things slowly for the first few weeks. Let's plan to check in weekly for the next month so I can support you as you ease back in. If at any point things feel overwhelming, please let me know right away — we can always pause again. There's no penalty for taking care of yourself."
 
 ---
 
@@ -414,7 +414,7 @@ Before revoking access, the Headmaster must issue one formal written warning tha
 >
 > I'm writing to address a serious concern about your participation in the academy. Over the past \[timeframe], you have \[specific behavior: e.g., continued advanced shadow work despite multiple recommendations to pause, posted graphic descriptions of self-harm in the shared journal space, refused to seek external support despite ongoing suicidal ideation].
 >
-> This behavior violates the academy's safety protocols (specifically Appendix E.5: When to Pause Inner Work) and puts your well-being at risk. It also affects the safety and well-being of other students in the community.
+> This behavior violates the academy's safety protocols (specifically Safety Document E.2: Psychological Safety & Duty of Care) and puts your well-being at risk. It also affects the safety and well-being of other students in the community.
 >
 > **Required Action:** You must \[specific corrective action: e.g., schedule an appointment with a licensed therapist and provide confirmation of ongoing care, cease posting graphic content in shared spaces, agree to pause advanced inner work until cleared by a mental health professional].
 >
@@ -474,12 +474,23 @@ If a student discloses information that *appears to indicate* child abuse or abu
 2. **The student's jurisdiction** (mandatory reporting laws vary by country and state/province)
 3. **The Headmaster's jurisdiction** (where the Headmaster is located)
 
-**General Guidance (Informational Only - Not Legal Advice):**
+**Oregon-Specific Reference (Informational Only — Not Legal Advice):**
+
+The Academy operates under Oregon law. Oregon's mandatory reporting statutes include:
+
+- **ORS 419B.010** — Mandatory reporting of child abuse. Oregon law designates certain categories of persons as mandatory reporters when they have reasonable cause to believe a child has suffered abuse or neglect. Whether an educational programme administrator is a designated mandatory reporter under this statute depends on the specific circumstances and should be assessed with qualified legal counsel.
+- **ORS 430.735** — Mandatory reporting of abuse of vulnerable adults (elderly or persons with disabilities who receive services). The same caveat applies regarding mandatory reporter status.
+
+These statutes are cited for reference only. They do not constitute legal advice. Academy personnel who receive a disclosure that may trigger reporting obligations should consult qualified legal counsel promptly.
+
+**General Guidance (Informational Only — Not Legal Advice):**
 
 - **If the student reports being a minor (under 18):** In many jurisdictions, educators and program administrators *may* be legally required to report suspected child abuse to local authorities. Academy personnel will act based on their interpretation of such laws.
 - **If the student reports being an adult:** Mandatory reporting for adult abuse is less common but *may* exist if the adult is classified as a "vulnerable adult" (e.g., elderly, disabled, dependent on a caregiver). Academy personnel will act based on their interpretation of such laws.
 
 **TTAO Inner Academy personnel are NOT required to investigate, verify, or confirm the abuse.** The academy's role is strictly limited to potentially reporting the disclosure to the appropriate authorities, as interpreted by academy personnel, and letting them investigate. The academy disclaims any responsibility for the outcome or consequences of such reports.
+
+**Guide conduct in mandatory reporting situations** is additionally governed by the Guide Code of Conduct & Educational Facilitator Agreement, which requires immediate notification to the Headmaster whenever a student discloses information suggesting abuse of a minor or vulnerable adult.
 
 ---
 
@@ -674,8 +685,35 @@ This Crisis-Response SOP should be reviewed and updated annually, or whenever:
 - The academy expands to new countries with different crisis infrastructure
 - A crisis situation reveals gaps in the current protocol
 
-**Last Reviewed:** \[Date]  
+**Last Reviewed:** \[Date]
 **Next Review Due:** \[Date + 1 year]
+
+---
+
+## Part XI: Scope and Termination of Obligations
+
+**This SOP applies exclusively to currently enrolled students.**
+
+The Academy's crisis-response obligations under this SOP arise from the educational relationship between the Academy and its enrolled students. That relationship — and the obligations it creates — formally terminates upon the student's completion of Year Three, Month Twelve, as established in Safety Document E.5 (Community Ethics Agreement).
+
+After programme completion:
+
+- The Academy has no ongoing duty of care to former students.
+- This SOP does not apply to contact from former students, however distressing.
+- If a former student contacts the Academy in apparent crisis, Academy personnel may, at their discretion, provide crisis resource information (as listed in Part VII) as a courtesy. This does not constitute the resumption of any duty of care or the re-activation of this SOP.
+- Former students in crisis should contact emergency services or crisis lines directly.
+
+**Guide obligations under this SOP terminate** when the Guide's assigned student completes the programme or when the Guide's facilitation role ends, as defined in the Guide Code of Conduct & Educational Facilitator Agreement.
+
+---
+
+## Related Documents
+
+This SOP should be read in conjunction with:
+
+- **Safety Document E.2** — Psychological Safety & Duty of Care (defines contraindications, Mandatory Cessation Thresholds, and the referral pathway)
+- **Safety Document E.5** — Community Ethics Agreement (defines termination of oversight at programme completion)
+- **Guide Code of Conduct & Educational Facilitator Agreement** — defines the scope and limits of Guide conduct in all crisis-adjacent situations, including mandatory notification requirements
 
 ---
 
@@ -683,5 +721,7 @@ This Crisis-Response SOP should be reviewed and updated annually, or whenever:
 
 ---
 
-**TTAO Inner Academy**  
+**TTAO Inner Academy**
 *Solve et Coagula*
+
+*This document is governed by the laws of the State of Oregon.*

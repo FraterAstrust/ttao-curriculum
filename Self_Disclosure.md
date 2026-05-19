@@ -35,7 +35,17 @@ This intake form is the first step in your enrollment process for The Tao of Alc
 
 ## Section 1: Demographics & Contact Information
 
+### 1A. Age Verification
 
+**Applicants must be 18 years of age or older to participate in this programme.**
+
+**Date of Birth:**
+
+---
+
+**By providing your date of birth above, you confirm that you are 18 years of age or older as of the date of this application. The Academy reserves the right to verify age and to administratively withdraw any student who misrepresents their age at enrollment.**
+
+---
 
 ### 1B. Contact Information
 
@@ -115,7 +125,7 @@ In your own words, describe what draws you to this work. What are you hoping to 
 
 ### 2.3 Understanding the Oath's Exclusion of Personal Enrichment
 
-The TTAO Inner Academy curriculum includes an ethical oath (Appendix E.1) that explicitly excludes the pursuit of alchemy for personal material enrichment. Students are asked to affirm that their intention is aligned with transformation, service, and the Great Work—not wealth, power, or ego gratification.
+The TTAO Inner Academy curriculum includes an Alchemical Oath — presented in Year One, Month 1, Week 1 of the curriculum — that explicitly excludes the pursuit of alchemy for personal material enrichment. Students are asked to affirm that their intention is aligned with transformation, service, and the Great Work — not wealth, power, or ego gratification.
 
 **In a short paragraph, describe your relationship to this requirement.** Do you understand it? Do you agree with it? How does it sit with your own intentions?
 
@@ -238,7 +248,39 @@ If yes, please describe. If no, write "None."
 
 ---
 
-### 4.3 Current Mental Health Support
+### 4.3 Physical Health Screening
+
+The laboratory curriculum involves heat, flammable materials, plant matter, biological processes (Year Two), and mineral/corrosive materials (Year Three). The following physical conditions are relevant to safe participation. This is not a disqualification checklist — it is a prompt for additional precautions or medical consultation before the relevant tier of work begins.
+
+**Please check any of the following that currently apply to you:**
+
+☐ I have a chronic respiratory condition (e.g., asthma, COPD, chronic bronchitis) that may be affected by calcination particulates or chemical vapours.
+
+☐ I am currently immunocompromised (due to illness, medication, or other cause) in a way that may affect my response to microbiological exposure.
+
+☐ I have a known severe allergy to plant material that may be relevant to Year One herb work.
+
+☐ I am currently pregnant, or anticipate becoming pregnant during the three-year programme.
+
+☐ I have a skin condition that affects my ability to use standard nitrile or latex gloves.
+
+☐ **None of the above apply to me.**
+
+**If you checked any of the above,** briefly describe the condition and what accommodations or precautions you intend to take:
+
+---
+
+---
+
+---
+
+---
+
+**Note:** The Academy does not assess physical health conditions or prescribe accommodations. Students who check any of the above are encouraged to consult their physician before beginning the relevant tier of work (Year One: respiratory/allergy; Year Two: immunocompromised/pregnancy; Year Three: all of the above plus mineral hazards). Safety Documents E.1, E.6, and E.3 describe the specific hazards relevant to each tier.
+
+---
+
+### 4.4 Current Mental Health Support
 
 **Are you currently working with a therapist, counselor, psychiatrist, or other mental health professional?**
 
@@ -262,12 +304,16 @@ By completing this intake form and submitting it for review, I acknowledge and a
 ☐ I confirm that I have diligently read, fully understood, and *accept the terms and conditions* presented in the following foundational documents of the TTAO Inner Academy curriculum:
 
 -   **TTAO Three-Year Practical Alchemy Curriculum**: This includes the overarching framework of the educational program.
--   **Appendix E.1 (The Alchemical Oath)**: I understand and accept the ethical foundation and the explicit exclusion of personal material enrichment as a goal of this work.
--   **Appendix E.2 (Psychological Safety & Duty of Care)**: I have reviewed the contraindications for inner work and acknowledge the psychological risks inherent in deep introspective practices. I confirm I am aware of the academy's strict limitations regarding psychological support.
--   **Appendix E.3 (Mineral & Advanced Laboratory Safety)**: I understand the specific hazards associated with advanced laboratory work, particularly with mineral and corrosive materials, and accept full personal responsibility for implementing safety measures.
--   **Appendix E.4 (Medicinal Preparations: Disclaimer & Ethics)**: I understand that spagyric preparations are experimental and not regulated medicines, and I accept full personal responsibility for my decisions regarding their use or sharing.
--   **Appendix E.5 (Community Conduct, Confidentiality & Ethics Agreement)**: I agree to abide by the stipulated conduct and confidentiality guidelines.
--   **Crisis-Response Standard Operating Procedure (SOP)**: I have reviewed and understand the internal guidelines for how the academy *may* respond to student crises, recognizing that this SOP does not create a professional duty of care or make the academy responsible for my personal crisis management.
+-   **Safety Document E.1 (General Laboratory Safety)**: I understand the baseline laboratory safety requirements that apply from Year One onward, including fire, heat, alcohol, glassware, ventilation, PPE, and waste disposal.
+-   **Safety Document E.2 (Psychological Safety & Duty of Care)**: I have reviewed the contraindications for inner work and acknowledge the psychological risks inherent in deep introspective practices. I confirm I am aware of the academy's strict limitations regarding psychological support.
+-   **Safety Document E.4 (Personal Use of Self-Produced Preparations: Disclaimer & Ethics)**: I understand that spagyric preparations are experimental and not regulated medicines, that the Academy sells educational instruction only and does not manufacture or supply any products, and that I accept full personal responsibility for any decisions I make regarding personal use of preparations I independently produce.
+-   **Safety Document E.5 (Community Ethics Agreement)**: I agree to abide by the stipulated conduct and confidentiality guidelines, and I understand that the Academy's duty of care terminates upon my completion of the programme.
+-   **Crisis-Response Standard Operating Procedure (SOP)**: I have reviewed and understand the internal guidelines for how the academy *may* respond to student crises, recognizing that this SOP does not create a professional duty of care or make the academy responsible for my personal crisis management, and that it applies only during active enrollment.
+
+**Documents requiring separate acknowledgement at the appropriate tier — not required at enrollment but noted here for awareness:**
+
+-   **Safety Document E.6 (Biological Safety)** — required before Year Two, Month 1 (wet-path and putrefaction work)
+-   **Safety Document E.3 (Mineral & Advanced Laboratory Safety)** — required before Year Three, Month 1 (antimony and corrosive solvent work)
 
 **I explicitly acknowledge that my participation in the academy is conditioned upon my understanding and acceptance of these documents, and that they define the strict boundaries of the academy's offerings and my personal responsibilities.**
 
@@ -290,10 +336,10 @@ By completing this intake form and submitting it for review, I acknowledge and a
 **PLEASE READ CAREFULLY. THIS SECTION IS A LEGALLY BINDING RELEASE OF LIABILITY.**
 
 ☐ I expressly acknowledge, understand, and agree that participation in the TTAO Inner Academy curriculum involves inherent and unforeseeable risks, including but not limited to:
-    *   **Physical Risks:** Risks associated with laboratory work (e.g., exposure to heat, fire, corrosive materials, toxic substances, glassware breakage, injury from tools, property damage), as detailed in E.1 and E.3.
-    *   **Psychological Risks:** Risks associated with deep inner work (e.g., emotional distress, psychological destabilization, exacerbation of pre-existing mental health conditions, dissociation, intrusive thoughts), as detailed in E.2.
-    *   **Legal Risks:** Risks related to the production, possession, or sharing of spagyric preparations (e.g., regulatory violations, legal action), as detailed in E.4.
-    *   **Financial Risks:** The possibility of no specific alchemical or personal outcome being achieved, and financial investment in materials, equipment, or the program itself, as detailed in E.5.
+    *   **Physical Risks:** Risks associated with laboratory work (e.g., exposure to heat, fire, corrosive materials, toxic substances, biological materials, glassware breakage, injury from tools, property damage), as addressed in Safety Documents E.1, E.6, and E.3.
+    *   **Psychological Risks:** Risks associated with deep inner work (e.g., emotional distress, psychological destabilization, exacerbation of pre-existing mental health conditions, dissociation, intrusive thoughts), as addressed in Safety Document E.2.
+    *   **Legal Risks:** Risks related to the independent production, possession, or handling of spagyric preparations and associated materials (e.g., regulatory violations, legal action), as addressed in Safety Document E.4.
+    *   **Financial Risks:** The possibility of no specific alchemical or personal outcome being achieved, and financial investment in materials, equipment, or the program itself. The Academy sells educational instruction only; it does not guarantee any result, outcome, or attainment.
 
 **I VOLUNTARILY ASSUME ALL SUCH RISKS**, known and unknown, even if arising from the negligence of TTAO Inner Academy, its Headmaster, Guides, contractors, affiliates, or employees.
 
@@ -337,17 +383,29 @@ By completing this intake form and submitting it for review, I acknowledge and a
 
 ## For Headmaster Use Only: Screening Flag Reference Table
 
-| **Flag Category**                                  | **Screening Criteria**                                              | **Administrative Action (Educational Context Only)**                                                                                                                                                                                                            |
-| -------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+### Psychological Flags
 
-| **Active Suicidal Ideation**                       | Box checked in Section 4.2                                          | **Pause enrollment for administrative review.** Advise immediate contact with external crisis lines/emergency services. Academy may apply crisis protocol (as per SOP). Do not grant portal access until self-reported crisis resolved and student confirms readiness for *educational participation*. |
-| **Recent Psychiatric Hospitalization**             | Hospitalization within past 12 months                               | **Pause enrollment for administrative review.** Request one-on-one session to assess self-reported current stability for *educational participation*. Enrollment *may* proceed with note if student confirms stability and has ongoing external professional support. |
-| **Dissociative or Psychotic Disorder**             | Diagnosed dissociative or psychotic disorder                        | **Pause enrollment for administrative review.** Request one-on-one session. Enrollment *may* proceed with modified curriculum (e.g., no deep trance work, no unsupervised visualization) if student confirms stable external professional support.          |
-| **Active PTSD or Recent Self-Harm**                | PTSD in acute phase or self-harm within 6 months                    | **Enroll with administrative note.** Recommend student work with licensed therapist concurrently. Monitor for self-reported escalation. Academy *may* administratively pause inner work if self-reported distress escalates.                               |
-| **Active Addiction or Early Recovery**             | Less than 6 months sober                                            | **Pause enrollment for administrative review.** Recommend student prioritize recovery. May reapply after 6 months of self-reported stable sobriety.                                                                                                            |
-| **Professional Advice Against Inner Work**         | Mental health professional advised against meditation/visualization | **Pause enrollment for administrative review.** Request written clearance from student's external provider before proceeding.                                                                                                                             |
-| **Psychiatric Medication Affecting Consciousness** | Open-text response indicates significant medication effects         | **Enroll with administrative note.** Document self-reported medication. Monitor for self-reported interactions with inner work (e.g., blunted imagery, emotional flatness). *Suggest* student consult external professional for adjustments.               |
-| **No Flags**                                       | None of the above apply                                             | **Enroll.** Standard onboarding process for *educational program*.                                                                                                                                                                                       |
+| **Flag Category** | **Screening Criteria** | **Administrative Action (Educational Context Only)** |
+| -------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Active Suicidal Ideation** | Box checked in Section 4.2 | **Pause enrollment for administrative review.** Advise immediate contact with external crisis lines/emergency services. Academy may apply crisis protocol (as per SOP). Do not grant portal access until self-reported crisis resolved and student confirms readiness for *educational participation*. |
+| **Recent Psychiatric Hospitalization** | Hospitalization within past 12 months | **Pause enrollment for administrative review.** Request one-on-one session to assess self-reported current stability for *educational participation*. Enrollment *may* proceed with note if student confirms stability and has ongoing external professional support. |
+| **Dissociative or Psychotic Disorder** | Diagnosed dissociative or psychotic disorder | **Pause enrollment for administrative review.** Request one-on-one session. Enrollment *may* proceed with modified curriculum (e.g., no deep trance work, no unsupervised visualization) if student confirms stable external professional support. |
+| **Active PTSD or Recent Self-Harm** | PTSD in acute phase or self-harm within 6 months | **Enroll with administrative note.** Recommend student work with licensed therapist concurrently. Monitor for self-reported escalation. Academy *may* administratively pause inner work if self-reported distress escalates. |
+| **Active Addiction or Early Recovery** | Less than 6 months sober | **Pause enrollment for administrative review.** Recommend student prioritize recovery. May reapply after 6 months of self-reported stable sobriety. |
+| **Professional Advice Against Inner Work** | Mental health professional advised against meditation/visualization | **Pause enrollment for administrative review.** Request written clearance from student's external provider before proceeding. |
+| **Psychiatric Medication Affecting Consciousness** | Open-text response indicates significant medication effects | **Enroll with administrative note.** Document self-reported medication. Monitor for self-reported interactions with inner work (e.g., blunted imagery, emotional flatness). *Suggest* student consult external professional for adjustments. |
+| **No Psychological Flags** | None of the above apply | Proceed to physical flag review below. |
+
+### Physical Health Flags
+
+| **Flag Category** | **Screening Criteria** | **Administrative Action (Educational Context Only)** |
+| -------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Respiratory Condition** | Box checked in Section 4.3 | **Enroll with administrative note.** Flag for review before Year One Month 6 (calcination begins). Remind student at that point to confirm physician clearance for calcination work and to review E.1 ventilation requirements. |
+| **Immunocompromised Status** | Box checked in Section 4.3 | **Enroll with administrative note.** Flag for review before Year Two Month 1. Remind student at that point to confirm physician clearance before beginning wet-path biological work (E.6). |
+| **Severe Plant Allergy** | Box checked in Section 4.3 | **Enroll with administrative note.** Remind student before Year One Month 3 to confirm their chosen herb does not conflict with their known allergens. |
+| **Pregnancy** | Box checked in Section 4.3 | **Enroll with administrative note.** Remind student that cold lead handling (Year Two Month 11), biological work (Year Two), and all mineral work (Year Three) carry elevated risk during pregnancy. Student is solely responsible for consulting their physician and pausing relevant work as appropriate. |
+| **Glove Tolerance Issue** | Box checked in Section 4.3 | **Enroll with administrative note.** Remind student before Year One Month 3 to source appropriate alternative gloves (vinyl, neoprene) before beginning laboratory work. |
+| **No Physical Flags** | None of the above apply | **Enroll.** Standard onboarding process for *educational program*. |
 
 ---
 
