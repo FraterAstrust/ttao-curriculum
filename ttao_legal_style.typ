@@ -5,29 +5,12 @@
 // Also imports ttao_style.typ automatically.
 // ============================================================
 
-#import "../ttao_style.typ": *
+#import "ttao_style.typ": *
 
 // ── Additional colours ───────────────────────────────────────
 #let ttao-navy     = rgb("#1A237E")
 #let ttao-forest   = rgb("#1B5E20")
 #let ttao-amber    = rgb("#E65100")
-
-// ── Appendix document banner ─────────────────────────────────
-#let appendix-banner(code, title, subtitle) = block(
-  fill: ttao-mid,
-  inset: (x: 1.5em, y: 1.2em),
-  radius: 5pt,
-  width: 100%,
-  {
-    set text(fill: white)
-    text(size: 9pt, fill: ttao-gold)[TTAO INNER ACADEMY — SAFETY DOCUMENT #code]
-    linebreak()
-    text(size: 20pt, weight: "bold")[#title]
-    linebreak()
-    v(0.2em)
-    text(size: 10pt, style: "italic", fill: ttao-rule)[#subtitle]
-  },
-)
 
 // ── Bifurcated liability notice ───────────────────────────────
 // Full bifurcated header block (place at top of every appendix)

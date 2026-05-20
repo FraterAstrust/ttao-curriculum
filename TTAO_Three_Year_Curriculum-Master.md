@@ -1845,7 +1845,9 @@ The Golden Chain is closed — and opened anew.
 
 ---
 
-## APPENDIX C — Correspondence Table
+## APPENDIX C — Correspondence Tables
+
+### Planetary Correspondences
 
 | Planet | Metal | Day | Plant (examples) | Body Part | Virtue | Vice |
 | ------ | ----- | --- | ---------------- | --------- | ------ | ---- |
@@ -1859,13 +1861,26 @@ The Golden Chain is closed — and opened anew.
 
 > *(From PRS Bulletin No. 1 Primary Relationships table, extended with traditional plant attributions.)*
 
----
+### The Ten Sephiroth: Alchemical Correspondences
+
+| Sephira | Number | Planet | Metal | Alchemical Meaning |
+| ------- | ------ | ------ | ----- | ------------------ |
+| Kether | 1 | Primum Mobile | — | The prima materia; the undivided source; the seed |
+| Chokmah | 2 | Zodiac/Stars | — | The first creative movement; the volatile principle |
+| Binah | 3 | Saturn ♄ | Lead | The first fixed form; the Salt principle; the vessel |
+| Chesed | 4 | Jupiter ♃ | Tin | Expansive mercy; the stage of growth and multiplication |
+| Geburah | 5 | Mars ♂ | Iron | Severity; calcination; the purifying fire |
+| Tiphereth | 6 | Sun ☉ | Gold | The heart of the Work; the Philosopher's Stone as principle |
+| Netzach | 7 | Venus ♀ | Copper | The Sulphur principle; desire; the vital force in nature |
+| Hod | 8 | Mercury ☿ | Mercury | The Mercury principle; language; the subtle messenger |
+| Yesod | 9 | Moon ☽ | Silver | The astral vehicle; the universal solvent; dew |
+| Malkuth | 10 | Earth 🜃 | — | The completed Work made physical; Malkuth is the Stone |
 
 ---
 
-## APPENDIX D — Tarot, Qabalah & Numerology Correspondence Table
+## APPENDIX D — Reference Tables and Charts
 
-*Synthesised from PFC, HQ, and NDT. This is the student's primary reference for understanding how the three symbolic systems interlock with the alchemical work.*
+### Tarot, Qabalah, and Numerology Synthesis
 
 | Trump | Title | Number | Hebrew Letter | Path | Sephiroth Connected | Element/Planet | Alchemical Stage/Correspondence |
 | ----- | ----- | ------ | ------------- | ---- | -------------------- | -------------- | ------------------------------ |
@@ -1892,20 +1907,7 @@ The Golden Chain is closed — and opened anew.
 | XX | Judgement | 20 | Shin | 31 | Hod–Malkuth | Fire/Spirit 🜂 | The Rubedo; resurrection; the Stone projecting its virtue |
 | XXI | The World | 21 | Tav | 32 | Yesod–Malkuth | Saturn/Earth ♄ | The completed Magnum Opus; the Stone manifest |
 
-### The Ten Sephiroth: Alchemical Correspondences
-
-| Sephira | Number | Planet | Metal | Alchemical Meaning |
-| ------- | ------ | ------ | ----- | ------------------ |
-| Kether | 1 | Primum Mobile | — | The prima materia; the undivided source; the seed |
-| Chokmah | 2 | Zodiac/Stars | — | The first creative movement; the volatile principle |
-| Binah | 3 | Saturn ♄ | Lead | The first fixed form; the Salt principle; the vessel |
-| Chesed | 4 | Jupiter ♃ | Tin | Expansive mercy; the stage of growth and multiplication |
-| Geburah | 5 | Mars ♂ | Iron | Severity; calcination; the purifying fire |
-| Tiphereth | 6 | Sun ☉ | Gold | The heart of the Work; the Philosopher's Stone as principle |
-| Netzach | 7 | Venus ♀ | Copper | The Sulphur principle; desire; the vital force in nature |
-| Hod | 8 | Mercury ☿ | Mercury | The Mercury principle; language; the subtle messenger |
-| Yesod | 9 | Moon ☽ | Silver | The astral vehicle; the universal solvent; dew |
-| Malkuth | 10 | Earth 🜃 | — | The completed Work made physical; Malkuth is the Stone |
+*Synthesised from PFC, HQ, and NDT. This is the student's primary reference for understanding how the three symbolic systems interlock with the alchemical work.*
 
 ### Personal Numerology Quick Reference *(from NDT)*
 
