@@ -30,7 +30,7 @@
   text(fill: white, weight: "bold")[Title],
   text(fill: white, weight: "bold")[Primary Work],
   text(fill: white, weight: "bold")[Culminating Goal],
-  [1], [Tyro], [The Green Lion], [Plant & Inner Alchemy], [The Plant Stone],
+  [1], [Tyro], [The Green Lion], [Plant & Inner Alchemy], [The Procedurally Complete Plant Stone],
   [2], [Initiate], [The Philosophic Waters], [Water Work & Inner Alchemy], [Mastery of the Water Work],
   [3], [Adept], [The Grey Wolf], [Mineral Work & Inner Alchemy], [Entry into the Mineral Work],
 )

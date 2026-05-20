@@ -94,7 +94,7 @@ The first year grounds the student in the principles of living nature, the three
 == The Primary Competency Test
 
 #hm-note[
-  *The primary competency test for Year One is the formation of a verified Plant Stone.*
+  *The primary competency test for Year One is the formation of a Procedurally Complete Plant Stone.*
   If the Stone is not formed, the student shares their laboratory notes with the headmaster or guide, identifies areas of weakness or misunderstanding, and continues the relevant work. There is no failure limit. What cannot be accepted is advancing to Year Two water work while foundational separation and cohobation are still conceptually unclear to the student.
 ]
 

@@ -8,13 +8,13 @@
 
 === Core Teaching
 
-The ethics of alchemical medicine are central to its efficacy. Personal greed
+The ethics of the alchemical Work are central to its efficacy. Personal greed
 has no place in this Art. As Frater Albertus states: "The aim of all true Adepts
 is to help relieve a suffering mankind in its physical and spiritual misery."
 
 The alchemical oath taken in Week 1 (Silence, Sincerity, Service) is now applied
-to the medicine itself. It is given with full transparency about its nature, and
-only to those who have demonstrated preparation.
+to the preparation itself. It is used with full transparency about its nature, and
+always in accordance with the strict prohibitions on sharing (Safety Document E.4).
 
 #doctrine[
   _"A non-acceptance of the aim to serve mankind excludes one automatically from

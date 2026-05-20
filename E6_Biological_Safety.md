@@ -124,6 +124,6 @@ In any genuine health emergency, contact appropriate medical services directly. 
 
 ---
 
-*Student acknowledgement of this document is required before beginning Year Two Month 5 wet path preparations. By acknowledging, the student affirms full understanding of the biological safety considerations described above and agrees to release TTAO Inner Academy, its Headmaster, Guides, and affiliates from any and all liability arising from wet path or putrefaction work. This release is governed by the laws of the State of Oregon.*
+*Student acknowledgement of this document is required before beginning Year Two Month 5 wet path preparations. Access to Year Two, Month 5 is barred until the student signs this document and passes the corresponding safety quiz.*
 
 > *TTAO Inner Academy — Safety Document E.6*

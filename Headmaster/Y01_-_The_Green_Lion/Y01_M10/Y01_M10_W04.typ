@@ -20,7 +20,7 @@ itself.
 
 - The elevating power of repeated cohobation
 - Characteristics of the Citrinitas (Yellowing)
-- Preparation for Month 11: Medicinal ethics
+- Preparation for Month 11: Alchemical ethics
 
 #inner-work[
   *The Citrinitas Waking Dream*
@@ -31,8 +31,8 @@ itself.
   Notice when images lose their personal character and become symbolic, universal,
   and luminous. A solar quality — warmth without harshness — characterises this
   zone. When you encounter it, remain there. This corresponds to the moment when
-  the cohobation produces a unified and potentized medicine. Record the quality
-  of the light in your journal.
+  the cohobation produces a unified and potentized operative preparation. Record 
+  the quality of the light in your journal.
 ]
 
 === Source Readings — Week 4

@@ -3,19 +3,19 @@
 // ============================================================
 // TTAO Inner Academy — Headmaster's Master Guide
 // YEAR ONE · MONTH ELEVEN
-// "Medicinal Use, Ethics & Dosage"
+// "Traditional Use, Ethics & Dosage"
 // Quarter IV — The First Conjunction
 // ============================================================
 
-#month-banner("One", "Eleven", "Medicinal Use, Ethics & Dosage", "The Alchemical Apothecary — Service through willed intent")
+#month-banner("One", "Eleven", "Traditional Use, Ethics & Dosage", "The Alchemical Art — Service through willed intent")
 
 #v(0.8em)
 
 #hm-note[
-  Month 11 shifts the focus from the laboratory bench to the patient and the
+  Month 11 shifts the focus from the laboratory bench to the individual and the
   world. The pedagogical goal is to instill a profound sense of responsibility
   in the student. An alchemist without ethics is merely a chemist with a hobby.
-  The medicine produced must be handled with the same reverence as the initial
+  The preparation produced must be handled with the same reverence as the initial
   vow. Ensure students understand that dosage is an expression of vibration,
   not volume.
 ]
@@ -31,21 +31,21 @@
   inset: 0.6em,
   text(fill: white, weight: "bold")[Week],
   text(fill: white, weight: "bold")[Title],
-  text(fill: white, weight: "bold")[Laboratory / Apothecary],
+  text(fill: white, weight: "bold")[Laboratory / Practice],
   text(fill: white, weight: "bold")[Inner Work / Ethics],
-  [1], [Dosage & Potency], [Grains and Drops protocol], [Intention of healing],
-  [2], [Ethics & Sincerity], [Pharmaceutical journal begun], [Reviewing the Oath],
+  [1], [Dosage & Potency], [Grains and Drops protocol], [Intention of restoration],
+  [2], [Ethics & Sincerity], [Materia Medica journal begun], [Reviewing the Oath],
   [3], [Contraindications], [Kingdom boundaries], [Microcosmic mapping],
-  [4], [The Offering], [Initial transmission], [The Healing Offering],
+  [4], [The Offering], [Initial transmission], [The Restoration Offering],
 )
 
 #v(0.5em)
 
 *Month 11 Deliverables:*
-- Alchemical Pharmaceutical Journal established
-- Record of first dosage or medicinal trial (if ready)
+- Materia Medica Journal (Personal Reference) established
+- Record of first dosage or personal trial (if ready)
 - One-paragraph assessment of current sincerity
-- Record of the "Healing Offering" in the inner work journal
+- Record of the "Restoration Offering" in the inner work journal
 
 #pagebreak()
 
@@ -79,8 +79,8 @@ Before the student proceeds to Month 12, confirm all of the following:
   text(fill: white, weight: "bold")[Evidence Form],
   [☐], [Dosage guidelines understood — can calculate proper dilution], [Written or oral check],
   [☐], [Ethics of transmission embraced — Oath reaffirmed], [Reflection journal entry],
-  [☐], [Pharmaceutical journal active — records of preparations], [Physical or digital journal shown],
-  [☐], [Healing Offering completed with clear intent], [Journal entry describing intent],
+  [☐], [Materia Medica journal active — records of preparations], [Physical or digital journal shown],
+  [☐], [Restoration Offering completed with clear intent], [Journal entry describing intent],
 )
 
 #v(1em)

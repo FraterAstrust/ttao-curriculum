@@ -39,20 +39,21 @@ the corpse, but the recognisable physical form, the face, the gait, the
 characteristic posture. In health, the Salt is precisely formed and permeable
 enough to allow the Mercury and Sulphur to circulate through it freely.
 
-*Disease as alchemical imbalance.* When the three principles fall out of their
-right relation, disorder results:
+*Alchemical Disharmony: The Loss of Equilibrium.* When the three principles 
+fall out of their right relation, systemic disorder results:
 - *Excess Mercury* (too much volatility): scattered thought, inability to
   concentrate, the person who is always distracted, never grounded.
-- *Excess Sulphur* (too much soul-fire): inflammation, fever, obsessive passion,
-  destructive enthusiasm without the tempering of structure.
-- *Excess Salt* (too much fixity): calcification of the joints, rigidity of
-  thought, depression as the soul's flame dimmed to extinction, the inability
-  to change.
+- *Excess Sulphur* (too much soul-fire): excessive caloric agitation, heightened 
+  vital heat, obsessive passion, destructive enthusiasm without the tempering 
+  of structure.
+- *Excess Salt* (too much fixity): excessive rigidity and stasis of the body, 
+  heaviness of thought, depression as the soul's flame dimmed to extinction, the 
+  inability to change.
 
 === Topics This Week
 
 - Sulphur, Mercury, and Salt in the human being: precise personal meanings
-- Disease as constitutional imbalance of the three principles
+- Alchemical disharmony as the constitutional imbalance of the three principles
 - Recognising excess and deficiency in one's own constitution
 - The body as a diagnostic instrument for the alchemist's self-knowledge
 

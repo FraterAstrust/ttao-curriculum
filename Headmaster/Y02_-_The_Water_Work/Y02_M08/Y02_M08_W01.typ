@@ -17,13 +17,14 @@ reunites the three principles within the living body without any conscious
 direction from the person.
 
 The Archaeus digests food, separating what is useful (to be assimilated) from
-what is waste (to be expelled). It governs wound healing, regulating the
-inflammatory and resolving processes. It manages sleep and waking, the tidal
-rhythms of the vital force. When the Archaeus is functioning harmoniously, the
-three principles remain in their proper relation and health results. When the
-Archaeus is disordered — by wrong diet, wrong environment, wrong thought, or the
-intrusion of external forces not appropriate to the organism's nature — disease
-follows.
+what is waste (to be expelled). It governs the body's self-restoration, 
+maintaining the vital equilibrium and the functional integrity of the organism. 
+It manages sleep and waking, the tidal rhythms of the vital force. When the 
+Archaeus is functioning harmoniously, the three principles remain in their 
+proper relation and vitality is maintained. When the Archaeus is disordered — 
+by wrong diet, wrong environment, wrong thought, or the intrusion of external 
+forces not appropriate to the organism's nature — alchemical imbalance and 
+systemic disharmony follow.
 
 *The Archaeus as the inner laboratory director.* The practitioner who
 understands the Archaeus understands that their own body is conducting a
@@ -47,7 +48,7 @@ force.
 
 - The Archaeus as the body's inner alchemist
 - The Archaeus as organiser of the three principles within the organism
-- Disease as alchemical imbalance: when the Archaeus is disordered
+- Alchemical imbalance: when the Archaeus is disordered
 - The Loci of the Archaeus on the Middle Pillar of the Tree
 - The practitioner's body as a model for laboratory perception
 

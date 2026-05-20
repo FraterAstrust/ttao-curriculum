@@ -37,13 +37,13 @@ This intake form is the first step in your enrollment process for The Tao of Alc
 
 ### 1A. Age Verification
 
-**Applicants must be 18 years of age or older to participate in this programme.**
+**Applicants must be 18 years of age or older to participate in this programme. Verification through a third-party age verification service is required as part of the enrollment process.**
 
 **Date of Birth:**
 
 ---
 
-**By providing your date of birth above, you confirm that you are 18 years of age or older as of the date of this application. The Academy reserves the right to verify age and to administratively withdraw any student who misrepresents their age at enrollment.**
+**By providing your date of birth above, and completing the third-party verification, you confirm that you are 18 years of age or older as of the date of this application. The Academy reserves the right to administratively withdraw any student who misrepresents their age at enrollment.**
 
 ---
 

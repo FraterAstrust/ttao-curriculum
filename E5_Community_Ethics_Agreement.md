@@ -36,6 +36,11 @@ The following agreements govern how students engage within those structures. The
 
 **No proselytising:** The alchemical tradition encompasses a wide range of philosophical and spiritual orientations. Students do not pressure others to adopt their views, practices, or interpretations.
 
+**Annual Mandatory Attestation:**
+Enrolled students are required to complete an annual digital attestation affirming:
+1. "I understand I am strictly forbidden from sharing my preparations with ANY person. The sole exception is professional research labs for testing."
+2. "I acknowledge that the Academy does not authorize or endorse the commercialization of any preparations. If I choose to commercialize any preparation, I do so entirely independently and at my own risk, assuming full responsibility for compliance with all local manufacturing laws as well as FDA/FTC regulations, for which the Academy holds zero liability."
+
 ---
 
 ### Part Two — The Guide Relationship

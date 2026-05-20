@@ -54,7 +54,7 @@ The following are explicitly outside the Guide role. A Guide who is asked to eng
 
 - Accept, handle, receive, or facilitate the transfer of any preparation, material, or substance from any student. If a student offers to share a preparation, the Guide declines immediately and reminds the student of the absolute prohibition in Safety Document E.4.
 
-- Recommend that a student use, continue, or discontinue any preparation they have produced.
+- Recommend that a student use, continue, or discontinue any preparation they have produced. While Safety Document E.4 allows for personal use after independent verification, the Guide's role remains strictly neutral. If asked, the Guide must state: "The Academy's policy on personal use is in E.4; I cannot provide a recommendation or opinion on your specific result."
 
 - Make representations about the efficacy, safety, or quality of any preparation or method described in the curriculum.
 
@@ -85,7 +85,7 @@ The following are explicitly outside the Guide role. A Guide who is asked to eng
 A Guide must notify the Headmaster immediately and in writing if:
 
 - A student discloses or displays signs consistent with imminent risk to their life or the life of another person.
-- A student discloses that they have shared a preparation with another person.
+- A student discloses or even *implies* that they have shared, intend to share, or are commercializing a preparation (e.g., a student posts "My friend tried my Melissa spagyric and loved it!" or mentions selling a preparation). Note: Providing samples to professional research laboratories for the sole purpose of chemical analysis or safety testing is the only permitted form of sharing and does not require reporting.
 - A student discloses or describes a laboratory incident involving injury, chemical exposure, or emergency response.
 - A Guide becomes aware that a student is representing Academy material publicly in a manner that is materially inaccurate or that creates reputational or legal risk for the Academy.
 - A Guide experiences any situation in a student session that causes them concern and for which they do not have clear guidance in this document or the Safety Documents.

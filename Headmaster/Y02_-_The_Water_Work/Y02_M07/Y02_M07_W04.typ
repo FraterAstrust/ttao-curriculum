@@ -31,7 +31,7 @@ colour of the liquid change during cohobation? Does the preparation acquire any
 quality — in scent, in feel, in visual character — that neither the salt nor the
 essence had separately? Record observations without expectation. The purpose of
 this experiment is sensory development and philosophical understanding, not
-production of a usable medicine.
+production of a finished operative result.
 
 After two weeks of gentle digestion, examine the preparation and record its
 characteristics. Compare it to a straightforward plant salt cohobation (the Year

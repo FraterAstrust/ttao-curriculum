@@ -122,7 +122,7 @@
   [☐], [Year Two letter opened and reply written], [Both in journal],
   [☐], [Complete three-year account assembled], [Drawn from journal and Materia Medica],
   [☐], [DES-3 integration paragraph written: attention changed in daily life], [Journal entry],
-  [☐], [Declaration of ongoing practice finalised, signed, dated, and in laboratory], [Physical document],
+  [☐], [Declaration of ongoing practice (including Termination of Oversight) finalised, signed, dated, and in laboratory], [Physical document],
   [☐], [Great Conjunction Gathering attended — full presentation given], [Presence recorded],
 )
 

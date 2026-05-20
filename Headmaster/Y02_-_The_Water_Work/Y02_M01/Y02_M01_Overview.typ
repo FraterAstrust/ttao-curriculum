@@ -83,7 +83,7 @@ Before the student proceeds to Month 2, confirm all of the following:
   [☐], [Undetermined water supply secured (Rain or Dew)], [Photograph of collection],
   [☐], [Gur formation observed and recorded], [Lab journal description],
   [☐], [Elemental separation completed — 4 distinct fractions], [Photograph of bottles],
-  [☐], [Drying temperature for Gur verified below 65°C], [Log of drying process],
+  [☐], [Drying temperature for Gur Recorded Below 65°C], [Log of drying process],
   [☐], [Desoille's basic imagery movements understood], [Vigil journal entries],
 )
 

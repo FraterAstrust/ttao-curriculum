@@ -21,14 +21,15 @@
 - Thoroughly understanding and mitigating ALL risks associated with handling, heating, storing, and disposing of hazardous chemicals.
 - Complying with all applicable hazardous waste disposal regulations.
 - Seeking professional training or consultation from qualified chemists, safety experts, or medical professionals if you are unsure about any aspect of mineral safety.
+- Auditing your own supply chain to ensure reagents comply with local laws, such as California Proposition 65 regarding toxic exposure warnings.
 
 **TTAO Inner Academy, its Headmaster, Guides, and affiliates explicitly DISCLAIM ALL LIABILITY for any injury, illness, chronic health issue, damage, loss, or adverse outcome whatsoever, whether physical, financial, or otherwise, arising from your engagement in mineral or advanced laboratory work.**
 
-**By proceeding with mineral and advanced laboratory work, you fully ASSUME ALL RISKS and RELEASE the Academy from any and all claims. This release is governed by the laws of the State of Oregon.**
+**By proceeding with mineral and advanced laboratory work, the student agrees not to hold the academy liable for injuries resulting from the student's failure to follow posted safety instructions while using self-procured equipment and chemicals. This agreement does not waive liability for gross negligence or intentional misconduct on the part of the academy. This release is governed by the laws of the State of Oregon.**
 
 ---
 
-*This document applies specifically to Year Three mineral work within this online educational program, beginning with the Vinegar of Antimony preparation in Month 1. Students must complete the Year Three Safety Quiz and submit photographic safety verification (described below) before beginning any antimony or corrosive solvent work.*
+*This document applies specifically to Year Three mineral work within this online educational program, beginning with the Vinegar of Antimony preparation in Month 1. Students must complete the Year Three Safety Quiz and submit photographic verification of course progress (described below) before beginning any antimony or corrosive solvent work.*
 
 ---
 
@@ -40,21 +41,31 @@ These materials are genuinely hazardous when mishandled. They are manageable wit
 
 ---
 
-### Photographic Safety Verification — Required Before Mineral Work Begins
+### Photographic Administrative Check of Prerequisite Completion — Required Before Mineral Work Begins
 
-**Because the Academy operates as a remote, online educational institution, the Headmaster cannot physically inspect student workspaces. Visual verification is therefore required before any antimony or corrosive solvent work proceeds.**
+**Because the Academy operates as a remote, online educational institution, the Headmaster cannot physically inspect student workspaces. Submission and acknowledgment of the following evidence is a mandatory instructional prerequisite to ensure the student has engaged with the Year Three safety curriculum before the Safety Quiz is administered.**
 
-Before the Year Three Safety Quiz is administered, the student must submit:
+**This visual review is strictly an administrative check for student progress and curriculum compliance. The academy performs no professional safety inspection, and approval or acknowledgement of visual progress does not certify your workspace is safe or compliant with local laws.**
 
-1. **Ventilation photograph:** A clear photograph showing the ventilation arrangement — the window, fume hood, or exhaust fan setup — with the fan or opening clearly visible. If working outdoors, a photograph of the outdoor workspace.
+As a required educational deliverable for Year Three, Month 1, the student must submit:
 
-2. **PPE photograph:** A clear photograph showing all required PPE assembled and ready: P100 respirator or N95 minimum, chemical splash goggles, nitrile gloves, acid-resistant gloves (if corrosive solvents will be used), and dedicated lab clothing.
+- **Ventilation Preparedness Evidence**: A photograph documenting the student's identification and selection of a workspace with direct ventilation or an outdoor setup, as instructed in Safety Documents E.1 and E.3.
+- **PPE Procurement Evidence**: A photograph showing the student has sourced the required instructional materials for advanced lab work: P100 respirator or N95 minimum, chemical splash goggles, nitrile/acid-resistant gloves, and dedicated lab clothing.
+- **Storage Organizational Evidence**: A photograph showing the student's implementation of the storage protocols described in Document E.3, demonstrating that mineral reagents are sealed and separated from food and living areas.
+- **Emergency Procedural Readiness**: A photograph showing the student has assembled the emergency materials (spill kit, running water access) required by the curriculum’s hazard mitigation modules
 
-3. **Storage photograph:** A clear photograph showing the storage location for stibnite and/or any corrosive solvents — sealed containers, clearly labelled, separated from food preparation and living areas.
+**The Headmaster’s review of these materials is an administrative confirmation of prerequisite completion. This process evaluates the student's adherence to the educational curriculum's preparation requirements only. It does not constitute an inspection, certification, or guarantee of the actual safety or legality of the student’s workspace. All submitted milestone photographs are retained for 7 years in accordance with standard educational record-keeping practices. The student remains 100% solely and entirely responsible for the actual safety of their own environment and the handling of all materials.**
 
-4. **Spill kit photograph:** A clear photograph showing an accessible spill kit or emergency supplies: sand or cat litter for spill absorption, running water access (sink visible, or outdoor hose), and a designated waste container for hazardous material.
+### Personal Ingestion Protocol — Required Before Internal Use of Mineral Preparations
 
-**The Headmaster reviews these photographs and confirms receipt before the Safety Quiz is scheduled. Submission of photographs does not constitute Academy certification of the workspace as safe. The student remains solely responsible for the actual safety of their workspace. The Academy's review is an administrative check for obvious gaps only, not a professional safety inspection.**
+**The Academy provide educational instruction in traditional methods. The decision to personally ingest any self-produced mineral preparation is made solely by the student. Before any internal use of preparations derived from antimony, lead, or other toxic minerals, the student must:**
+
+1. **Document Independent Verification of Inertness:** The student must perform and record their own testing methodology to ensure the preparation has been rendered inert (nontoxic) through the specified alchemical procedures. This documentation is for the student's private educational record and serves as a prerequisite for their own safety decision.
+2. **Symptoms Awareness:** The student must demonstrate understanding of the symptoms of acute and chronic poisoning for the specific minerals used (as tested in the Year Three Safety Quiz).
+
+**Acknowledgment of Experimental Nature and Scientific Gap:**
+
+*"I acknowledge that while traditional alchemical methods aim to render minerals inert, modern toxicology considers these substances hazardous. I assume all risks that the alchemical procedure may not fully eliminate toxicity to a standard recognized by modern medical science. I am 100% solely responsible for the decision to ingest and for verifying that my specific result is nontoxic."*
 
 ---
 
@@ -138,12 +149,13 @@ The plan must address:
 Every student must pass a safety assessment covering:
 
 1. Antimony toxicity pathways (inhalation, skin absorption, ingestion)
-2. Correct ventilation setup for the student's specific workspace
-3. Required PPE for calcination, handling, and corrosive work
-4. Emergency responses: inhalation, skin contact, eye contact, spill, fire
-5. Storage and labelling requirements
-6. Disposal regulations for the student's jurisdiction
-7. Contents of the student's submitted Hazardous Materials Disposal Plan
+2. Symptoms of acute and chronic poisoning for the specific minerals used (e.g., hemorrhagic gastritis for antimony)
+3. Correct ventilation setup for the student's specific workspace
+4. Required PPE for calcination, handling, and corrosive work
+5. Emergency responses: inhalation, skin contact, eye contact, spill, fire
+6. Storage and labelling requirements
+7. Disposal regulations for the student's jurisdiction
+8. Contents of the student's submitted Hazardous Materials Disposal Plan
 
 The quiz is administered by the Headmaster or a designated Guide after photographs and the Disposal Plan have been received and acknowledged. **Mineral work does not begin until the quiz is passed.**
 
@@ -167,6 +179,7 @@ Students located in Oregon:
 
 ---
 
-*Completion of the Year Three Safety Quiz, submission of photographic safety verification, submission of the Hazardous Materials Disposal Plan, and student acknowledgement of this document are mandatory conditions for beginning any antimony or corrosive solvent preparation. By proceeding, the student affirms full assumption of all risks and agrees to release TTAO Inner Academy, its Headmaster, Guides, and affiliates from any and all liability. This release is governed by the laws of the State of Oregon.*
+*Completion of the Year Three Safety Quiz, submission of photographic administrative checks of course progress, submission of the Hazardous Materials Disposal Plan, and student acknowledgement of this document are mandatory conditions for beginning any antimony or corrosive solvent preparation. By proceeding, the student affirms full assumption of all risks and agrees to release TTAO Inner Academy, its Headmaster, Guides, and affiliates from any and all liability. This release is governed by the laws of the State of Oregon.*
 
 > *TTAO Inner Academy — Safety Document E.3*
+

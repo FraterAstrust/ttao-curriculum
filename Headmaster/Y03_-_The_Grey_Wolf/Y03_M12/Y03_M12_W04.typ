@@ -35,6 +35,11 @@ continuation.
 5. *The community connection:* how the practitioner intends to remain in
    contact with the alchemical community — through the academy's ongoing
    gatherings, through correspondence, through guiding others.
+6. *Termination of Oversight:* A formal acknowledgment that the academy's 
+   educational oversight and duty of care formally and fully terminate upon 
+   the signing of this document. The practitioner enters the post-curriculum 
+   phase as an independent practitioner, assuming 100% sole liability for all 
+   future work, including personal ingestion of any preparations.
 
 After signing the declaration, the practitioner keeps it in their laboratory —
 not framed or displayed, but physically present in the working space. It is

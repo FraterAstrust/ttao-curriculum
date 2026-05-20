@@ -29,7 +29,7 @@
 >
 > The three-year structure is a pedagogical framework and suggested rhythm, not a deadline. A student may take three years to complete Year One. A student may require five years to complete the full curriculum. Advancement is determined by demonstrated integration and operative attainment — not by elapsed time.
 >
-> **The primary competency test for Year One is the formation of a verified Plant Stone.** If the Stone is not formed, the student shares their notes with the headmaster or guide, identifies areas of weakness or misunderstanding, and continues the relevant work. There is no failure limit. A true alchemist never gives up. Personal one-on-one sessions are available for students requiring additional guidance.
+> **The primary competency test for Year One is the formation of a Procedurally Complete Plant Stone.** If the Stone is not formed, the student shares their notes with the headmaster or guide, identifies areas of weakness or misunderstanding, and continues the relevant work. There is no failure limit. A true alchemist never gives up. Personal one-on-one sessions are available for students requiring additional guidance.
 >
 > The weekly and monthly structure throughout this document is a *suggested rhythm*. Some students move faster through conceptual months and slower through operative ones. The monthly sequence is an ordered developmental map, not a timetable.
 
@@ -742,7 +742,7 @@ Cohobation — repeated reunion of the separated principles, each cycle elevatin
 
 In the waking dream practice this month, begin your ascent deliberately. Starting from the Dawn state of Month 9, allow the imagery to rise further. Notice when images lose their personal character and become symbolic, universal, luminous. A solar quality — warmth without harshness, light without blinding — characterises this zone. When you encounter it, remain. It corresponds exactly to the moment in the laboratory when repeated cohobations produce a preparation that is noticeably more alive, more fragrant, more unified than any single separation could yield.
 
-Thomas Vaughan teaches that the Anima Mundi — the World Soul — is the animating spirit within the Spiritus Mundi, the same universal life force the alchemist concentrates through the work of reunion. When the three principles are genuinely cohobated at a higher level, what is produced is not merely a more potent medicine — it is a localised intensification of the World Soul within the prepared body. The practitioner who has undergone their own personal calcination, distillation, and cohobation becomes a more effective conduit for this force. The inner and outer Work are one.
+Thomas Vaughan teaches that the Anima Mundi — the World Soul — is the animating spirit within the Spiritus Mundi, the same universal life force the alchemist concentrates through the work of reunion. When the three principles are genuinely cohobated at a higher level, what is produced is not merely a more potent operative preparation — it is a localised intensification of the World Soul within the prepared body. The practitioner who has undergone their own personal calcination, distillation, and cohobation becomes a more effective conduit for this force. The inner and outer Work are one.
 
 What have you separated from yourself over the past nine months? What needs to be reunited, but purified? What would it mean for your Sulphur (your characteristic nature and passion), your Mercury (your vital spirit and intelligence), and your Salt (your body and habitual structure) to be genuinely conjoined at a higher level than they currently are? Journal on this honestly.
 
@@ -760,31 +760,31 @@ What have you separated from yourself over the past nine months? What needs to b
 
 ---
 
-##### MONTH 11 — Medicinal Use, Ethics & Dosage
+##### MONTH 11 — Traditional Use, Ethics & Dosage
 
 **Core Teaching:**
-The completed spagyric preparation — whatever stage it has reached — is a medicine in the true alchemical sense: a substance in which the three principles of the plant have been separated, purified, and reunited at an elevated vibration. Such a preparation acts differently from an herbal tincture or a chemical extract. Its potency is concentrated, and it must be used accordingly.
+The completed spagyric preparation — whatever stage it has reached — is a *philosophical agent* in the true alchemical sense: a substance in which the three principles of the plant have been separated, purified, and reunited at an elevated vibration. Such a preparation acts differently from an herbal tincture or a chemical extract. Its potency is concentrated, and it must be used accordingly.
 
 Dosage is always small: a few grains of the salt with a teaspoon of the liquid essence dissolved in a glass of distilled water. It is never taken undiluted. Effects build over time with sustained use; they are not dramatic in the manner of allopathic drugs.
 
-The ethics of the alchemical medicine are central to its efficacy. The preparation is made with intention; it is used with intention; and it is given, when given to another, with full transparency about what it is and how it has been made. Personal greed has no place in alchemy. Frater Albertus states plainly: "The aim of all true Adepts is to help relieve a suffering mankind in its physical and spiritual misery. A non-acceptance of this excludes one automatically from the circle of Adepts."
+The ethics of the alchemical preparation are central to its efficacy. The preparation is made with intention; it is used with intention; and it is used, if used for the restoration of another, with full transparency about what it is and how it has been made. Personal greed has no place in alchemy. Frater Albertus states plainly: "The aim of all true Adepts is to help relieve a suffering mankind in its physical and spiritual misery. A non-acceptance of this excludes one automatically from the circle of Adepts."
 
 **Topics:**
 
 - Dosage: grains of salt + drops of essence; dilution always
-- The three kingdoms of remedy: why vegetable remedies do not mix with mineral salts
-- Contraindications: what spagyric preparations cannot address, and when to refer elsewhere
-- Duration of treatment: the preparation is not a cure-all; it restores harmonious balance over time
-- Ethics of sharing: who may receive, under what conditions, and with what transparency
-- Keeping records: the alchemical pharmaceutical journal
+- The three kingdoms: why vegetable preparations do not mix with mineral salts
+- Traditional boundaries: what spagyric preparations cannot address, and when to refer to professional medical care
+- Duration of use: the preparation does not "cure" in the clinical sense; it restores harmonious balance over time
+- Ethics of the Work: who may receive, under what conditions, and with what transparency
+- Keeping records: the Materia Medica journal (Personal Reference)
 
 **Inner Work:**
-Make a small offering of your preparation — even a few grains dissolved in water — with a clear intention of healing or blessing for another person or the natural world. Record the experience.
+Make a small offering of your preparation — even a few grains dissolved in water — with a clear intention of restoration or blessing for another person or the natural world. Record the experience.
 
 **Source Readings (assigned):**
 
 - *AH*, Chapter IV — Medicinal Uses (full chapter)
-- *RA*, Chapter Six — Herbal Alchemy (medicinal application)
+- *RA*, Chapter Six — Herbal Alchemy (traditional application)
 
 ---
 
@@ -1079,7 +1079,7 @@ Obtain or cast your natal chart if you have not already done so. Identify the do
 **Source Readings (assigned):**
 
 - *RA*, Chapter Three — Astrology and Alchemy (third reading, natal focus)
-- *AH*, Chapter V — Herbs and Stars (re-reading, with focus on planetary medicine)
+- *AH*, Chapter V — Herbs and Stars (re-reading, with focus on planetary correspondences)
 - *PRS* Bulletins — astronomical timing content as available
 - *NDT*, Chapter 2 — Your Personal Numbers (second reading: how Life Lesson, Soul, and Destiny numbers relate to your astrological constitution); Chapter 6 — The Life of Edgar Cayce as worked example of numerological and cyclical analysis
 - *HQ*, Hermetic Tree of Life Attributions table — planetary sphere attributions in depth (Binah/Saturn, Chesed/Jupiter, Geburah/Mars, Tiphereth/Sun, Netzach/Venus, Hod/Mercury, Yesod/Moon)
@@ -1916,7 +1916,7 @@ The Golden Chain is closed — and opened anew.
 | 3 | Creative, expressive, social | The Empress; the three principles in harmony |
 | 4 | Stable, structured, material | The Emperor; the four elements fixed; the laboratory |
 | 5 | Change, freedom, pivotal | The Hierophant/Lovers; the midpoint decision |
-| 6 | Harmony, healing, responsibility | The Lovers; the chemical wedding; the conjunction |
+| 6 | Harmony, restoration, responsibility | The Lovers; the chemical wedding; the conjunction |
 | 7 | Introspective, mystical, philosophical | The Chariot/Hermit; the sacred number; completion of form |
 | 8 | Power, authority, harvest | Strength/Wheel; the projection of the Stone's virtue |
 | 9 | Compassion, universality, selfless service | The Hermit; the completion of the cycle; Yesod |
@@ -2119,7 +2119,7 @@ The following forms of evidence are acceptable for assessment in the online acad
 
 Students are encouraged to use the dashboard as a secondary laboratory journal — a live record of the work in progress.
 
-For the primary operative test of each year (Plant Stone, verified water preparation, antimony vinegar), students may be asked to demonstrate the product live via video session before the competency marker is recorded. This is not routine for all students but may be requested at the headmaster's discretion.
+For the primary operative test of each year (Plant Stone, Operationally Successful water preparation, antimony vinegar), students may be asked to demonstrate the product live via video session before the competency marker is recorded. This is not routine for all students but may be requested at the headmaster's discretion.
 
 ---
 
@@ -2140,8 +2140,8 @@ The mandatory session is not a disciplinary action. It is a diagnostic tool — 
 
 | Year | Primary Operative Test | Secondary Markers |
 | ---- | ---------------------- | ----------------- |
-| **Year One** | Verified Plant Stone (any stage above simple tincture, produced by correct triple separation and cohobation) | Daily meditation established; journal maintained; Declaration of Intent written; Materia Medica begun |
-| **Year Two** | Verified water preparation (at minimum: fermented and distilled rainwater or dew, cohobated over its own salt) | Natal chart read for alchemical purposes; personal alchemical calendar designed; long circulation begun |
+| **Year One** | Procedurally Complete Plant Stone (any stage above simple tincture, produced by correct triple separation and cohobation) | Daily meditation established; journal maintained; Declaration of Intent written; Materia Medica begun |
+| **Year Two** | Operationally Successful water preparation (at minimum: fermented and distilled rainwater or dew, cohobated over its own salt) | Natal chart read for alchemical purposes; personal alchemical calendar designed; long circulation begun |
 | **Year Three** | Entry into mineral work demonstrated by completion of at least one Via Humida mineral preparation and the Vinegar of Antimony | Alchemical almanac built; personal alchemical spread designed; Year One letter opened and reflected upon; declaration of ongoing post-curriculum Work written |
 
 ---

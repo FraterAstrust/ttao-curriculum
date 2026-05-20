@@ -22,7 +22,7 @@
 
 **TTAO Inner Academy, its Headmaster, Guides, and affiliates explicitly DISCLAIM ALL LIABILITY for any injury, illness, damage, loss, or adverse outcome whatsoever, whether physical, financial, or otherwise, arising from your engagement in laboratory work, even if caused by alleged negligence of the Academy or its personnel.**
 
-**By proceeding with laboratory work, you fully ASSUME ALL RISKS and RELEASE the Academy from any and all claims related thereto.**
+**By proceeding with laboratory work, the student agrees not to hold the academy liable for injuries resulting from the student's failure to follow posted safety instructions while using self-procured equipment and chemicals. This agreement does not waive liability for gross negligence or intentional misconduct on the part of the academy.**
 
 ---
 
@@ -135,6 +135,6 @@ Every laboratory session must be logged in the alchemical journal:
 
 ---
 
-*Student acknowledgement of this document is a mandatory condition for beginning Year One Month 3 laboratory work. By signing, the student affirms full understanding of all inherent risks and agrees to release TTAO Inner Academy, its Headmaster, Guides, and affiliates from any and all liability for injuries, damages, or losses incurred during or as a result of laboratory activities. This release is governed by the laws of the State of Oregon.*
+*Student acknowledgement of this document is a mandatory condition for beginning Year One Month 3 laboratory work. By signing, the student affirms full understanding of all inherent risks and agrees not to hold TTAO Inner Academy, its Headmaster, Guides, and affiliates liable for injuries resulting from the student's failure to follow posted safety instructions. This agreement does not waive liability for gross negligence or intentional misconduct on the part of the academy. This release is governed by the laws of the State of Oregon.*
 
 > *TTAO Inner Academy — Safety Document E.1*

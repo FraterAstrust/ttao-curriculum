@@ -99,7 +99,7 @@ Before the student proceeds to Month 4, confirm all of the following:
   text(fill: white, weight: "bold")[Milestone],
   text(fill: white, weight: "bold")[Evidence Form],
   [☐], [Laboratory space ready — all minimum equipment sourced], [Photograph of workspace],
-  [☐], [Cotton Wick Test recorded — menstruum verified], [Lab journal entry with results],
+  [☐], [Cotton Wick Test recorded — Menstruum Integrity Confirmed], [Lab journal entry with results],
   [☐], [Melissa maceration started — sealed and labelled], [Photograph of flask],
   [☐], [Quarter I Gathering attended], [Presence in session recorded],
 )

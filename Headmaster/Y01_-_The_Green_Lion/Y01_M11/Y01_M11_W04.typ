@@ -20,14 +20,14 @@ integrate the outer preparation with a formal inner work offering.
 
 - Transmission as the goal of the Work
 - Designing an intentional offering
-- Reviewing the alchemical pharmaceutical journal
+- Reviewing the Materia Medica journal
 
 #inner-work[
-  *The Healing Offering*
+  *The Restoration Offering*
 
   Make a small offering of your preparation this week — even just a few grains
-  of salt dissolved in water — with a clear intention of healing or blessing for
-  another person or for the natural world.
+  of salt dissolved in water — with a clear intention of restoration or blessing 
+  for an aspect of the natural world or your own inner path.
 
   This is an act of *projection* in miniature. Record the experience. What did
   it feel like to release the result of eleven months of work?

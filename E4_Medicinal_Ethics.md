@@ -51,7 +51,7 @@ Before considering any internal use of a self-produced preparation, the student 
 - No preparation method used introduces toxic compounds
 - No contraindications exist for the student's individual health situation
 
-**Non-toxic plant preparations** (e.g., Melissa officinalis spagyric) and **toxic mineral preparations** (e.g., any antimony-containing preparation, any lead-containing preparation) are categorically different. **No antimony-containing, lead-containing, mercury-containing, or other toxic mineral preparation may be used internally under any circumstances.** The educational curriculum's discussion of the tradition's medicinal use of mineral preparations is historical and philosophical in nature; it does not constitute instruction or endorsement of internal use of toxic substances.
+**Non-toxic plant preparations** (e.g., Melissa officinalis spagyric) and **toxic mineral preparations** (e.g., any antimony-containing preparation, any lead-containing preparation) are categorically different. **Prepatations containing antimony, lead, mercury, or other toxic mineral preparation may be used internally only after the student has independently verified that the preparation has been rendered nontoxic or inert through the specified alchemical procedures.** The educational curriculum's discussion of the tradition's medicinal use of mineral preparations is historical and philosophical in nature; it does not constitute instruction or endorsement of internal use of toxic substances.
 
 **Condition 2 — Dosage is always small and always diluted.**
 
@@ -59,7 +59,7 @@ Traditional starting dose: a few grains of the salt dissolved with a few drops o
 
 **Condition 3 — Maintain a Materia Medica record.**
 
-The student maintains a personal record of every preparation they consider using: source material, preparation method, planetary association, calcination stage, any effects observed. This record is for the student's own reference.
+The student maintains a personal record of every preparation they consider using: source material, preparation method, planetary association, calcination stage, any effects observed. This record is for the student's private educational reference only and is not submitted for Academy review as a clinical log.
 
 **Condition 4 — Do not substitute alchemical preparations for required medical care.**
 
@@ -71,7 +71,11 @@ If you are ill, injured, or experiencing symptoms requiring diagnosis or treatme
 
 **Under no circumstances may a student share, give, sell, distribute, or otherwise provide any self-produced preparation to any other person.**
 
-This prohibition is absolute. There are no exceptions. It applies regardless of:
+This prohibition is absolute. There are no exceptions. **It applies with heightened severity to mineral preparations (antimony, lead, mercury, etc.). Even if a student believes a mineral preparation to be inert, they may never provide it to any person for any reason, as toxicity can vary based on individual sensitivity, pre-existing health conditions, or medication interactions.**
+
+**The SOLE EXCEPTION to this rule is providing samples to professional research laboratories, universities, or independent testing facilities for the purpose of chemical analysis or safety testing.**
+
+This prohibition applies regardless of:
 - Whether the preparation is plant-based or mineral
 - Whether the recipient is a family member, friend, or fellow student
 - Whether any payment or exchange is involved
@@ -79,7 +83,7 @@ This prohibition is absolute. There are no exceptions. It applies regardless of:
 
 **Reasons this prohibition is non-negotiable:**
 
-1. **Legal:** The manufacture and distribution of unregistered therapeutic substances is regulated under federal and state law. The Academy's educational programme does not exempt any student from applicable regulations. The student bears sole legal responsibility for any distribution of self-produced materials.
+1. **Legal:** The manufacture and distribution of unregistered therapeutic substances is regulated under federal and state law. The Academy's educational programme does not provide instruction in commercial manufacturing and does not exempt any student from applicable regulations. Any student who chooses to commercialize a preparation does so entirely independently and is solely responsible for compliance with all local manufacturing laws and FDA/FTC regulations. The student bears sole legal responsibility for any distribution of self-produced materials.
 
 2. **Safety:** The Academy has no means to assess the quality, purity, or safety of any student's preparation. The student cannot reliably assess these for another person who may have different health conditions, medications, or sensitivities.
 
@@ -110,7 +114,7 @@ Within this curriculum, the primary competency test for Year One is the producti
 
 "Procedurally Complete" does **not** mean:
 - The preparation has been tested or assayed for chemical composition
-- The preparation has been verified as safe for any use
+- The preparation has been authenticated or tested for safety for any use
 - The Academy has certified or endorsed the preparation in any way
 
 No language in this curriculum — including "verified," "elevated," "potentised," or similar terms drawn from traditional alchemical vocabulary — constitutes a product claim, safety certification, or medical endorsement by the Academy.

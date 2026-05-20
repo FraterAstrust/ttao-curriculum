@@ -21,7 +21,7 @@
 
 TTAO is competency-paced, not calendar-paced. The three-year structure is a pedagogical framework and suggested rhythm, not a deadline. A student may take three years to complete Year One. Advancement is determined by demonstrated integration and operative attainment; not by elapsed time.
 
-*The primary competency test for Year One is the formation of a verified Plant Stone.*
+*The primary competency test for Year One is the formation of a Procedurally Complete Plant Stone.*
 If the Stone is not formed, the student shares their notes with the headmaster or guide, identifies areas of weakness or misunderstanding, and continues the relevant work. There is no failure limit.
 
 == Source Texts in Use

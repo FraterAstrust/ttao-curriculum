@@ -16,7 +16,7 @@
   now works at the genuinely novel threshold of border work between vegetable
   and mineral. The key pedagogical point is that this is exploratory, not
   prescriptive: the student is developing perceptual sensitivity to the
-  differences between kingdoms, not producing a medicine. The border cohobation
+  differences between kingdoms, not producing a finished preparation. The border cohobation
   experiment is diagnostic; its results will be unique for every student and
   every preparation. Document carefully; judge nothing prematurely.
 ]

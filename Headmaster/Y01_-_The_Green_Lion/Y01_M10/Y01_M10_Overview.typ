@@ -79,7 +79,7 @@ Before the student proceeds to Month 11, confirm all of the following:
   text(fill: white, weight: "bold")[Milestone],
   text(fill: white, weight: "bold")[Evidence Form],
   [☐], [Cohobation started — Salt and Essence correctly reunited], [Photograph of sealed flask],
-  [☐], [Vessel seal verified — no scent detectable outside the glass], [Lab journal entry],
+  [☐], [Vessel seal confirmed — no scent detectable outside the glass], [Lab journal entry],
   [☐], [Diagnostic test passed — preparation flows like wax when warm], [Lab journal entry],
   [☐], [Desoille Citrinitas movement journaled], [Journal entry describing solar light],
 )

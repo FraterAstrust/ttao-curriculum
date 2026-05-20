@@ -21,7 +21,7 @@ alchemist aligns the work with the cosmic forces that will govern its evolution.
 - Basics of Electional Astrology
 - Choosing auspicious moments for laboratory operations
 - The "Birth" of a preparation: why the start time matters
-- Tracking planetary medicine through Herbs and Stars
+- Tracking planetary correspondences and vital signatures through Herbs and Stars
 
 #inner-work[
   *The Moment of Beginning*
@@ -36,5 +36,6 @@ alchemist aligns the work with the cosmic forces that will govern its evolution.
 
 === Source Readings — Week 2
 
-- #src("AH", "Chapter V — Herbs and Stars (re-reading, planetary medicine)")
+- #src("AH", "Chapter V — Herbs and Stars (re-reading, planetary correspondences)")
 - #src("PRS", "Bulletins — astronomical timing content")
+cal timing content")
