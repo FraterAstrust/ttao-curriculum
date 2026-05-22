@@ -74,14 +74,14 @@ _by Robert Allen Bartlett_
 ==== The Four Elements
 
 #table(
-  columns: (auto, auto, auto, auto),
+  columns: (auto, auto, auto, auto, auto),
   stroke: 0.5pt,
   inset: 0.5em,
-  [*Element*], [*Properties*], [*Nature*], [*Psychology*],
-  [Fire], [Hot & Dry], [Most volatile/active], [Superconscious Mind],
-  [Air], [Hot & Wet], [Volatile], [Selfconscious Mind],
-  [Water], [Cold & Wet], [Fixed (more active)], [Subconscious Mind],
-  [Earth], [Cold & Dry], [Most fixed/passive], [Physical body],
+  [*Element*], [*Symbol*], [*Properties*], [*Nature*], [*Psychology*],
+  [Fire], [🜂], [Hot & Dry], [Most volatile/active], [Superconscious Mind],
+  [Air], [🜁], [Hot & Wet], [Volatile], [Selfconscious Mind],
+  [Water], [🜄], [Cold & Wet], [Fixed (more active)], [Subconscious Mind],
+  [Earth], [🜃], [Cold & Dry], [Most fixed/passive], [Physical body],
 )
 
 - Fire and Air carry the energy of Life (Niter/volatile).
@@ -95,9 +95,9 @@ _by Robert Allen Bartlett_
   "Everything which is generated of its elements is divided into three, namely into Salt, Sulfur, and Mercury. Learn the form which is peculiar to these three. One is liquor, and this is the form of Mercury; one is oiliness which is the form of Sulfur; one is alkali, and this is from Salt." — Paracelsus
 ]
 
-- *Salt (Body):* The matrix or vehicle. Passive medium (Virgin Earth). Subject to Water and Earth. Fixed, consolidating, focusing. Provides the material basis.
-- *Sulfur (Soul):* The consciousness. Volatile principles of Fire and Air. Intellect, "True Will," personal fire. Character of a thing. Divine Spark. Kundalini. _In plants: essential oils._
-- *Mercury (Spirit):* Vital life force / animating spirit / Chi / Prana. Bridges Air and Water, Spiritual World and Material World, Volatile and Fixed. Subtle, spiritualized feminine aspect. _In plants: alcohol._
+- *Salt 🜔 (Body):* The matrix or vehicle. Passive medium (Virgin Earth). Subject to Water and Earth. Fixed, consolidating, focusing. Provides the material basis.
+- *Sulfur 🜍 (Soul):* The consciousness. Volatile principles of Fire and Air. Intellect, "True Will," personal fire. Character of a thing. Divine Spark. Kundalini. _In plants: essential oils._
+- *Mercury ☿ (Spirit):* Vital life force / animating spirit / Chi / Prana. Bridges Air and Water, Spiritual World and Material World, Volatile and Fixed. Subtle, spiritualized feminine aspect. _In plants: alcohol._
 
 - From Sendivogius (_New Chemical Light_, c.1600): "fire began to act on air, and produced Sulfur; air acted on water and produced Mercury; water, by its action on earth, produced Salt. Earth alone, having nothing to act upon, did not produce anything, but became the nurse, or womb, of these three principles."
 - The Sulfur (Consciousness) *directs* the Life Force through the body.
