@@ -21,7 +21,7 @@
 == Overview
 
 #table(
-  columns: (auto, auto, 1fr, 1.5fr, 1.5fr),
+  columns: (auto, auto, auto, auto, auto),
   stroke: 0.5pt + ttao-rule,
   fill: (col, row) => if row == 0 { ttao-mid } else if calc.odd(row) { ttao-pale } else { white },
   inset: 0.6em,

@@ -30,7 +30,7 @@
     },
     footer: context {
       line(length: 100%, stroke: 0.4pt + ttao-rule)
-      set text(size: 8pt, fill: ttao-slate)
+      set text(size: 10pt, fill: ttao-slate)
       grid(
         columns: (1fr, 1fr),
         align(left)[#context counter(page).display("1")],
@@ -38,7 +38,7 @@
       )
     },
   )
-  set text(font: "Libertinus Serif", size: 11pt, fill: ttao-deep)
+  set text(font: "Archemy", size: 13pt, fill: ttao-deep)
   set par(leading: 0.75em, justify: true)
   body
 }
@@ -47,7 +47,7 @@
 #let ttao-headings() = {
   show heading.where(level: 1): it => {
     v(1.8em)
-    text(size: 22pt, weight: "bold", fill: ttao-mid, font: "Libertinus Serif")[#it.body]
+    text(size: 22pt, weight: "bold", fill: ttao-mid, font: "Archemy")[#it.body]
     v(0.3em)
     line(length: 100%, stroke: 1.2pt + ttao-gold)
     v(0.6em)
@@ -61,12 +61,12 @@
   }
   show heading.where(level: 3): it => {
     v(0.9em)
-    text(size: 12pt, weight: "bold", fill: ttao-rust)[#it.body]
+    text(size: 13pt, weight: "bold", fill: ttao-rust)[#it.body]
     v(0.2em)
   }
   show heading.where(level: 4): it => {
     v(0.7em)
-    text(size: 11pt, weight: "bold", fill: ttao-slate)[#it.body]
+    text(size: 12pt, weight: "bold", fill: ttao-slate)[#it.body]
     v(0.1em)
   }
 }
@@ -80,7 +80,7 @@
   inset: (left: 1em, top: 0.6em, bottom: 0.6em, right: 0.8em),
   radius: (right: 3pt),
   width: 100%,
-  text(style: "italic", size: 10.5pt)[#body],
+  text(style: "italic", size: 13pt)[#body],
 )
 
 // Headmaster-only note (not in student syllabus)
@@ -90,8 +90,8 @@
   inset: (left: 1em, top: 0.6em, bottom: 0.6em, right: 0.8em),
   width: 100%,
   {
-    text(weight: "bold", size: 9pt, fill: ttao-rust)[HEADMASTER NOTE \ ]
-    text(size: 10pt)[#body]
+    text(weight: "bold", size: 15pt, fill: ttao-rust)[HEADMASTER NOTE \ ]
+    text(size: 13pt)[#body]
   },
 )
 
@@ -104,7 +104,7 @@
   width: 100%,
   {
     text(weight: "bold", fill: ttao-rust)[⚠ SAFETY \ ]
-    text(size: 10.5pt)[#body]
+    text(size: 13pt)[#body]
   },
 )
 
@@ -116,8 +116,8 @@
   radius: (right: 3pt),
   width: 100%,
   {
-    text(weight: "bold", size: 9pt, fill: ttao-slate)[LABORATORY PRACTICE \ ]
-    text(size: 10.5pt)[#body]
+    text(weight: "bold", size: 15pt, fill: ttao-slate)[LABORATORY PRACTICE \ ]
+    text(size: 13pt)[#body]
   },
 )
 
@@ -129,8 +129,8 @@
   radius: (right: 3pt),
   width: 100%,
   {
-    text(weight: "bold", size: 9pt, fill: rgb("#6B46C1"))[INNER WORK \ ]
-    text(size: 10.5pt)[#body]
+    text(weight: "bold", size: 15pt, fill: rgb("#6B46C1"))[INNER WORK \ ]
+    text(size: 13pt)[#body]
   },
 )
 
@@ -169,12 +169,12 @@
     width: 100%,
     {
       set text(fill: white)
-      text(size: 10pt, fill: ttao-gold)[Year #year · Month #month]
+      text(size: 12pt, fill: ttao-gold)[Year #year · Month #month]
       linebreak()
       text(size: 20pt, weight: "bold")[#subtitle]
       linebreak()
       v(0.2em)
-      text(size: 11pt, style: "italic", fill: ttao-rule)[Theme: #theme]
+      text(size: 13pt, style: "italic", fill: ttao-rule)[Theme: #theme]
     },
   )
 }
@@ -188,9 +188,9 @@
     inset: (x: 1em, y: 0.6em),
     width: 100%,
     {
-      text(size: 9pt, fill: ttao-slate)[WEEK #n]
+      text(size: 13pt, fill: ttao-slate)[WEEK #n]
       linebreak()
-      text(size: 14pt, weight: "bold", fill: ttao-mid)[#title]
+      text(size: 15pt, weight: "bold", fill: ttao-mid)[#title]
     },
   )
   v(0.4em)
@@ -204,11 +204,11 @@
   width: 100%,
   {
     set text(fill: white)
-    text(size: 9pt, fill: ttao-gold)[TTAO INNER ACADEMY — SAFETY DOCUMENT #code]
+    text(size: 13pt, fill: ttao-gold)[TTAO INNER ACADEMY — SAFETY DOCUMENT #code]
     linebreak()
     text(size: 20pt, weight: "bold")[#title]
     linebreak()
     v(0.2em)
-    text(size: 10pt, style: "italic", fill: ttao-rule)[#subtitle]
+    text(size: 14pt, style: "italic", fill: ttao-rule)[#subtitle]
   },
 )
