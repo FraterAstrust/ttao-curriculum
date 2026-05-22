@@ -1,5 +1,5 @@
 #import "../../ttao_style.typ": *
-
+#set text(font: "Archemy" )
 #show: ttao-page
 #ttao-headings()
 
