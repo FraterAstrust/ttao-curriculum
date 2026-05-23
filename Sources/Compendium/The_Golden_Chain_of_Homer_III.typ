@@ -1,391 +1,761 @@
 #import "../../ttao_style.typ": *
 #set text(font: "Archemy")
-
-== The Golden Chain of Homer: Book III
-_author unknown (Utrecht, October 18, 1654) — IGF / Justitius Edition, Inner Garden Foundation, 2025_
-
-#hm-note[
-  Book III is the Adept-tier text. It is not by Kirchweger — the 1781 Rosenkreuzer editors explicitly excluded it as spurious, and the 1762 Latin editor (Dr. Ludovicus Favrat) confirmed the same: *"haec methodus metallorum transmutatoria; spurius ergo partus meritò censetur."* Its anonymous author writes from Utrecht, October 18, 1654 — 69 years before Kirchweger's publication — and his identity remains unknown. He was a miner, smelter, and refiner who spent decades searching, lost everything, and received illumination through prayer. He identifies himself only as a "worthy member of our secret fraternity." Book III applies the cosmological and practical framework of Books I–II to the *mineral kingdom specifically*, and to the *Philosophers' Stone* in particular. It offers three complete Paths (Long Wet, Short Dry, and the Long Way of the Ancient Masters), multiple Multiplication and Augmentation sequences, the Cobalt White Tincture, and the Hylealic Salt extraction from spring earth. This is where Books I and II converge into transmutation practice.
-]
-
-=== Symbol Legend
-All symbols as in Books I and II. Additional symbols appearing in Book III:
-- *Ruach:* Hebrew — spirit, vapour, breath; the volatile mineral spirit distilled in Book III's first operation.
-- *Shamayim:* Hebrew — heaven; used by the Book III author specifically to identify Salt as the "heavenly" foundation of all mineral generation.
-- *Gur:* The first greasy proto-mineral matter (defined in Book I, Ch. XV); in Book III it refers specifically to the greasy viscous double-liquor obtained by the first distillation of the prima materia.
-- *Lutum:* Clay/lute used to seal vessels hermetically against air.
-- *Diana / Doves of Diana:* The white sublimate (semi-fixed Silver Mercury) obtained in the Short Path.
-- *Red Lion:* The fixed red sulphurous salt of the Stone — the male principle.
-- *Three-headed Dragon / Cerberus:* The double viscous liquor (Sulphur + Mercury combined) — the first stage of the conjunction.
-- *Winged Serpent:* Running quicksilver (common ☿) — the vehicle for multiplication.
-- *Bird of Hermes:* The volatile flowers sublimed from Regulus of Antimony — the key to augmentation.
-- *Circular Fire / Fire of Cementation:* The closed-crucible fire technique used in the Short Path.
-- *Mark:* A unit of weight = ½ pound, traditionally divided into 8 ounces or 16 Lots.
-- *Lot:* ½ ounce.
-- *Drachm:* 1/8 ounce = 3.9 g (apothecaries' drachm = 60 grains).
-- *Quintal / Centner:* 100 pounds (local variation).
-
-=== Preface by the Anonymous Author (Utrecht, October 18, 1654)
-"Dear friend! You will probably wonder why I have written this third part of the Golden Chain, since the first two parts are already perfectly sufficient for the children of Wisdom. However, in the first two parts, the whole subject was presented only in a general way. Thus, I have finally yielded after having been convinced by much persuasion, to impart these few words as my last swan song. I write to the humble and the pious, because they are sincere. Now, if you are truly honest and sincere before God and your fellow men, then the Almighty will not deny you this gift of grace. This part concerns in particular the metals and their transmutation, both particularly and universally. Do not trust any man, for hardly one among a thousand is honest — this way you will fare well and end up well."
-
-=== The Author's Autobiography — Six Years of Grief
-The author begins with a detailed personal history. As a young man he learned chemistry, worked in mines as a smelter and refiner, entered chemical laboratories, and read widely. For years he could not identify the prima materia, nor understand the true dissolution: *"For just as there are many laboratory workers, so there are many matters."* He spent years working experimentally on a matter that pleased him, but could obtain neither tincture nor even a product to buy a pair of old shoes.
-
-He was abandoned by false friends who took money from him, persecuted him when he had no more to give, and sued him for borrowed gold. "I spent at least six years in grief and sorrow, in misery." Then: *"I left all futile laboratory techniques behind. I lived in silence for several years. I began to pray with all my heart and sincerely sought the one to whom my soul loved. And when I found it, at the same time I received a light in nature — and I learned to recognise where to find our primordial chaos."*
-
-He then spent more years travelling — finding the *matter* but not its secret dissolution. He received money and guidance from rare, unnamed friends (*"that is how I must call them, because they are scarce and do not want to be known"*), eventually arriving at the truth. His warning to the reader: *"Avoid gold-seeking men like the plague. Fear God and have Him before your eyes."*
-
-=== The Reason Others Fail — The Common Errors Diagnosed
-The author identifies why all prior practitioners failed:
-+ Those using common Quicksilver (☿): *"Gold cannot give more than it has of itself"* — trying to draw a tincture from gold with quicksilver merely extracts what gold already contains.
-+ Those using Silver: *"Silver can very well be brought there by means of a maturation, but it is not worth the effort."*
-+ Those using animal menstrua (urine, dung, saliva): *"Those menstrua lack ingress of a metallic and mineral nature."*
-+ Those using vegetable menstrua: Same objection — no metallic ingress.
-+ Those who know the matter but cannot open it: *"Many know and have found this chaotic matter, but they do not obtain anything from it. Why not? Because they do not know the secret dissolution of matter, which all true philosophers have concealed."*
-+ The operational error: *"These people begin to operate at the end of the work because they do not understand the distillation of the philosophers. For when the philosophers distil, they also calcine, putrefy and sublimate at the same time. This is incomprehensible to them."*
-
-=== Chapter I: What Our Matter Really Is — The Complete Prima Materia Description
-
-==== The Forty-Plus Names
-The prima materia has been described under more than forty names. The author's complete list: immature-mineral-electrum; pyrite; golden marcasite; fiery sulphur; sulphur stone; fire stone; black dragon with a golden tail; black-blotchy toad; black monk; litharge; the old Saturn; the old man; old peasant in grey smock; black Proteus; grey rock; old oak tree bearing roses; hundred-year-old governess in white silk fabric; little old mother; shadow; orpiment; counterfeit (*contrefey*); marcasite; magnesia; bismuth; antimony; Cadmus; *albaonus*; sulphur flowers; earth salt; vitriol; and many others. "It is the cornerstone which has been rejected by the highly learned builders from the dawn of time until this very day."
-
-==== The Precise Physical Description
-"It is found in stone coals (*pit-coals* — not slate coals, not surface coals, not all varieties, but specifically the coals found in larger deposits in Germany and France). It looks black and shiny as sparkling gold from the outside. It is heavy as lead. Very compact and rounded by noble nature, the size of walnuts. It also has large or long veins, and if someone breaks it, it is like native gold in its interior, though somewhat pale, and therefore it is pure marcasite."
-
-*When the matter is found in its black mother:* "It looks like bright gold from the outside, heavy as lead, very compact and rounded by noble nature, the size of walnuts." It is also found "in the form of a volatile, golden marcasite, inside those pit-coals... as thick as the strands of a finger, very heavy, shining like gold."
-
-*How to identify it in the mine:* "The coals actually look like a molten pitch, and if they are broken in a transverse manner, by dropping them from the height of our hand, we find that they contain this stone or ore."
-
-*Its disposition in air:* When exposed to air, the matter disintegrates into a grey, saline, mercurial dust. Left long enough in air: it turns into a grey lime and becomes saline. A green vitriol can be lixiviated from it (the "green lining" of the old man). In many places it weathers spontaneously in the mine shafts and is boiled with water into vitriol and alum in the cottages.
-
-*Price and availability:* "Anyone can get enough of this true ore to complete his work for only two florins. It is our very precious matter that in many places we get for little or even for nothing."
-
-*Why it is not found where metals grow:* The geological argument mirrors Book I, Ch. XV. The primary matter represents an *arrested stage* of the universal mineralisation cycle (see Book I) — the Gur became black and melted without further dissolution, permanently blocking metallic growth at that location. *"Wherever our matter is found, no metal will grow for all eternity."*
-
-#doctrine[
-  "Our stone is primarily mineral, and yet it is not found where metals grow. It is metallic and yet it is neither mineral nor metallic. However, it is the life of all metals and metals originate from it. It is also animal, for it has a magnet in it that is alive and multiplies its spirit by attraction of the air. It is also vegetable, that is, it vegetates and multiplies." — Chapter I, Book III
-]
-
-==== The Cosmological Genealogy of the Prima Materia (from Book I Ch. XV, as restated in Book III)
-+ Universal spermatic salts (Nitre + Salt) infused into mountains by dew and rain.
-+ Central fire drives them up and down as mist / vapour.
-+ Gradual precipitation and assimilation of stones and gravel → viscous, oily.
-+ Further dissolution → precipitates to the depths; central fire drives it up → coagulates / sublimates → saline.
-+ More vapours aggregate → dissolves again → precipitates → central fire drives it up → coagulates → ever more fiery, sharp, corrosive.
-+ Dissolves more sand and stones → *metallic Gur* (dark matter of metals).
-+ Further dissolution and coagulation → *sulphurous* (native sulphur often found here).
-+ Additional dissolution → precipitates, stirred up → central heat deeply penetrates sulphur → *cinnabar ore / red-gold ore*.
-+ Continued spiritualisation by penetrating vapours from the centre → dissolves, becomes volatile, incorporates into pure pyrite or quartz → *most pure metals, Gold and Silver, and precious stones*.
-+ But: if the universal liquor deteriorates during ascension where Nature has prepared greasy Gur, and the two come together where Nature has prepared much quicksand, the sulphurous Gur is not stirred up further → dissolves → becomes black and melted. *In this putrefaction there occurs a separation of a premature birth* which remains attached as a mother. If there is no further dissolution, this matter is coagulated into a *black mass which Nature cannot bring back for all eternity.* This is the prima materia.
-
-==== The Preliminary Preparation — Air Exposure
-Obtain a considerable quantity of the matter. Grind to an impalpable powder. Divide into glass flasks (sugar-flasks). *Expose to the open air in spring — NOT in the sun.* The sun is harmful: it draws back the fiery essence of Mercury that the matter has attracted from the air. The moon and stars must constantly shine on it. Stir often — at least every two days. Duration: 24 days to 8 weeks. *Rationale:* The matter acts as a magnet for the aerial Spiritus Mundi. The sun would draw the living mercury back out before it is incorporated.
-
-#lab[
-  *Step 1 — Air Exposure:*
-  Grind the matter to powder. Divide into sugar-flasks, no more than 4 lbs per flask. Place in open air in spring. Protect from rain and impurities but expose fully to night air, moon, and stars. Stir every 2 days. Duration: 24 days minimum to 8 weeks maximum.
-
-  *Step 2 — Water Bath Putrefaction:*
-  After air exposure: close the flasks well. Place in a Mary's Bath (water bath) for one month. "The astral spirit begins to act on its body, one spirit sets the other free, and they flow together in putrefaction. The first dissolution of matter occurs."
-
-  *Step 3 — First Distillation:*
-  Remove flasks from the water bath one at a time. Fit each with a helmet and receiver. Place in a sand bath. Begin to distil by giving fire. *A milk-white spirit rises with a little sublimate.* Pour the distillate back over the matter. Let stand. Distil again.
-
-  *Step 4 — Cohobation (up to five times):*
-  Cohobate the distillate several times. At each distillation, a greasy spirit rises initially. In the *fifth distillation* (the final one): distil with strong fire per gradus. *The whole fiery spirit and sublimate rises as a thick vapour — the true Ruach (Hebrew: spirit/vapour/breath) and mineral spirit.* When everything is distilled, remove the receiver with the spirit. Add the sublimate from the neck of the retort into the liquor. *Keep in a cool place in a large, thick, well-sealed flask — this spirit is full of fire and always in motion.*
-
-  *Step 5 — Separation from Faeces:*
-  Let the liquor stand. Faeces precipitate. Decant the clean liquor carefully into a clean flask.
-
-  *Step 6 — Extraction of the Acid Spirit:*
-  Place the clean liquor in a Mary's Bath. Extract all water very gently until an acid spirit begins to rise. Immediately fit a fresh receiver. Distil the acid spirit very softly. At the end: the sublimate partly rises into the helmet, partly deposits in the flask. Combine sublimate from helmet + sides of flask + spirit together.
-
-  *Step 7 — Rectification to Remove Phlegm (up to fifth or sixth time):*
-  Distil the spirit + sublimate together repeatedly. *The phlegm (the tasteless water) rises first at each distillation.* Separate and discard the phlegm. Repeat until all phlegm is separated. Faeces are left behind at each distillation.
-
-  *Step 8 — Final Cohobation of Spirit and Soul:*
-  When purified: place spirit + sublimate in a retort in ashes. Cohobate twice. *The spirit and the soul are now bound together inseparably.* Result: a *double viscous liquor* (double because it contains both sublimate and spirit). This is the *Mercury of the Sages* and their *mineral Gur* — the Sulphur + Mercury of the Stone. Keep as the greatest treasure.
-]
-
-==== Extraction of the Salt from the Caput Mortuum
-After the spirit has been fully extracted, the grey ash remaining (Caput Mortuum) is the source of the Salt (the Body / third principle).
-
-#lab[
-  *Step 9 — Initial Calcination:*
-  Place the grey C.M. in a broad, flat potsherd. Calcine gently until it begins to whiten. While still hot, pour into warm water — everything dissolves; earth settles.
-
-  *Step 10 — Repeated Extraction:*
-  If the earth does not release all its salt on the first extraction, calcine again and pour while hot into warm water. Repeat until no more salt remains. *The earth left behind is the Damned Earth — useful for nothing.*
-
-  *Step 11 — Filtration and First Coagulation:*
-  Filter the salt water multiple times until all faeces are removed. Evaporate into salt. Calcine the salt gently. Extract again (dissolve, filter, evaporate). Repeat.
-
-  *Step 12 — Repeated Calcination-Dissolution until Greasy:*
-  Continue the cycle of gentle calcination → dissolution → filtration → evaporation until the salt begins to become *greasy and oily.* Then dissolve this salt in the previously set-aside phlegm water.
-
-  *Step 13 — Purification to Talc-like Quality:*
-  Repeat the dissolution-coagulation cycle *"until it becomes as talc or greasy, both in the fire and in the cold."* This is the final sign of purity.
-
-  *Result:* The *Blessed Salt* — the fiery spirit of Nitre — the Balm of Nature — which "has the higher and lower powers in it." The *crystalline spiritual salt* — "the greatest and highest remedy and the true potable gold, having the most beautiful colours hidden in itself, which shows already during its purification."
-
-  *Warning:* The viscous liquor (the double Gur = Sulphur + Mercury) is poisonous at this stage. "The philosophers call it the dragon's poison." It cannot be used until it has passed through the conjunction and multiplication described in the subsequent chapters.
-]
-
-#doctrine[
-  "You have separated the blessed fire and blood of Nature out of our matter, as well as the blessed salt or the fiery spirit of Nitre — a Balm of Nature which has the higher and lower powers in them. Indeed, now you have all three principles, namely Salt, Sulphur, and Mercury; Spirit, Soul, and Body — which, when united, are the greatest mystery of the world. You now have in your hands the crystalline spiritual salt, which is the greatest and highest remedy and the true potable gold, having the most beautiful colours hidden in itself." — Chapter I, Book III
-]
-
-=== Chapter II: Of the Conjunction of the Three Principles
-
-==== Ratio
-Rx. Crystalline Salt (Body / Salamander) — 6 ounces. Viscous Water / double Mercury (Sulphur + Mercury united) — 9 ounces. Note: the Salt is called the "Salamander" because it does not burn in the fire — it is the fixed, fire-resistant body.
-
-==== Vessel and Setup
-Place both in a new, clear white glass flask so that the changes and cohobations can be sufficiently observed. "Be very careful that after this purification, no impurity falls into the flask."
-
-==== Putrefaction
-Set the sealed flask in a gentle heat for 24 hours to initiate putrefaction.
-
-==== First Distillation
-After 24 hours: place in an ash-bath with a helmet and receiver. Seal everything well. Distil the spirit — a sublimate will also rise. Repeat this distillation + cohobation several times *until all the salt has risen and separated from its bright white earth.* White earth at the bottom; white viscous sublimate above and in the helmet.
-
-==== Completion of the Three-Headed Dragon
-Combine all purified material (earth, sublimate) in a retort. Gently distil a second time by cohobation. *Result: the Three-Headed Dragon* — "sometimes called Mercury, sometimes Hermaphrodite (male and female), sometimes the Dove of Hermes, sometimes the chaste Diana, sometimes their inexhaustible fountain. In one word: it is the eagle's gluten mixed with the blood of the lion — our paradisical water generated out of salt, sulphur, and mercury."
-
-==== The Two Paths From This Point
-*Path A — Fermentation with Gold (Count Bernhard's Way):*
-+ Rx. Half an ounce of well-purified gold beaten into thin sheets; 1 ounce of the viscous paradise water. Place in a clear white glass flask. Seal hermetically. Apply heat slightly weaker than a brooding hen. "Let them remain so permanently in a uniform heat."
-+ *Nigredo (Black):* Everything enters putrefaction → dark black → "shining black velvet." *Rejoice: behind this blackness is hidden the whitest colour, and after it, the red.*
-+ *Whitening (Albedo):* White spots appear. Increase fire to second degree. The peace sign appears as a rainbow. Matter becomes snow white. The *Queen in silver robes.* (This is the White Tincture upon ☽.)
-+ *Yellowing (Citrinitas):* Increase to third degree. Yellow sulphur appears, then the colour of Orlean (Annatto red / purple-orange).
-+ *Redness (Rubedo):* Increase to fourth degree. Matter becomes *the King in red robes.* (The Red Tincture upon ☉.)
-+ Remove the tincture. Grind finely. Put back into a new glass. Pour the viscous water over it. Digest hermetically. Pass through the colours again. This second imbibition is faster than the first.
-+ *After seven imbibitions:* "A powerful medicine for sick people and metals."
-+ *After seven imbibitions × seven more (total 14):* "A treasure you cannot fathom."
-+ *After three × seven (total 21 imbibitions):* "The true heavenly quintessence with which you could transform the whole world." This is the Cabbalistic and magical secret, the angelic food for all diseases in hopeless cases.
-+ *Projection ratio after 7 imbibitions:* 1 lot of tincture → 1 mark of pure gold (ferment) → 1 ounce of tincture projected onto 1000 ounces of purified base metal → finest gold.
-
-=== Chapter III: Of the Other Way — The Long Wet Path (The Ancient Philosophers' Way)
-*The Basis:* Use the remaining *oily spiritual salt* alone (not with gold), sealed in a phial in the philosophical furnace. Allow it to pass through all colours by controlled fire degrees. The sequence of colours traces the inner self-transformation of the salt-sulphur-mercury triad:
-- *Colours:* Black (Nigredo) → White-silver (Albedo) → Yellow → Orlean/purple → Blood-Red (Rubedo).
-- "When it has brought out its innermost core, you will have clothed the red lion with the sun." This is the *Volatile Gold of the Sages*, from which the true Potable Gold is prepared.
-
-*The Deeper Doctrine of Salt, Mercury, Sulphur (from Ch. III):*
-The author elaborates the ontological hierarchy: Salt is the *Shamayim* — the heavenly foundation, the spiritual rock and everlasting fire. Mercury is born from Salt: it is the "sweet nitre of fire which becomes water by means of a hot and humid breath." Sulphur is born when both Salt and Mercury are sublimated and elevated by the spirit — "the light is born." Their relationship:
-- Salt = Shamayim = expressed Word = foundation of all things = *body and crystalline rock*.
-- Mercury = spiritual water generated from Salt by the breath = *soul and blood*.
-- Sulphur = the light extracted from both = *spiritual fire and quintessence*.
-"Gold is generated out of the most noble sulphur of the spiritual salt, and is also the beginning of the tincture and all the colours of the world. Blackness is not a colour of nature but of counter-elements and darkness — yet it secretly contains the light hidden within itself."
-
-*The Second Way (Ch. III, with sulphur + mercury):*
-+ Rx. 1 oz of the red fiery sulphur (salt that has passed through colours to blood-red); 1 oz of the spiritual sulphur (three-headed dragon); 1 oz of the viscous water (double mercury). Seal hermetically. Apply brooding-hen heat.
-+ Sequence of colours as before: Nigredo → Peacock's Tail (multi-coloured iridescence) → snow-white (Albedo / Queen dressed in silver). *The White Tincture is ready at this stage.* Project on molten silver → silver becomes grey stone → a pure White Tincture.
-+ But: *"Do not waste it here. Continue in the fire."* Increase to third degree (yellowing), then fourth (redness).
-+ Remove and repeat imbibition seven times (adding 1 oz viscous water each time with 6 lots material, 3 lots water).
-+ *After seven imbibitions:* Major tincture. Project 1 drachm over 100 drachms purified base metals → finest gold.
-+ *After fourteen imbibitions:* Stop. "Your quintessence would become too subtle and volatilise and evaporate — which you should avoid at all costs." At this point you have *the Great Stone of the Wise.*
-+ *The Medicine of the Running Quicksilver:* Take 4 lbs of purified running ☿ (washed with salt and vinegar, edulcorated with warm water, dried, pressed through chamois leather). Add 1 lot of your heavenly sulphur finely pulverised. Set only with a cork (without hermetic seal) in a sand-bath through degrees of fire. Let stand 4 days and nights. *The quicksilver transmutes into a red powder.* Project 1 ounce of this medicine over 10,000 ounces of other purified metal → finest gold.
-
-=== Chapter IV: Of the Short Way — The Dry Path (*Via Sicca*)
-*The Principle:* The Short Way uses silver and antimony, operating through fusion and sublimation rather than extended digestion. The lion (red salt) devours the dragon (double mercury) in a short operation measured in hours rather than months.
-
-#lab[
-  *Preparation of the White Flower (Semi-fixed Silver Mercury):*
-  Take 8 lots of fine silver → beat into thin leaves → reduce to delicate powder → place in a small vessel → add the same amount of the double viscous water. Digest for 14 hours in gentle heat. Move to sand bath. Lute helmet and receiver. Begin distilling through four degrees of fire. *Diana lifts up shining with the brightest glow, like a pure silver garment.* A white earth separates at the bottom. Remove the sublimate (the *White Flower* / semi-fixed serpent). Sublime it once or twice more until pure. Keep very well.
-
-  *Preparation of the Red Flower (Red Fiery Salt):*
-  Take the spiritual oily salt of Chapter I (after it has passed through all colours to blood-red in a sealed phial). Grind finely. This is the *Red Flower* / Red Lion — entirely sweet after its purification in fire.
-
-  *The Short Conjunction — in the Circular Fire:*
-  Rx. White Flower — 3 lots; Red Flower — 4 lots. Grind red flower finely in a glass mortar. Place both in a clean, thick, strong crucible. Cover with another crucible. Place in a circular fire (cementation fire) for 3 hours through the degrees of fire. *The red flower spreads over the white flower and is entirely incorporated.* When all melted to blood-red salt: let fire go out. When cold: break the crucible. Remove the pure tincture carefully.
-
-  *Fermentation with Gold:*
-  Place the tincture on as much pure gold as both flowers weighed together. Let flow for 2 hours. Let fire go out. When cold: remove pure tincture from crucible. Weigh. If it weighs 14 lots: add 5 lots of the viscous white flower to it. Place again in a covered crucible in circular fire for 3 hours. The red tincture melts and the three-headed dragon takes it all into itself. Let fire go out. Separate tincture from crucible.
-
-  *Result:* Project 1 drachm over 100 drachms of other purified base metals → finest gold standing all tests. This is the Short Way for a Red Tincture.
-]
-
-=== Chapter V: Of the Tincture Towards White in the Short Way
-The White Tincture for Silver transmutation follows the same Short Path procedure but uses Silver in place of Gold.
-
-#lab[
-  *White Short Path:*
-  Take 8 lots of the viscous double water (fat liquor). Grind 4 lots of fine silver (reduced to powder). Digest together in gentle heat for 24 hours. Sublime the fourfold mercury (sublime once, then twice more until pure). Give strong fire at the end so *everything separates from the earth; sublimate rises above the earth and settles like a pearl.* Break the glass; remove the *White Tincture*.
-
-  *Alternative — in the Circular Fire:*
-  Take 8 lots of the shining white fourfold mercury. Add 4 lots of silver in thin leaves. Grind together. Cover crucible with another clean crucible. Circular fire for 4 hours through degrees. *Flows into a bright white stone.* Grind finely. Add again 4 lots of fourfold mercury. Crucible fire again for 4 hours → melt together into *bright white stone again*. 1 ounce of this tincture tinges 100 ounces of copper, lead, or tin into the most beautiful silver. Lead must first be purified before projection.
-]
-
-=== Chapter VI: Augmentation and Multiplication — Via Running Quicksilver
-The purpose of this chapter: increase the *volume* of the viscous double water (Mercury of the Philosophers) without returning to fresh prima materia.
-
-#lab[
-  *Step 1 — First Cycle:*
-  Rx. Purified running quicksilver ☿ (washed until bright as mirror/crystal) — 8 lots. Viscous double water (Mercury of Philosophers) — 8 lots. Place together in a glass. Cover well. Gentle heat for 48 hours (some say 24). Move to sand bath. Give subliming fire by degrees. *The three-headed dragon rises with the winged serpent (☿), leaving behind some grey faeces (discard).* Remove the sublimate. Grind it well with the small amount settled above the faeces. Grind 8 lots of fresh purified ☿ with it. Repeat the operation. Continue until all running quicksilver has been sublimated. *Result: a viscous water as heavy as lead, with which you can prepare the great stone.*
-
-  *Why This Works:* "Common running quicksilver has all three principles (mercury, sulphur, salt) in it, but in a volatile state." The multiplication consists in the concentrated Mercury of the Philosophers repeatedly drawing out and absorbing the volatile Mercury from common quicksilver, concentrating it in itself.
-
-  *Step 2 — Combine with Gold for Full Stone:*
-  Operate with the multiplied animated mercury and pure gold exactly as taught in Chapter II (Path A — Count Bernhard's Way). Or: amalgamate with silver and prepare the Doves of Diana for the White Tincture.
-]
-
-=== A Practical Application — The Pearl Augmentation
-A remarkable side-process demonstrating the medicine's power on calcareous / calcium bodies:
-
-#lab[
-  Rx. Pearl powder (small pure pearls pounded impalpable in a steel mortar) — 4 lots. Fourfold viscous mercury — 1 lot. Grind together. Imbibe with distilled May dew until it becomes a thin purée. Place in a flask. Set in gentle heat for 4 days and nights. *Everything dissolves into a silvery-white slime.* 
-
-  To enlarge pearls: thread them on pig-bristles. Steep in the pearl liquor; roll well to coat evenly. Hang in a glass fitted with a wooden cross (holding the bristle-mounted pearls). Seal with a helmet. Gentle heat for 24 hours. Remove; re-steep; repeat until pearls reach the desired size. 
-
-  Final polish: dissolve a little of the fourfold mercury in distilled May dew. Steep each pearl. Drain well. Replace in flask for 14 days. *Result: brilliance surpassing the finest Oriental pearls.*
-
-  For shaped objects (Chinese-style): Mould pearl powder + first pearl liquor into desired shapes (lambs, puppies, fruits, etc.) in silver moulds gilded inside. Allow to harden. Repeated steeping over 14-day intervals builds up the body. *"These will be much more beautiful and precious than the native ones. Now you have a great treasure which hardly a king or emperor could afford."*
-]
-
-=== Chapter VII: Of the Augmentation Via the Bird of Hermes (Antimony Regulus Flowers)
-A second multiplication path using Regulus of Antimony instead of running quicksilver. Philalethes calls this the "Flying Eagles."
-
-#lab[
-  *Preparation of the Martial Regulus of Antimony:*
-  Rx. Hungarian quicksilver ore (antimony ore — note: Hungarian antimony, not ☿ ore) — 1 lb. Pure iron — 16 lots. Place iron in a reverberating furnace crucible until it begins to melt. Throw the antimony upon it. Let melt well. Throw 4 lots pure saltpetre + 2 lots tartar (finely powdered) upon the melt. Let melt together thoroughly. Pour into a preheated, tallow-greased ingot mould. Knock the crucible tongs on top of the mould so the regulus settles down. When cold: beat off the slag. *Repeat: grind regulus, melt again, add saltpetre + tartar, pour, knock, cool, beat slag.* Repeat 3-4 times total until the regulus is *shining like silver.*
-
-  *Preparation of the Bird of Hermes (Volatile Antimony Flowers):*
-  Grind the regulus finely. Place in a subliming vessel (two-part, separable at the middle with a luted joint). Set on charcoal fire so *only the lower half* is over the fire — no fire above. Let stand 6 hours in constant liquefaction state. Do not give too strong a fire or the bird will not rise properly. *Beautiful white flowers rise above the regulus.* Remove after 6 hours. Add a little fresh regulus as food. Lute again. Fire for another 6 hours. Repeat until all regulus has been converted to flowers. Keep perfectly clean from all impurity.
-
-  *Variants of the Regulus:*
-  - Antimony + Iron + Copper (1:8:8 lots) → Bird of Hermes → "very precious in our art."
-  - Antimony + Iron + Silver (1:8:8 lots) → Bird of Hermes.
-  - Antimony + Copper + Iron + Silver (1:4:4:4 lots) → Bird of Hermes.
-  Each variant gives a somewhat different character to the resulting multiplied mercury.
-
-  *Multiplication with the Bird of Hermes:*
-  Rx. Shining Bird of Hermes — 8 lots. Viscous double water — 16 lots. Digest together. Set in sand bath. Lute helmet and receiver. Distil and sublime fire. *The viscous fire multiplies and rises golden, absorbing all the golden properties and mercuriality of the Birds.* A white earth remains behind (discard). Take 8 lots of fresh Bird of Hermes + the obtained viscous liquor. Repeat. Third repetition with 8 lots more. *Total: 24 lots of Birds.* Result: a *viscous hermaphrodite mercury* with a very secret golden power — suitable for preparing the Great Stone with the heavenly salt.
-]
-
-=== Chapter VIII: The Long Way of the Ancient Masters — Complete
-This chapter is a full recapitulation of the entire work from beginning to end, written as a synthesis of all prior chapters. It serves as the most complete single statement of the Long Wet Path.
-
-*The Cosmological Foundation (three worlds):*
-1. *Divine World:* Spirit, wind, and water from above — no fire (counter-element) — only light, life, and love. This is the seed of the new birth.
-2. *Middle/Angelic World:* Its own seeds; those who participate in these seeds participate in the first resurrection — "essentially the same as the angels of God."
-3. *Elemental World:* Its seed is threefold (mineral, vegetable, animal). Each seed is also threefold: the physical creature, the dead (dust and ashes), and the *resurrected* (salt — "the best matter of all creatures").
-
-*The Matter's True Nature Restated:*
-"Our primordial Saturn is found in the form of a volatile, golden marcasite inside those pit-coals — nothing else than a black and greasy substance, or viscous sulphur." Its inner nature: *light, sulphur, and mercury, as well as a heavenly spiritual salt — the true seed and spiritual quintessence.* "In its inner core, our matter is nothing else than light, sulphur and mercury."
-
-*The Three Elements in All Things:*
-"All that is created, when it is opened or dismembered, has three distinct parts: one of water, one of oil, and one of salt — which are called Mercury, Sulphur, and Salt by the ancients." The hierarchy: Salt is the Shamayim (heaven), the spiritual rock; Mercury is water generated from salt; Sulphur is light born when both are sublimated.
-
-*The Full Long Way Protocol (condensed from Ch. VIII):*
-
-#lab[
-  *Phase 1 — Preparation:* Take a considerable amount of matter. Grind finely. Place in large, wide flat glass or stone bowls (sugar glasses). Set in the air during spring (not rainy weather; avoid direct sun). Stir every two days. 14 days maximum. Cover with planks if rain threatens. When well effloresced: bring inside.
-
-  *Phase 2 — Extraction of Salt from Air-Exposed Matter (via lixiviation):* The matter that has been weathered in air becomes grey, saline, and vitriolic. Lixiviate with rainwater. Dry again. Put back in air. Let the lixivium stand in gentle heat until impurity precipitates. Decant the clear solution. Repeat: re-weather the residue → lixiviate again → combine solutions → evaporate by half → cool → crystals precipitate. Continue evaporation + crystallisation cycles until all salt has been crystallised. Purify the salt by repeated dissolution-filtration-coagulation-crystallisation with dew or rainwater until *completely crystalline and transparent.* "This is the true saltpetre which hovers in the sea of the world."
-
-  *Phase 3 — Preparation of Mercury and Sulphur from the Crystals (the Vitriol of the Philosophers):*
-  Divide the crystals into two parts. Distil the spirit of mercury and sulphur (corrosive oil) from the first part with strong fire. Lixiviate and purify the salt from the Caput Mortuum. Place all the liquors (from distillation + salt extraction) together in a glass in a humid heat for 8 days. Then gently distil all humidity in a Mary's Bath until small drops rise. When drops taste acidic: fit fresh receiver → distil until nothing rises. Let cool. Remove flask. Set in ashes with receiver luted. Give fire again. *The soul (oil) rises.* Continue until nothing rises. Let fire go out. Set flask in sand with strong fire. *The fire of nature rises and coagulates like a sublimate — the Arsenic / Crawling Dragon.* Take sublimate + liquor together; distil several times to remove all phlegm. Final retort distillation → a *crawling, greasy, slippery dragon mixed with fire* — the true Mercury of the Philosophers. Keep separately all the phlegm.
-
-  *Phase 4 — Salt Preparation:* Take the remaining Caput Mortuums. Calcine gently. Extract all salt with rainwater. Dissolve, filter, evaporate. Repeat many times until the salt *melts like an oil in the heat.* Distil out all phlegm. *Result: the fiery red salt (the Salt of Metals / the Philosophers' Vitriol) which "reverses its inner parts when placed in gentle heat and becomes blood red."*
-
-  *Phase 5 — Secret Conjunction:* Rx. 3 parts of the oily Salt of Metals / Philosophers' Vitriol. 2 parts of the viscous water / Mercury of Philosophers. Seal hermetically in a phial. Set in gentle heat. "You will see great wonders: sometimes the salt rises above the liquor, sometimes the spirit, until finally it enters into putrefaction after a month." Allow to pass through all colours (Nigredo → multiple intermediate colours → White → Yellow → Blood Red). *Total working time: approximately 4 months.* "Do not rush the fire." After completing the first redness: open glass. Remove. Place in fresh phial with 1 or 2 parts viscous water. Repeat. Augment up to 5 to 7 times.
-]
-
-*The Hungarian Vitriol Alternative (within Ch. VIII):*
-Good results can also be obtained from true Hungarian or Roman vitriol ore instead of the coal marcasite prima materia, but the results are not as high: "You will not obtain a tincture and a universal medicine as high as the previous ones, although this performs with great wonder what the previous tinctures do."
-Process: Dissolve vitriol ore in rainwater → filter → evaporate to pellicle → pour into vessels in air → vitriol grows over itself like greasy talc or metallic gur → gather gur → dissolve in rainwater again → re-crystallise on spruce/fir tree stalks → repeat until all shot. Divide crystals into two equal parts; distil spirit and oil from first part; pour distillate over second part; putrefy; proceed as in main protocol.
-
-=== Chapter IX: The Secret Dissolution — The Alternative Air-Lixiviation Method
-An alternative opening procedure for practitioners who prefer to begin with air-lixiviation rather than the distillation route of Chapter I.
-
-#lab[
-  *Air-Lixiviation Protocol:*
-  Take fresh matter from the mountain (not yet air-exposed). Grind to impalpable powder. Place in earthenware dishes in open air. *In short time the matter turns grey and becomes saline.* (If placed all at once, it takes longer — divide into thin layers for faster exposure.) When vitriolic/saline: lixiviate with rainwater. Dry the residue → back in air → lixiviate again → combine solutions → gentle heat until impurity precipitates → decant → evaporate to half → cool → *greenish vitriol shoots in crystals.* Continue: re-evaporate + re-crystallise until no more crystals form. Combine all solutions; evaporate to dryness → vitriolic salt. Dissolve in distilled rainwater → gentle heat several days → faeces precipitate → decant clear → distil to pellicle → cool → crystals. Repeat until all in crystal form.
-
-  "You have prepared a secret vitriol out of our Saturnine and true primordial pyrite." Keep perfectly dry, clear from dust. "You have a crystalline salt, which is a very pure quintessence in its interior."
-
-  *Continuing: Conjunction of Crystals:*
-  Divide crystals into two parts. Distil spirit of mercury + sulphur (corrosive oil) from first part with strong fire. Purify the Caput Mortuum salt. Take the second half of crystals; pour the distilled liquor over them. Seal; putrefy in vaporous heat for one month. Move to sand bath; lute helmet and receiver. First and second degrees: a spirit rises — rectify from all phlegm; cohobate. "When you see that a sublimate is rising, increase the fire so the Mercury of the Philosophers or Sulphur will rise too." Separate sublimate from all impurity. Pour spirit back. Give fire until all spirit has become sublimate. *Sublime seven times* (some new masters used it after only the third sublimation mixed with silver). When sublimated seven times: the dry mercurial viscous water — called by the ancients: *Chaste Diana, White Swan, Hermaphrodite, Double Mercury, Mercury of the Philosophers, White Gum, our Eve, Volatile Dragon.*
-
-  *Salt Completion:* Take all Caput Mortuums. Calcine and extract inner salt with rainwater. Combine all clear solutions. Evaporate to dryness. Calcine gently, dissolve, filter, and evaporate long enough so the salt *remains as an oil which no longer coagulates, neither in heat nor cold.* Distil all phlegm from this oil. *Some ancient masters sealed this oil alone in a phial and let it stand per gradus until it became blood-red — changing the green dragon into a white and red one.*
-
-  *Final Conjunction:* Rx. Red Sulphur — 3 lots. Viscous water — 2 lots. Phial, hermetically sealed, philosophical furnace. "Let it stand in the heat. Do not rush the fire." The blackness appears. White. Increase fire. Yellow. Fourth degree → blood red. Total: approximately 4 months.
-]
-
-=== Chapter X: A Tincture Upon White From Another Matter — The Cobalt Path
-A separate and distinct prima materia for the *White Tincture only* (Silver, not Gold). The author warns it is extremely poisonous in its generation.
-
-*The Matter:* Cobalt ore — "a bright, heavy, extremely rich silver ore made volatile again through the spirit of mercury. It is nothing more than a silver ore overloaded with the spirit of mercury." When melted, the spirit rises as smoke and condenses. Named by ancient philosophers under the figure of a *poisonous toad.* Miners' names: *Cadmia, Cobalt* (in Germany and elsewhere). Precautions: when grinding — cover nose and mouth with a cloth moistened with wine vinegar; the matter has "a living penetrating poison in and around it."
-
-#lab[
-  *Cobalt White Tincture Protocol:*
-  Obtain 10–12 lbs of pure, fresh cobalt ore (before it attracts air). Grind finely with nose/mouth covered. Place powder in stone dishes in shaded air (not rain) until saline and saturated. Divide into 2 equal parts in 2 retorts. Putrefy in vaporous heat for 1 month. Then: distil sulphurous spirit + mercurial sublimate from one retort over 48 hours through degrees of fire; in the end, strong fire. Receiver away; remove sublimate from neck; add to liquor. Remove Caput Mortuum; calcine under chimney with strong draught until grey calx; extract salt with hot water; purify salt by dissolution + coagulation; add to the liquor. Pour combined liquor over the second retort's content. Putrefy for 14 days. Distil: volatile spirit rises → distil in Mary's Bath to separate phlegm → cohobate until all spirit stays behind → ash bath → third and fourth degree → viscous sublimate rises. Take sublimate from helmet (most volatile = spirit of arsenic — guard yourself). Collect all sublimate. *Sublime seven times until it becomes pure, bright, and transparent crystal.* May be augmented with silver as in Chapter IV. Keep perfectly. Extract and purify the salt from the remaining Caput Mortuum until it remains as a *greasy oil* in all temperatures.
-
-  *Conjunction:* Set the purified salt sealed alone in a phial in the furnace. Pass through colours: white → green → blue → pale red (note: only pale red, because this is a tincture upon white). Take it out. You have male and female.
-
-  *Concluding Work:*
-  Rx. Fixed salt — 4 lots. Viscous water — 3 lots. Phial, hermetically sealed. Furnace. Putrefaction. Through all colours → shining bright white powder = *the White Tincture First Stage.* Add 3 lots viscous water in dry form. Pass through colours again. Add 3 lots viscous water again. Repeat augmentation 7 times.
-
-  *Projection:* Augment the first half: 12 lots tincture → add 6 lots dry viscous water → pass through colours → 7 times augmentation. Ferment with silver: 2 lots tincture on 1 mark molten silver → silver becomes pure tincture. 1 drachm of this fermented tincture tinges 1000 drachms of tin/lead/☿ into finest silver. Next augmentation: 1 lot on 1 mark silver; 1 drachm of result tinges 3000–4000 drachms of white metals.
-
-  *As medicine:* "When our tincture is fixed and fire-resistant, it is a great and true medicine for all pestilential and venomous diseases — and the greatest panacea in all sleepwalking diseases when taken in a dose of just one grain of rapeseed."
-]
-
-=== Chapter XI: How the Hylealic Salt Can Be Found — Universal Salt from Spring Earth
-The final chapter returns to the universal, undetermined principle that underlies all the specific works of Book III — the *Hylealic Salt*: the primordial salt before it has been determined into any particular mineral, vegetable, or animal matrix.
-
-*What the Hylealic Salt Is:*
-"A very pure virgin Adamic earth which is found among those vegetable roots, for the earth has a magnetic force in itself. Therefore, this magnet attracts the universal spirit to itself and becomes a greasy salt. This salt is not yet specified. It is neither animal nor vegetable nor mineral but rather entirely pure and universal, fit for all creatures because it contains and possesses the universal spirit and the magnetic balm in large quantities."
-
-*When and Where to Collect It:*
-- Location: A place during spring (best in May) with beautiful, fatty, loamy, black or red clay earth on a meadow or fertile field.
-- Method: Dig a pit knee-deep; remove all grass and roots. Take at least 24 quintals (a substantial quantity) of this earth.
-- Weather: Bright and clear days only; cover with planks if it rains.
-- Air exposure: Spread out 14 days and nights. Let it effloresce.
-
-#lab[
-  *Extraction of the Hylealic Salt:*
-  Fill wooden saltpetre-maker barrels (with bungs/spigots) with raw earth. Place in air. Pour pure rainwater or hot water over the earth until it exceeds by one hand's width. Cover the barrels. Let stand one day and night. Open the bung hole at the bottom; let pure water drain into a vessel. Process all the earth this way. Evaporate the combined lixivium in a copper kettle to half its volume. Set in a cool place: a salt settles to the bottom like saltpetre but does not burn like common saltpetre. Continue: evaporate → cool → crystallise → repeat until no more salt crystallises. Purify by repeated dissolution-filtration-coagulation-crystallisation with dew or rainwater until *completely crystalline and transparent.* "This is the true saltpetre which hovers in the sea of the world." In it: "a water that does not wet hands, a salt without which nothing can be generated in the world."
-
-  *The Balls:*
-  Take 1 lb of the purified precious Hylealic Salt, finely ground in a glass mortar. Mix with the calcined earth from the extraction. Imbibe with rainwater. Form into little balls. Dry in the sun. Imbibe the salt-earth with dew or rainwater for one full month, so the spirit of mercury augments in it. Form into balls again. Fill half of a coated retort with these balls. Place in furnace with a large receiver containing at least 2 lbs of rainwater. Distil: a spirit and a salt come over. Repeat with all balls. Pour spirit + salt into glass; distil phlegm off in Mary's Bath. Sand bath: distil spirit again (set aside). *Strong fire: the salt sublimates into the helmet.* Sublime until it no longer leaves faeces. Extract salt from the Caput Mortuum. Purify. Place all together (spirit + sublimated salt). Seal in phial in vaporous digestion *"until everything turns into water."* Result: *the true universal liquor* — "with which you can prepare potable gold and a powerful tincture."
-
-  *Concluding Work with Gold:*
-  Rx. Universal liquor — 4 ounces. Pure gold in leaves — 1 ounce. Digest together in a phial in gentle digestion: *"gold will dissolve and cast a grey earth on the bottom."* Separate grey earth (note: it cannot be reduced back to metal by any means). Seal phial hermetically. Philosophical furnace. *Lamp-fire or vaporous fire for 40 days and nights* (fierce fire prevents putrefaction here). Blackness appears. Change to ash-bath; cover glass only partially. Increase fire gently. After 40 days: *Peacock's Tail* (multiple colours). Increase fire (not to glow). After 40 more days: *snow-white Albedo* (Diana). Cover with ashes. Fourth degree. After 30–40 more days: *blood-red Rubedo*. After 50 more days at this grade: *blood-red shining stone*, coagulated in the middle of the glass, shedding faeces around it. Augment by repeated imbibitions as taught throughout the book.
-]
-
-*Total working time:* approximately 2 years for the full Long Way of the Ancient Masters. "This work was not described in previous works, for in our work the mineral spirits are fixed and united much sooner. But since this is a work of the ancient philosophers by which they were blessed, I cannot help but teach it here as well."
-
-*The Practical Miracle of the Universal Liquor:*
-"The ancient masters performed many miracles with this precious universal liquor." Example: Take a vine or dwarf tree in a vase. When its fruits and foliage have fallen, remove the roots, give fresh earth, prune, place in a warm room. Take 4 lbs of dew or rainwater. Pour in 1 ounce of the liquor. Place a small vessel next to the stem. Lay a shredded cloth strip from the vessel over the stem. *"The stem will begin to grow, bloom, and bear fruit before your eyes."* Fruits are ripe and as tasty as if grown in season. Beautiful flowers bloom in midwinter. "These faithful men were cursed as wizards and sorcerers — thus the wisdom mocks these blind men and transgresses of nature."
-
-#doctrine[
-  "Glory, praise and honour to God alone, for ever and ever. Amen! — FINIS PART III." The author closes with an instruction on secrecy: "Keep silent about it and keep it hidden so that you do not endanger yourself along with the secret science — for by doing this, you would draw the eternal curse upon you. Fear God and live well until your blessed end."
-]
-
-=== Summary of the Three Paths — Comparative Overview
-
-#table(
-  columns: (auto, auto, auto, auto, auto),
-  [*Path*],[*Starting Material*],[*Primary Operation*],[*Tincture*],[*Time*],
-  [Long Wet — Ch. I–II], [Coal marcasite, air-exposed + distilled], [Putrefaction → Distillation → Cohobation × 5 → Salt extraction → Conjunction], [Gold and Silver (Red and White)], [4+ months per conjunction cycle],
-  [Short Dry — Ch. IV–V], [Three principles already separated + Antimony/Silver], [Fusion in circular fire; cementation], [Gold (Red) or Silver (White)], [Hours for the concluding work],
-  [Long Way of Ancients — Ch. VIII], [Coal marcasite, air-exposed + air-lixiviation method], [Extended digestion + cohobation; grey earth dissolution], [Gold and Silver], [Approximately 2 years],
-  [Cobalt Path — Ch. X], [Cobalt ore (silver marcasite)], [Air exposure → putrefaction → distillation → sublimation × 7 → conjunction], [Silver only (White)], [Months],
-  [Hylealic Salt — Ch. XI], [Spring Adamic earth (May)], [Earth extraction → ball formation → retort sublimation → conjunction with gold], [Gold (Red) and universal medicine], [40 + 40 + 40 days minimum],
-)
-
-=== Practical Adept Applications (Year 3+)
-*Prerequisite Mastery (Before Beginning Book III Work):*
-- Demonstrated competence with the complete rainwater dismemberment (Book II, Ch. V), all three Ways.
-- Demonstrated ability to produce a plant Quinta Essentia from wine (Book II, Ch. VIII).
-- Demonstrated ability to produce and apply the Vitriolic Radical Menstruum (Book II, Ch. IX).
-- Successfully completed the Arbor Dulcificationis on at least one iron mineral (Book II, Ch. X).
-
-*Entry-Level Adept Practices (from Book III):*
-- *Air exposure and weathering study:* Collect various coal-associated minerals from a coal-mining district. Observe the weathering behaviour of different specimens in open air in spring — which ones turn grey and saline rapidly, which resist. Identify the correct form by the density, colour, and crystal structure described.
-- *The five-cohobation distillation:* Perform the Chapter I distillation sequence on a small quantity of the identified prima materia through all five cohobations. Observe the milk-white spirit and the greasy sublimate carefully at each stage.
-- *Salt extraction:* Perform the complete Chapter I salt extraction from the Caput Mortuum through all the calcination-lixiviation-coagulation cycles until the salt reaches talc-like quality.
-- *Star Regulus preparation:* Prepare the Martial Regulus of Antimony from antimony ore + iron (Chapter VII method). Observe the star crystalline pattern on the surface as confirmation of correct preparation. This is the prerequisite for the Bird of Hermes work.
-- *Bird of Hermes extraction:* From the Star Regulus: prepare the white flowers (Bird of Hermes) by the sublimation furnace method. Observe that these differ from ordinary Antimony flowers by their golden tint and heavier nature.
-- *Beginning the Conjunction — Nigredo observation:* Perform the Salt + Viscous Water conjunction (Chapter II: 6 oz Salt + 9 oz double water) in a sealed clear glass in a philosophical furnace. Monitor for the Nigredo (black putrefaction) as the primary sign of successful initiation. Do not increase fire until the Nigredo is fully established and beginning to lighten. The criterion: *"shining black velvet"* before any lightening begins.
+== The Golden Chain of Homer — Book III: Complete Text with Footnotes
+_Anonymous (Utrecht, October 18, 1654). IGF/Justitius Edition 2025._
+
+CHAPTER I.
+WHAT OUR MATTER REALLY IS AND WHERE TO FIND IT,
+AND HOW THE WORK IS CARRIED OUT BY MEANS OF
+THE EXTRACTION OF SALT, SULPHUR AND MERCURY
+This chaotic matter of ours has been called many wondrous names,
+such as immature-mineral-electrum, pyrite, golden marcasite (it
+breaks within and between the stone coals) 164, fiery sulphur, sulphur
+stone, fire stone, black dragon with a golden tail, black-blotchy toad,
+black monk, litharge, the old Saturn, the old man, old peasant in grey
+smock, black Proteus, grey rock, old oak tree bearing roses, 165 the
+hundred-year-old governess#footnote[See Thirteen Secret Letters, p. 3, 13.] in white silk fabric, little old mother,
+shadow, orpiment, counterfeit, marcasite, magnesia, bismuth,
+antimony, Cadmus, albaonus,#footnote[5th figure of Abraham the Jew in The Book of the Hieroglyphic Figures of Nicolas Flamel.] sulphur flowers, earth salt, vitriol,
+and many other names. Now, this subject is the cornerstone which has
+been rejected by the highly learned builders from the dawn of time
+until this very day. Indeed, I might say that this stone has been quite a
+stumbling block because of its foolish form. For everyone is annoyed
+with it, and moreover, common people cannot conceive that in such a
+dark dwelling, where Vulcan has its fire and host, can be found such a
+wonderful matter. Now, even though they despise and discard this
+matter, our Elder does not care about it, but merely mocks them.
+They wish to have everything in accordance to their own way, haughty
+and beautiful to the eyes. And thus, they claim: we must have a matter
+that is closest to gold in order to obtain our quintessence. And here
+they do not know what they are talking about for our chaotic matter is
+gold’s nearest kin. However, they resort to the use of common
+quicksilver, and they wish to prepare a menstruum out of it, so that a
+tincture#footnote[Idem, p. 75. See The Book of Abraham the Jew, p. 25, 29, 36, 38, 41, 50, 61, 72, 80.] can be drawn from gold. And the way they start is the way
+they end because they should remember that gold cannot give more
+than it has of itself.
+rise with a little sublimate. You pour the distillate over the matter
+again, and let it stand this way. Afterwards distil it again. You should
+know that in this distillation and cohobation, the sublimation also
+See Fontina Berhnardi Revelata, oder: Das, den Filiis Artis und dem Publico zum besten
+getreulich eröffnete königliche Wunder-Baad des Grafens Bernhardi, p. 43 and 117.
+to rise or pass. Then quickly fit another receiver and distil the spirit
+very softly and gently, and at the end, the sublimate partly rises in the
+helmet, and in part, is deposited in the flask. When everything has
+risen, then you take the sublimate from the helmet, as well as that
+which has stuck to the sides of the flask, and put it in the spirit. In
+order to gradually get rid of all the faeces, distil the spirit again, then
+the sublimate rises again, leaving the faeces behind. At this point you
+carefully gather all the spirit and sublimate, and again distil them
+together, namely, so that first of all it removes all phlegm, for it rises
+first at each distillation, and you repeat this until the fifth or the sixth
+time. There are always faeces left behind. Now, when all impurity has
+been separated in this manner, put this fiery sublimate and spirit in a
+retort, place it into ashes and distil cohobating our liquor twice so that
+the spirit and the soul are bound together inseparably. Then you get a
+double viscous liquor (it is double due to the sublimate and the spirit),
+which is the mercury of the sages, truly this is their mineral gur.#footnote[\[Footnote 187 — not recoverable from PDF extraction\]]
+
+In Hebrew ‘ruach’ means ‘spirit,’ ‘vapour,’ ‘breath,’ etc.
+Aurea Catenae Homeri: Dritter Theil de transmutatione metallorum, welcher zeithero von vielen
+vor viel Geld vom vorigen Verleger, welchen Er p. 236 versprochen verlangt worden, aber nie selben
+recht in Manuscript bekommen können, worzu noch ein Anhang der Sächsische Processe des HermetisTrimegisti Kunst und Rath in Curirung der Patienten nach den sieben Planeten von einem
+Liebhaber der Wahrheit ietzo ohne Hass Der Meynt / Wer Gott und Wahrheit liebt. Sich in der Kunst
+stets übt, p. i, 1727 Frankfurt and Leipzig. See also Appendix B.
+However, the viscous liquor is poisonous and thus, the philosophers
+call it the dragon’s poison.
+
+In Hebrew ‘ruach’ means ‘spirit,’ ‘vapour,’ ‘breath,’ etc.
+This is the celestial power, the quintessence of common salt, not the common one. It is not
+the common saltpetre.
+mercury.
+The original German says literally: ‘white glass.’
+Also Cerberus, three-headed hound of Hades.
+for the time required, according to the degrees of fire, just as taught
+above. When this has been done, then it will pass through all the
+colours until it finally becomes a blood-red salt, and its innermost has
+been brought to the outside and what was outside has gone inside. 196
+Now when it has brought out its innermost core, then you will have
+clothed the red lion with the sun. This work has been described by all
+philosophers under the deck-name of vitriol, that is, how to bring out
+its inner core, and this is called a red-fiery salt. A certain author, 197
+and in his writings a secret philosopher, calls it volatile gold of the
+sages, from which the true potable gold is prepared. In the first two
+chapters of this book, I have described what kinds of principles
+minerals and metals have and how they are called, that is, salt, sulphur
+and mercury. Although salt is the last to appear in our secret work,
+however, in the generation of metals it is the first, not only among our
+minerals, but also among all other minerals and metals. For it is the
+shamayim#footnote[In Hebrew, the word ’shamayim’ means ’heaven.’ 199 Mysterium Magnum, Jakob Böhme, p. 65, 1623. 200 For more philosophical information about ‘shammayim’, see the First Chapter of the book Fontina Berhnardi Revelata. 201 The philosophical nitre, not th] and the expressed word,#footnote[Mysterium Magnum, Jakob Böhme, p. 65, 1623. 200 For more philosophical information about ‘shammayim’, see the First Chapter of the book Fontina Berhnardi Revelata. 201 The philosophical nitre, not the common one. 196 367 / 457 But the fire of nature,] or the beginning of beings in
+creation.#footnote[For more philosophical information about ‘shammayim’, see the First Chapter of the book Fontina Berhnardi Revelata.] Mercury is born out of that salt, namely a sweet nitre 201 of
+fire, which becomes water by means of a hot and humid breath and,
+in fact, it is sweet water, which does not need the help of the fire
+present in the air. Nature has no charcoal or wood fire, for fire is a
+counter-element.
+This is obviously in reference to an old alchemical axiom: bring the inside outside, and the
+outside inside. It is usually in reference to the colours that manifest themselves during the
+coction of the Stone. The whiteness ‘hides inside’ the blackness, and the redness ‘lies hid inside’
+the whiteness. See Opera mineralia, sive de Lapide Philosophico, omnia, duobus libris comprehensa,
+Johann Isaac Holland, 1600.
+they know they can no longer deny this divine art. For the episode
+that happened some years ago in the Hague 211 makes them very angry,
+since they must have known and heard that there a tincture was
+openly prepared in 3 hours (understand here in the concluding work).
+For this reason, they fail to grasp the way this art should be
+understood.
+See Thirteen Secret Letters, p. 90.
+The author seems to be referring to the transmutation account of Helvetius. But that
+happened in 1666, and in the preface it says that our author is writing in 1654.
+them. Now set it in a circular fire 214 for 3 hours through the degrees of
+fire. It will begin to melt and the red flower will spread over the white
+flower and will be entirely incorporated.
+advantage of money from naive men, and he uses this analogy to the fact that the threefold
+mercury, penetrating and potent by itself, however, is overcome, captured and absorbed by this
+woman, that is, silver.
+Now we come to the augmentation and multiplication, that is, of
+the three-headed dragon which we have taught about in the previous
+chapter and which has been made from mercury, sulphur, and salt the principles which have been separated from our primordial chaos
+and in turn artificially conjugated which the ancient sages of art called
+their mercury of philosophers. It is not difficult to multiply this
+tincture to infinity so that it is not necessary to prepare it again from
+fresh matter. And this multiplication occurs in this way, as you can
+clearly see in this figure#footnote[218 The original text contains no figure. A similar though short process is found in The Book of Abraham the Jew, p. 73. You can operate with this animated mercury and pure gold, as I have shown you at the beginning. You can also amalgamate it with silver, as I had taught you when I said to prepare the doves of Diana and then prepare a tincture with silver upon white. Thus, there is nothing that prevents the artist from making the great stone of the ancient masters with this animated mercury, animated with the aid of our spiritual gold or red lion, both in the long way and in the short way. Furthermore, I must also point out how you can prepare the most beautiful pearls with our mercury of the philosophers, pearls that are more beautiful than the natural ones. Take small pearls which are perfectly pure, or even alike pure mother-of-pearl. Pound them in a steel mortar to an impalpable powder. Take 4 lots of this powder and 1 lot of fourfold viscous mercury. Grind them together well and imbibe the matter with distilled dew of May, so that they become a purée. After that, put it in a flask and set it in gentle heat for 4 days and nights. Then everything will dissolve into a silvery-white slime. Afterwards remove it from the fire. Now you can take small pearls, stick them all through strong, clean pig-bristles and steep them in the above prepared liquor, rolling them around in the liquor. Then remove them again, and have at hand a cut flask with a wooden cross full of small holes so that you can stick the pearls with the bristles into it. This way you can steep many pearls. Set the glass with a helmet, well covered, in a gentle heat and let it stand for 24 hours. Then remove the pearls, steep them again in the liquor and put them back in the glass. And you can repeat this operation so many times until they become big enough for you, as you wish them to be. 220 For whenever you steep them into the liquor, then the fat, dissolved liquor sticks to them, and that is why they should be well rolled around at the time of coating so that they are evenly coated. Now, when they are the size you wish, then have another small flask in hand with distilled dew. Dissolve in it a little of our fourfold mercurial liquor in a gentle heat. According to the reasoning of Abraham the Jew, this mercury of the philosophers is the same as the Philalethes’ ‘doves of Diana.’] which I borrowed from the ancient
+philosophers. Here we see that the winged and volatile serpent
+devours the semi-fixed three-headed dragon. The winged serpent is
+running quicksilver. 󰀁: Take 1 pound of it, purify it by means of
+washing until it is as bright as a mirror or crystal. After this take 8 lots
+of it and also 8 lots of our viscous water. Put them together in a glass,
+cover it very well and put it in a gentle heat. Let it stand for 48 hours
+(others say 24 hours). Afterwards place the glass in a sand-bath and
+gradually give a sublimating fire. Then the three- headed dragon rises
+with the winged serpent, leaving behind some grey faeces which you
+throw away. Remove the sublimate and grind it well with the small
+amount which lays down above the faeces, for the most volatile part
+rises and settles in the neck, but the most fixed part is in the belly
+around the flask above the faeces. Grind 8 lots of purified running
+quicksilver with it. Put them again in a clean glass and proceed in the
+same manner as taught above. Then the mercury sublimate rises
+again. And you can repeat that operation until all your running
+quicksilver is sublimated. In this way you obtain a viscous water, as
+heavy as lead, with which you can prepare the great stone of the
+ancient masters, just as that tincture prepared only out of these three
+principles, namely, mercury, sulphur and salt. For common running
+quicksilver has all these three in it, but in a volatile state.#footnote[The original text contains no figure. A similar though short process is found in The Book of Abraham the Jew, p. 73. You can operate with this animated mercury and pure gold, as I have shown you at the beginning. You can also amalgamate it with silver, as I had taught you when I said to prepare the doves of Diana and then prepare a tincture with silver upon white. Thus, there is nothing that prevents the artist from making the great stone of the ancient masters with this animated mercury, animat]
+
+they become big enough for you, as you wish them to be. 220 For
+whenever you steep them into the liquor, then the fat, dissolved liquor
+sticks to them, and that is why they should be well rolled around at
+the time of coating so that they are evenly coated.
+Now, when they are the size you wish, then have another small flask
+in hand with distilled dew. Dissolve in it a little of our fourfold
+mercurial liquor in a gentle heat.
+According to the reasoning of Abraham the Jew, this mercury of the philosophers is the
+same as the Philalethes’ ‘doves of Diana.’
+gentle heat for 14 days and nights, so they reach the point. Afterwards
+take the fat pearl liquor and dew, in which you dissolved as much of
+our fourfold mercury of the philosophers, and pour them together.
+Imbibe the figures in it so that they are completely coated, then put
+the figures back in the flask and in the heat. When they have remained
+for 14 days and nights, remove them again and steep them again into
+the fat dew liquor, in which only our viscous water has been dissolved,
+as stated above. Let it drain well. Then put them back in the flask and
+keep them in the heat for another 14 days and nights. After this, take
+them out and keep them very well. These will be much more beautiful
+and precious than the native ones. Now you have a great treasure,
+which hardly a king or emperor could afford. Thus, you can see what
+the Almighty has granted His children to make. That is why you must
+keep it hidden from the unworthy. However, so that you do not
+complain about me, as if I had not revealed to you all the secrets I
+know, you need to know that the ancients possessed many ways of
+multiplying and augmenting their triple mercury, such as that which
+prepares all kinds of precious stones with the aid of this liquor which
+are more precious than the native ones. These are, in fact, the
+wonderful things that are incomprehensible to the world. Now we
+want to turn to the secret work.
+
+CHAPTER VII.
+OF THE AUGMENTATION AND MULTIPLICATION OF OUR
+THREEFOLD MERCURY IN A DIFFERENT WAY
+The ancient masters have left us many teachings about how we
+must multiply our threefold mercury of the philosophers even further.
+Therefore, pay attention to my instructions: First they made a regulus
+of antimony and iron,#footnote[And so it is ready for the work. At this moment, grind it finely and put it in a subliming vessel, which can be separated in the middle by each of its parts, and equipped with a joint that fits very well so that it can be luted. Set this instrument on a charcoal fire in a way that it only stands below the half of the subliming vessel. 󰀂 There must be no fire above it. Thus, let it stand for 6 hours so that the regulus is in a constant state of liquefaction. And take care not to give a too strong fire, otherwise the bird of Hermes would not rise properly, in fact, it can easily harden and burn. Then beautiful white flowers will rise above the regulus. Remove them after 6 hours and keep them well. At this point, give the regulus, which is still in the earthenware vessel, a little fresh regulus as food. Then lute the vessel again. Put it in your small furnace, letting the fire start again and hold it for 6 hours. Afterwards take out the flowers again. Keep doing this until all of the regulus has been changed into these flowers. Keep these flowers very well from any impurity. Now, these are the birds of Hermes, or our little flying serpent, which will be joined with our threefold crawling dragon or viscous fire, as follows. Also prepare a regulus out of 1 pound of antimony, 8 lots of iron and 8 lots of copper, as described above, and then the bird of Hermes is drawn out of it; and these are very precious in our art. Then also prepare a regulus out of 1 pound of antimony, 8 lots of iron and 8 lots of silver, and then the bird of Hermes is extracted out of it. Afterwards, also prepare a regulus out of 1 pound of antimony, 4 lots of copper, 4 lots of iron and 4 lots of silver: make a regulus out of them, and then prepare the bird of Hermes out of it, as has been taught above. Now, when you wish to multiply our viscous mercury, this happens as follows: Take 8 lots of this shining bright bird, put it in a glass and pour 16 lots of our viscous water upon it. Then digest them together and put the flask in a sand-bath. Or ‘tightly closed.’ This operation is called ‘flying eagles’ in the Eirenaeus Philalethes’ Treatise entitled Open Entrance to the King’s Closed Palace, under Ch. 6 to 7.] and then the flowers or bird of Hermes#footnote[Probable reference to Avicula hermetis catholica: de mercurio sulphure & sale philosophorum in uno subject, Johann Pharamund Rhumel, 1635.] is
+drawn out of them.#footnote[See Rosarium Novum Olympicum et Benedictum, Benedictus Figulus, 1608, for further details about this operation.] Or they made a regulus of antimony, iron and
+quicksilver, that is, at the same time, and afterwards drew the bird of
+Hermes out of them. Or they added silver and prepared the bird out
+of them. After this, they conjugated it with the threefold mercury of
+the philosophers,#footnote[If this operation is parallel to Eirenaeus Philalethes’ reasoning, then this triple mercury is the same as the Doves of Diana.] digesting and sublimating together and thus, they
+obtained a special permanent water, which is made this way: 󰀁: When
+you, my son, wish to prepare it, first of all, seek to obtain a true
+Hungarian quicksilver ore, for this ore is indispensable to have. Take
+1 pound of this and 16 lots of pure iron in a crucible, and set it in a
+reverberating furnace. When the iron begins to melt, then throw the
+antimony upon it and let them melt together. When they are well
+molten, throw 4 lots of pure saltpetre and 2 lots of tartar upon it
+reduced into fine powder. Let them melt well together. Then pour it
+into an ingot-mould previously heated and greased with tallow. Knock
+on top of the ingot-mould with the crucible tongs, so that the entire
+regulus settles down. When it is cold, beat off the slag. After that,
+grind the regulus finely and let it melt again. Throw a few lots of
+saltpetre and tartar over it again until they melt together. Then pour it
+out again and beat off the slag. And repeat this operation for a third or
+fourth time. This way you get a regulus like a shining silver.
+For more information on practical operations dealing the Martial Regulus of Antimony, see
+the book Coelum reseratum chymicum oder Philosophischer Tractat, J. G. Toeltii, 1737.
+immature precious stones to fixation with this viscous water and
+worked wonders with this noble viscous water.
+
+CHAPTER VIII.
+OF THE LONG WAY OF THE ANCIENT PHILOSOPHERS
+I would like to offer a complete recapitulation of our secret work,
+from beginning to end, so that you may recognise all the meaning of
+our secret philosophy, and through it, God and nature.
+Firstly, concerning the generation and birth of our secret matter you
+need to know the following which I have sufficiently shown in my
+earlier writings: For, just as the divine world has its own seed,
+according to the new birth given by God, nature and the sacred
+elements, so also happens in the spirit, wind and water that come
+from above, from the highest divine world, where they have not yet
+been created.#footnote[229 See The Golden Chain of Homer, Part I, Ch. I, p. 31. Probable allusion to Satan. And it is first divided in the mineral, vegetable and animal kingdoms, that is, into stones, herbs and animals. Each of these seeds has a physical, living and spiritual body; the body of each creature is its own matter. And indeed, the matter is also threefold, that is, (1) the visible living creatures; (2) the dead ones like dust and ashes; and (3) the resurrected ones, such as salt, which come from the ashes and is the best matter of all creatures. For the life of every creature is in its vegetative being. The sulphur is also triple, the spirit is its soul that comes from above; and the true mercury of life is also triple. Thus, in the same way these three are hidden in all things, so also, they can be separated by the hand of the artist. Similarly, nature also has cumulatively set a matter into motion through the combination of fire and light, that is, of salt and sulphur, leaving it imperfect among the rocks, hidden in a dark dwelling. Lucifer covered this matter into a dark, fiery dwelling, so that it was not recognised by the children of men, for this sulphurous, fiery and dark matter is, nevertheless, the matrix of our matter. And that is why it is hard for any of today’s chemists to find it. In fact, when they find it, they do not recognise it but are only annoyed at its appearance and its dwelling. However, if they knew its birth, then they would look at it in a different way and seize it in their hands for their work. But for the sake of the unworthy men, the Almighty God has allowed it to be covered by a dark, fiery dwelling. I have already said that the light is generated and born out of fire. In the same way, in its inner core, our matter is nothing else than light, sulphur and mercury, as well as a heavenly spiritual salt, the true seed and the spiritual quintessence. In fact, I have already described the matter quite extensively at the beginning of this secret science, but I will repeat it here again for the sake of the existing relationship or connection between the light and our matter. Our primordial Saturn is found in the form of a volatile, golden marcasite, inside those pit-coals, and is nothing else than a black and greasy substance, or viscous sulphur. Now, we find our secret ore in them, with the size of eggs of chickens and pigeons, as thick as the strands of a finger, very heavy, shining like gold.] This seed or spiritual body, which is truly begotten,
+incarnated and born out of God, is the corporeality of the word in its
+essence, that is, the Spirit of Christ or the flesh and bones of Jesus
+Christ. The seed of the divine world comes from these three, namely
+spirit, wind and water, about which our Lord Jesus spoke to
+Nicodemus. For that reason, we must know that there is no fire or
+counter-element in these divine elements, or in the divine world, but
+only light, life and love. For indeed, God is not in Himself, nor his
+servants are, a consuming fire, but this is a characteristic of something
+else and is operated through someone else.#footnote[See The Golden Chain of Homer, Part I, Ch. I, p. 31. Probable allusion to Satan. And it is first divided in the mineral, vegetable and animal kingdoms, that is, into stones, herbs and animals. Each of these seeds has a physical, living and spiritual body; the body of each creature is its own matter. And indeed, the matter is also threefold, that is, (1) the visible living creatures; (2) the dead ones like dust and ashes; and (3) the resurrected ones, such as salt, which come from the ashes an] Thus, the divine world is
+different from the physical world in the same way that light is different
+from fire. In this way, the Middle and Angelic World possesses the
+force of their own seeds, and those who receive them will be part of
+the first resurrection, that is, those who are participants of this secret
+of transmutation and of the great treasure of the heavenly vocation.
+That is why these adepts are essentially the same as the angels of God,
+for they are all spirit and pervaded by light.
+Now, the elemental world also has its own seed which is generally
+threefold, according to the mystery of the wisdom and testimony of
+the great God.
+the matter quite extensively at the beginning of this secret science, but
+I will repeat it here again for the sake of the existing relationship or
+connection between the light and our matter.
+Our primordial Saturn is found in the form of a volatile, golden
+marcasite, inside those pit-coals, and is nothing else than a black and
+greasy substance, or viscous sulphur. Now, we find our secret ore in
+them, with the size of eggs of chickens and pigeons, as thick as the
+strands of a finger, very heavy, shining like gold.
+work the same way, because that way you would at last have to find
+out at the cost of your biggest loss and waste of time.
+There are also several kinds of stone coal. But not all of them
+contain this matter. For those who break them as stones, find nothing
+in them. There are also slate coals, which contains nothing of our
+secret matter. However, the pit-coals which are sometimes found in
+large quantities in Germany and France, usually contain a golden
+sediment. The coals actually look like a molten pitch, and if they are
+broken in a transverse manner, by dropping them from the height of
+our hand, we find out that they contain this stone or ore. Now, there
+are many mines in which this sediment is excavated and in this same
+place is found a stone coal of this abortive kind, and it also contains
+our secret matter. Also, in many places they are discarded in the shafts
+while in others, they are gathered and left in the air so that they can
+disintegrate, and then it is boiled with water into vitriol and alum in
+the cottages.#footnote[Idem p. 3, 13. The author is saying that vitriol and alum can be obtained from this matter by means of ‘weathering,’ boiling to the half and crystallising it into vitriol and alum.] Anyone can get enough of this true ore to complete his
+work for only two florins. It is our very precious matter that in many
+places we get for little or even for nothing.
+
+Counterfeit in French.
+Another reference to Grashoff’s allegory found in The greater and lesser Edifier. See also
+Thirteen Secret Letters, p. 70.
+you in its fullness as a gesture of kindness.
+I said earlier that there are three spiritual elements hidden in all
+three kingdoms, and that they can be separated. For the Most High
+created all things according to the Trinity, so that no one could deny
+the Holy Trinity. All that is created, when it is opened or
+dismembered, has three distinct parts, one of water, one of oil and one
+of salt, which are called mercury, sulphur, and salt by the ancients.
+For this reason, he who does not yet know earthly and inferior things,
+how will he understand what Hermes says: that which is above is like
+that which is below. In fact, this subject will remain hidden from these
+worldly men. That is why you should consider that, above all, you get
+the amount of our secret matter that you think is sufficient for the
+work. For you will hardly get 1 pound of water, as well as 1 pound of
+salt out of 1 quintal#footnote[See Thirteen Secret Letters, p. 3, 17, 66, especially 61, 72. Seal the flasks very well and put them in a vapour bath for 1 week in order to putrefy them. Then the spirit, which is hidden in the matter, begins to operate and act in this matter because by means of putrefaction also occurs a dissolution. Having stood during this time in this way, you continue with it towards Vulcan. However, my dear son, now I must show you how the ancient masters achieved their secret dissolution of matter, and obtained the principle of light out of this hard rock, as I have done previously in my writings, albeit somewhat obscurely. But here I describe it quite clearly in all its details. You must know that all the depths are water in its principles and that the principle of water is a spiritual rock in which there is an everlasting and resistant water. For the spiritual rock is nothing else in nature than a crystalline salt, that is, a very spiritual heavenly salt, which is hidden in the depths of our rock. The water or our spiritual mercury is generated in our matter after have been exposed to the air, for in the air it is set alight and the spiritual water is born. For this water is the mother and the father is an essential spiritual sulphur or salt. And the light is hidden in this spiritual water, as fire or sulphur. And therefore, the principles, that is, salt, sulphur and mercury must be drawn and separated from it. Salt is inexpensively primarily because all things have their beginning out of salt. It is the shamayim and the pronounced essence, according to the Lord’s words in creation. Mercury is generated from this salt, which becomes a sweet nitre of water, which becomes a water in the matter by means of a hot and humid breath, and that, during the preceding putrefaction. For this reason, you should be wary of a dry and vehement fire, for sulphur is itself a purer fire, which the light has extracted from the aether. The beginning of life is nothing more than a humid heat and a warm humidity, both on the outside and inside, by which nature dissolves that which is undissolved and coagulates that which is dissolved. Therefore, it is necessary to dissolve by means of putrefaction, as shown above. Then you put the matter in a retort and put it in a sand-bath and lute a receiver to it.] of our matter, and this with great effort and
+labour. 󰀁: Then take this matter, in the name of the Lord, and grind
+it into a powder in a clean mortar. Put it in several large, wide flat
+glass or stone bowls (others say sugar glasses). Set them in the air
+during the spring, but not during rainy weather, otherwise your matter
+would be ruined. Also, do not let the rays of the sun shine on it,
+because the sun would draw the most part of life from our matter.
+However, the moon and stars must constantly shine on it, and it must
+be stirred several times, at least every two days. And when they have
+stood that way for two weeks at most, take your matter and divide it
+into 4 different flasks.
+nature than a crystalline salt, that is, a very spiritual heavenly salt,
+which is hidden in the depths of our rock. The water or our spiritual
+mercury is generated in our matter after have been exposed to the air,
+for in the air it is set alight and the spiritual water is born. For this
+water is the mother and the father is an essential spiritual sulphur or
+salt. And the light is hidden in this spiritual water, as fire or sulphur.
+And therefore, the principles, that is, salt, sulphur and mercury must
+be drawn and separated from it. Salt is inexpensively primarily
+because all things have their beginning out of salt. It is the
+shamayim#footnote[\[Footnote 235 — not recoverable from PDF extraction\]] and the pronounced essence, according to the Lord’s
+words in creation. Mercury is generated from this salt, which becomes
+a sweet nitre#footnote[237 In Hebrew, it means ‘heaven.’ The philosophical water or the quintessence of the common salt. The philosophical nitre, not the common one And when all the lutum is very dry, some artists gradually distil all water and oil out of the matter, and this in form of a thick smoke and steam along with its greasy or viscous sublimate. However, others did not go so far in the art as to the point where they distilled the fiery liquor and when the viscous liquor or sublimate wanted to rise, they let] of water, which becomes a water in the matter by
+means of a hot and humid breath, and that, during the preceding
+putrefaction. For this reason, you should be wary of a dry and
+vehement fire, for sulphur is itself a purer fire, which the light has
+extracted from the aether. The beginning of life is nothing more than
+a humid heat and a warm humidity,#footnote[In Hebrew, it means ‘heaven.’ The philosophical water or the quintessence of the common salt. The philosophical nitre, not the common one And when all the lutum is very dry, some artists gradually distil all water and oil out of the matter, and this in form of a thick smoke and steam along with its greasy or viscous sublimate. However, others did not go so far in the art as to the point where they distilled the fiery liquor and when the viscous liquor or sublimate wanted to rise, they let the fire go out. They removed the liquor and poured it over the putrefied matter into a clean retort and putrefied them together for some time, but what remained in the retort in the sand-bath, they placed in the air again. Afterwards, they distilled the putrefied body with the liquor again. There, the spirit certainly opened the body even more. And they repeated it alternately, that is, after they have distilled the liquor again, they poured it on fresh matter, putrefied it, and proceeded as I have said before: placing the caput mortuum back into the air. After that, they took the caput mortuum again, the part which had been previously exposed to the air, and poured the liquor on it, so they gradually distilled everything in a sand-bath. But in the end, they distilled with a strong fire. Then they poured this liquor over fresh matter again and distilled it this way. And they repeated this until everything had been reduced into liquor and they kept it very well in a glass flask. 󰀂 The spirit of mercury and the spiritual sulphur are hidden in this liquor. Then they took the caput mortuum and calcined it gradually, at first stirring constantly and digesting it until all the salt had been extracted from it. After this, they filtered and let it shoot into a salt. This salt still contains many impurities, assuming all colours during the dissolution and evaporation. And it must be brought into a greasy salt by means of repeated calcinations in a gentle heat, dissolutions and evaporations. Now, when they had brought this chameleon or salt up to this point, they possessed the spiritual rock, our holy saline body and spiritual nitre. And this they kept very well as a great treasure. In fact, this is the true salt of metals, and our secret vitriol, which reverses its inner parts when placed in a gentle heat and becomes blood red, and has been called by the venerable Lute (from Latin Lutum, meaning mud, clay etc.) was a substance used to seal and affix apparatus employed in chemistry and alchemy, and to protect component vessels against heat damage by fire; it was also used to line furnaces. Lutation was thus the act of ‘cementing vessels with lute.’] both on the outside and inside,
+by which nature dissolves that which is undissolved and coagulates
+that which is dissolved. Therefore, it is necessary to dissolve by means
+of putrefaction, as shown above. Then you put the matter in a retort
+and put it in a sand-bath and lute a receiver to it.
+placed everything that had been attached to the flask and the helmet,
+along with the liquor. Then they distilled this liquor several times until
+all the phlegm and all impurities were separated from it. Afterwards,
+they distilled this liquor a few more times through a retort, so they got
+a crawling, greasy, slippery dragon, mixed with fire, the true mercury
+of the philosophers, which they kept very well. They took all the
+phlegm together and distilled a few more times so that it became pure.
+With this phlegm they could dissolve the salt several times and thus,
+separate the faeces. The phlegm was distilled all the time, until the
+salt melted like an oil in the heat. Then they all united into one, that is
+into our viscous crawling dragon, as well as our fiery red dragon.
+Now, you need to know how to artificially bring them together, which
+happens thus:
+Description of Our Secret Conjunction
+Now you can take 3 parts of your true oily salt of metals, or of the
+philosophers (which, however, has been well separated from all
+phlegm). Put it in a phial and pour 2 parts of our viscous water or
+mercury of the philosophers. Seal the phial hermetically and set it in a
+gentle heat. Let it stand until it coagulates completely.
+
+During this time, you will see great wonders, for sometimes the salt
+will rise above the liquor, sometimes the spirit, until finally it enters
+into putrefaction, which occurs after a month. Then, when you see the
+so-called darkness, rejoice! So let it stand thus, after has passed
+through several colours, until it turns white. After that, increase the
+fire a little till it becomes yellow. Then increase the fire again, and give
+the fourth degree of fire until it turns red as blood. 󰀂 At this point, I
+advise you not to rush the fire, otherwise you will destroy everything,
+for our tincture needs a long time and you have to govern well the fire
+so that you finish the work in 4 months. But have patience, at the end
+of it all, you will have time to enjoy it. After that, open the glass and
+remove it. Put it in another phial and again pour one or two parts of
+your viscous water on it. If you take 1 part, you will finish it soon, for
+it will pass quickly through all the colours. But if you take 2 parts, it
+will take longer to finish but the tincture will also become more
+penetrating. You can repeat this augmentation until the fifth, even up
+to the seventh time. Then you can give a ferment to your tincture and
+work even further as I already said earlier. In this way, you will reach,
+by this long humid way, the Stone of the ancient wise masters. For
+not everyone knew the shortcuts of the way. But they discovered it
+through intelligent contemplation and many failures in those
+preceding works. And for this reason, the greatest confusion arose
+among the disciples of art, because they cannot bring the philosophers
+together into conformity, on the grounds that they wrote partially
+hiding both works at the same time, one describing the Short Way and
+the other the Long Way. In short, one presented the Short Way, while
+another presented the Long Way with many shortcuts. Most of them
+increased confusion and wrote, motivated by mere envy, of both ways
+together in one single work, both with regard to the preliminary work
+of separation and in the concluding work. However, if they had all
+shown a single path to follow, both in the preliminary work of
+separation and in the concluding work, the art would not be as rare as
+it is now. As for the matter of the ancients, they are all in agreement
+but the novices do not agree with regard to the dissolution of matter,
+as will be shown in the following chapter. And so, of course, when a
+student gets trapped into one of these labyrinths, he can only escape
+with the help of a faithful friend who can show him the right way,
+
+otherwise it is impossible for him to get off this wrong path. In fact, all
+the ways are true, but an inexperienced student often retreats, when in
+fact he should confront the process head-on or side by side with
+others. Therefore, may God grant you the means and the
+understanding necessary to work, so that you find the true fire in
+order to digest properly, according to the degrees of fire. Also, do not
+be too hasty about the work, and God will let you know when your
+matter is beginning to come into putrefaction, so rejoice! Do good to
+those in need, and be thankful in profound humility of heart to the
+most blessed, holy and omniscient God, the most omnipotent Holy
+Trinity, Father, Son and Holy Spirit, for this precious good, until your
+blessed end.
+
+CHAPTER IX.
+OF THE SECRET DISSOLUTION OF OUR MATTER
+
+󰀁: Take of the matter you know, fresh such as it comes out of the
+mountains. Grind it finely to an impalpable powder. Place it in
+different earthenware dishes. Set them in the air and then, in a short
+time, the matter will turn into a gray powder and become saline. But
+if it is placed all at once in the air, it will take much longer to be set
+alight and reduced in contact with the air. When it has become saline
+or vitriolic, take the matter and lixiviate it with rainwater. Dry it again
+and put it back in the air. Place the lixivium in vessels in a gentle heat
+so that all impurity precipitates, and the extraction becomes pure and
+clear. Pour off the clear solution, take out the faeces and place it
+together with the previous ones or expose it to the air with the first
+ones mentioned above.#footnote[241 That is, the dregs left from lixiviating the weathered matter. In the German original we find here the alchemical symbol for ‘air’, instead ‘earth.’ The clear solution is decanted again in another clean glass, and distilled thereof until a small pellicle or skin appears. Afterwards place the glass in a cool place so the most beautiful crystals will shoot. Remove them, keep them in a clean glass and repeat this operation until everything has shot into crystals. So you have prepared a secret vitriol out of our Saturnine and true primordial pyrite. Now, dry very well this vitriol of philosophers and keep it clear from any dust. So you have a crystalline salt, which is a very pure quintessence in its interior. I had said that salt is a shamayim or an everlasting water and that if it is blown or breathed on by the spirit, it would become water, that is, mercury. 󰀂 And when both have been sublimated and raised by the spirit then the sulphur will be born. For this is a spiritual and essential salt, the first and most noble sulphur; the most beautiful green, or the greenness of the salt through sublimation, which should be well considered during the preliminary work. And it happens thus: 󰀁: Now, take of the crystals and divide them into two parts. Distil the spirit of mercury and sulphur or corrosive oil from the first part with a strong fire. Lixiviate the salt of the caput mortuum which must then be well purified. Calcine the caput mortuum and extract all the inner salt out of it. Put this together with the distilled liquor. After that, take the other half of these crystals and put them in a flask. Pour the above liquor into it. Then set it well sealed in a vaporous heat and let stand in putrefaction for a month. Afterwards, remove the flask from the putrefaction and set it in a sand-bath. Lute a helmet and a receiver to it which must be well closed. Then a spirit will rise with the first and second degrees of fire, which you must rectify from all phlegm. Pour it back and distil it again. Cohobate it so often till a sulphur or a sublimate rises. And this must be well considered. When you see that a sublimate is rising, increase the fire so the mercury of the philosophers or sulphur will rise too, mercury which has been released by the breath of its own spirit. Separate well this sublimate from all impurity or caput mortuum. Pour the spirit back all the time, and give fire again until all the spirit has been brought into sublimate.] Now, when they have stood a long time in
+the air and become saline and vitriolic again, then you extract
+everything completely. Put the clear solution together with the
+previous ones. At this point, let it coagulate. Calcine it a little bit and
+extract it again. Afterwards, the earth#footnote[That is, the dregs left from lixiviating the weathered matter. In the German original we find here the alchemical symbol for ‘air’, instead ‘earth.’ The clear solution is decanted again in another clean glass, and distilled thereof until a small pellicle or skin appears. Afterwards place the glass in a cool place so the most beautiful crystals will shoot. Remove them, keep them in a clean glass and repeat this operation until everything has shot into crystals. So you have prepared a secret vitri] is strongly calcined and
+extracted again with warm water, so that everything comes out and
+nothing remains but a useless earth. Pour all the pure extractions
+together, and evaporate them by half. Then let it stand and the faeces
+will precipitate once more. Decant everything that is clean and
+evaporate until a pellicle or skin appears. Subsequently, place them in
+a cool place, so a greenish vitriol will shoot. When it does not shoot
+any more, decant the water from them and place the crystals in a
+clean glass, and repeat this operation until everything has been
+brought into crystals.
+Finally, when nothing else shoots into crystals, then evaporate to
+dryness into a vitriolic salt. Thereupon, dissolve the dried salt in
+distilled rainwater. Place the solution in a gentle heat and let it stand
+for several days. Then some faeces are precipitated again.
+
+first and second degrees of fire, which you must rectify from all
+phlegm. Pour it back and distil it again. Cohobate it so often till a
+sulphur or a sublimate rises. And this must be well considered. When
+you see that a sublimate is rising, increase the fire so the mercury of
+the philosophers or sulphur will rise too, mercury which has been
+released by the breath of its own spirit. Separate well this sublimate
+from all impurity or caput mortuum. Pour the spirit back all the time,
+and give fire again until all the spirit has been brought into sublimate.
+mortuum, gently calcine it and extract it with rainwater. Decant the
+clear solution, dry the caput mortuum, and then calcine until it
+releases all its innermost salt. Now, when everything has been
+extracted, pour the clear solutions together and evaporate them to
+dryness. This salt must be gently calcined, dissolved, filtered and
+evaporated long enough so that, in the end, it remains as an oil which
+no longer coagulates, neither in the heat nor in the cold. Afterwards,
+separate all the phlegm from this oil by distillation, so it will be
+prepared. 󰀂 Some of these ancient masters have sealed this oil in a
+phial by itself and let it stand so long, according to the degrees of fire,
+until it has become red and its innermost has been brought outside.
+This way they changed the green dragon into a white and red one.
+And thus, with great effort and labour, they have separated and
+prepared the man and the woman, which they subsequently united to
+make the highest tincture.
+Conjunction
+Now, when you come this far with your work, when you have our
+viscous mercury and red sulphur of nature in your hands, join them in
+the following way. Take 3 lots of our red sulphur and 2 lots of our
+viscous water. Place them together in a phial. Seal it hermetically and
+set it in the same furnace you already know.
+liquor into different vessels and put them in a place where the air can
+constantly pass over them. Then in a short time this vitriol will grow
+over itself in the form a collar, like a greasy talc or metallic gur.
+Gather them all together in a clean glass. When all has grown over
+itself, there is nothing left but the innermost salt. Then take your gur
+and dissolve it once more in rainwater. Let the true solution evaporate
+again until the pellicle appears and place it in a cool place. Then
+greenish crystals will shoot, although initially they will not want to
+shoot. But if you put small stalks of spruce or fir trees inside it, which
+have been cleaned and cut with a knife, then they will shoot and
+precipitate like a metallic salt. When they no longer shoot, remove the
+small stalks and place the vitriol in a clean glass. Let the liquor
+evaporate again until the pellicle appears, put the small stalks back
+inside and let them shoot. Continue doing this till everything is shot.
+Afterwards, take all the crystals together, dry them, and divide them
+into two equal parts. Distil the spirit and oil of the first part, and
+extract the salt from the caput mortuum, as was taught in the
+preceding works. Then take the other half of the purified vitriol
+crystals and pour that spirit over it which was separated and sublimed
+by distillation from the first part.
+In order to see more information about this path, see Der Triumpf-Wagen des Vitriol oder
+Natur- und kunstmässige Beschreibung von der Generation, und Wundern dieses grossen Subjects der
+Alchymie, Frankfurt and Leipzig, 1770.
+purest tincture upon white, but also very poisonous in its generation
+and separation. It is as follows.
+
+CHAPTER X.
+OF A TINCTURE UPON WHITE FROM ANOTHER MATTER
+I would now like move from this chaotic matter to that other matter,
+which the ancient philosophers compared to a poisonous toad. And
+indeed it is, for when it takes life in the mines, it kills everything that is
+near and far. Although this matter is very mercurial, it is classified as
+pertaining to silver ores and I can tell you in truth that this matter is
+much purer to the white tincture, when its nature is properly
+separated. For it has life in the same way as the preceding one, in such
+a way that when it is also placed in the air, it becomes fully glowing.
+For this reason, we can perceive the scent of this matter at a distance.
+It disintegrates in the air into a gray, saline and mercurial dust, which
+is very poisonous, that is, only a few grains could kill man and animal,
+whether born blind or not, which in fact also does arsenic. When this
+matter is melted, the spirit rises as smoke and condenses. This can
+also be seen in arsenic when it transmutes copper into white, though
+transitory. But if it is naturally separated by the hand of the artist, it
+yields a powerful tincture after conjunction and fixation which you
+should consider well. For this reason the ancients masters did not
+want to illustrate it under any other figure except under that of a toad,
+which they thus, designated to point out its fierce inner venom, so that
+the masters could take care during their work and protect themselves
+from harm.
+Now, this matter is nothing more than a volatile silver ore,
+overloaded with saline mercury. For the beginning of everything is a
+salt or a salt water, as I mentioned above. Now, here the scholarly
+world should explain me their reasoning: Why is this matter volatile,
+mercurial, and yet a purer tincture upon silver? But their answer
+would be: What a terrible poison and horrible corrosive! But it is here
+that the mysteries are revealed, and truth of these kinds of insults for
+which they should be ashamed. However, you shall know the bird by
+the whistling song.#footnote[In the original the author says literally: ‘the bird is recognised by the language.’ Thus, you should know that in it lies hidden not only a living poison, but also the greatest medicine. Now, the ancient philosophers called this matter cadmia, in fact, a poisonous worm and dragon. But the miners of today, in our country and elsewhere, call it cobalt. It is nothing more than a bright, heavy and extremely rich silver ore, which is made volatile again through the spirit of mercury. For it is nothing more than a silver ore overloaded with the spirit of mercury. 󰀁: Look for this cobalt ore and get 10 to 12 pounds, pure, fresh from the mountain, before it attracts the air. Take this ore and grind it finely but cover your mouth and nose with a little cloth moistened with wine vinegar, for it has a living penetrating poison in and around it. Now, when everything has been reduced into powder, place it in the air in stone dishes, but arranged in such a way that it does not rain inside. So let it stand in the shaded air for a long time, until it becomes saturated and saline. Afterwards, divide it into 2 equal parts into 2 retorts, well-closed, and place them in a vaporous heat to putrefy for 1 month. After that, take one retort, lute a receiver to it and set it in a sand-bath. When everything is well dried, begin to distil all sulphurous spirit and mercurial sublimate, during 48 hours by degrees of fire. In the end, distil them with strong fire. So when it no longer wants to rise, let the fire go out. When this is done and everything is cold, even when the smoke spirits condensed, carefully remove the receiver, but in a way that you do not move it too much, for the spirits are alive. Take out the entire sublimate from the neck of the retort and place it inside the liquor. Keep well the receiver and place it in a cool place. Now, remove the caput mortuum and calcine it under a chimney that has a strong draught, and calcine until it becomes a grey calx. Then extract the salt thereof with hot water. When all the salt has been extracted, pour all the extractions together and evaporate them into a salt. Purify it by dissolving and coagulating until it becomes pure. After that, also place it inside the liquor distilled above, but only when it has been reduced into powder. Let this liquor stand a second time for another 24 hours. Then pour them all together on the matter you still have in the retort, that is, on the other half. Close the retort very well and let it putrefy for at least 14 days and nights. However, it would be better if you take the other part of the matter and place it in a well closed vessel, and thus, set it to putrefy together. After that, break the top of the flask, lute a helmet to it and close it. Place the glass into ashes and thus, begin to distil what will rise in the ash-bath, so a volatile spirit will rise. When you see that nothing else wants to pass, take off the receiver and let the fire go out. The spirit with phlegm must be distilled in a bath of Mary until all phlegm is separated from it. After that, pour this spirit back into the vessel and let it stand for a day and a night so that the spirit rejoins with its body. Now, when everything is well closed, begin to distil again. The spirit will rise again, but this time in lesser quantity. Pour it back and cohobate it so many times until all the spirit remains behind. When everything is cold and the flask is still full, and you can be sure of it, then set it in an ash-bath. Lute a receiver to it. Then something else will pass during the third and fourth degree of fire, but in lesser quantity. A sublimate of a viscous nature will ascend. When everything has risen, let the fire go out and take out the receiver with that which has been distilled and pour it in the phlegm above. Since you will need this phlegm a lot, so keep it very well. Remove carefully the sublimate that is in the helmet, for it is the most volatile part and the true spirit of arsenic, before which you must guard yourself. You will find some sublimate in the vessel again settled around the caput mortuum. Take it all out. After that, place this sublimate into a clean vessel and let it rise seven times. Then it becomes like a pure, bright and transparent crystal. This dry viscous water can also be augmented with silver, like I told you in previous works (see Chapter IV above). Now, keep well this sublimate. Afterwards, remove the caput mortuum and lixiviate it with hot water. Keep all this solution. Let the caput mortuum dry again and calcine it until it becomes a grey ash. Then lixiviate out all the inner salt with hot water. When everything is lixiviated, pour it along with the previous solutions. Filter everything clear and pure, and let it all evaporate into a salt. This salt should be dissolved and coagulated several times, and gently calcined so that it melts like grease on fire, also remaining thus, in the cold. Finally, you must extract it with its own phlegm, and afterwards it must also be distilled many times until the salt remains in the form of oil. Then it is done. But I must say that the cause of this calcination, extraction, and coagulation, so know that it occurs so that all corrosive salt and sharpness come out and be separated from it, a sharpness which is very contrary to the work. And this impure sharpness would hinder everything preventing you from reaching your purpose to infinity. But having separated all the corrosiveness, the innermost salt and its innermost sweetness will be manifest, so you have what you desire. Afterwards, take this entire salt, place it in a vessel hermetically closed and set it in the furnace. Let it go through the colours, that is, white, green, blue and red. When it becomes red ( 󰀂 It becomes only pale or pale red, because this is a tincture upon white), take it out, for now you have male and female in your hands, which, after their conjunction shall become a great tincture upon silver. Conjunction or the Concluding Work 󰀁: Now, take 4 lots of this fixed salt and 3 lots of our viscous water. Place them together in a phial hermetically closed. Set them in the furnace and let them stand until putrefaction. After that, increase the fire until it has passed through all the colours and it becomes a shining bright white powder. Then take it out and grind again 3 lots of viscous water with it, which is now in dry form. Place it back in a phial and let it pass slowly and gradually through the colours by the degrees of fire. Give it 3 lots of viscous water again. Repeat this augmentation until the seventh time. Now, take out your tincture and divide it into two parts. Take the first part and augment it this way: If it weighs 12 lots, grind 6 lots of dry viscous water with it, then let it pass through the colours. And you can repeat this augmentation until the seventh time. After that, you should divide this tincture and proceed with it further, as taught. Fermentation 󰀁: Now, take the other half of the tincture, let silver be melted. And when it is molten, place 2 lots of tincture upon one mark of silver. Thus, this silver becomes a pure tincture and 1 drachm of this tincture tinges 1000 drachms of other metals such as tin, lead and mercury, into the most beautiful silver. The longer the tincture is augmented, the more it tinges. In the next augmentation, if 1 lot of the tincture is projected upon 1 mark of silver, the silver becomes a pure tincture. And one drachm of it tinges from 3000 to 4000 drachms of other white metals into silver, as said before. Furthermore, you should also know that when our tincture is fixed and fire resistant, it is a great and true medicine for all pestilential and venomous diseases. And, in fact, it is the greatest medicine and panacea in all sleepwalking diseases when it is taken in a dose of just one grain of rapeseed. This way you see what inexhaustible treasures the Most High has laid down in nature. Now I will return again to the primordial, indeterminate hylealic salt, from which and by which nature generates and gives birth to everything, both in vegetables, animals and minerals, and where that celestial salt of fire must be found. This salt gives life to everything and promotes their growth. It is an astral and paradisical salt. If this had not been created by the great Creator, all nature would fall into disorder. It comes to us in the spring in the dew and in the rain, as I shall now explain to you in this last chapter. CHAPTER XI. HOW THE HYLEALIC SALT CAN BE FOUND OUT OF THE PRIMORDIAL CHAOS The primordial chaos is nothing else than earth. For the ancient father Isaac said to his son Jacob, in Genesis 27:#footnote[In Diss. de Zoroastre, Hermete et Sanchoniathone, Norimb. 1661.8.]: ‘God give thee of the dew of heaven and the fatness of the earth.’ This passage is read by many but understood by few. For the earth is full of these powers and glory of the Lord. The heavens emanate the blessing from above and moisten the earth and make it fertile. It comes with rain and dew during the spring but in the autumn, it is retracted and is lifted up again where it came from. It is nothing else than the true astral or mercurial salt which can be obtained out of a very pure virgin Adamic earth, which is found among those vegetable roots, for the earth has a magnetic force in itself. Therefore, this magnet attracts the universal spirit to itself and becomes a greasy salt. This salt is not yet specified. It is neither animal nor vegetable nor mineral but rather entirely pure and universal, fit for all creatures because it contains and possesses the universal spirit and the magnetic balm in large quantities. But how one can put one’s hands upon it, I will teach you sufficiently here. 󰀁: When you know of a place during spring where there is a beautiful, fatty, loamy black soil, or a red earth clay, on a meadow or in a fertile field, then you go there at sunrise and make a pit that is knee deep so that all grass and roots are removed from it. Take at least 24 quintals of this earth, let it be spread out for 14 days and nights, when the weather is bright and clear; and the best time for making this is in May. But if it should rain, you cover it with planks. After that time, when the earth is well effloresced, take it home. Then go to the work of the women, and for that purpose have wooden barrels, such as those of saltpetre makers, barrels which are made of timbers and have spigots or bungs. Put a good amount of raw earth inside them and put them in the air. The quintal or centner is a historical unit of mass in many countries which is usually defined as 100 base units of either pounds or kilograms.]
+stone dishes, but arranged in such a way that it does not rain inside.
+So let it stand in the shaded air for a long time, until it becomes
+saturated and saline. Afterwards, divide it into 2 equal parts into 2
+retorts, well-closed, and place them in a vaporous heat to putrefy for 1
+month. After that, take one retort, lute a receiver to it and set it in a
+sand-bath. When everything is well dried, begin to distil all
+sulphurous spirit and mercurial sublimate, during 48 hours by degrees
+of fire. In the end, distil them with strong fire. So when it no longer
+wants to rise, let the fire go out. When this is done and everything is
+cold, even when the smoke spirits condensed, carefully remove the
+receiver, but in a way that you do not move it too much, for the spirits
+are alive. Take out the entire sublimate from the neck of the retort
+and place it inside the liquor. Keep well the receiver and place it in a
+cool place. Now, remove the caput mortuum and calcine it under a
+chimney that has a strong draught, and calcine until it becomes a grey
+calx. Then extract the salt thereof with hot water. When all the salt
+has been extracted, pour all the extractions together and evaporate
+them into a salt. Purify it by dissolving and coagulating until it
+becomes pure. After that, also place it inside the liquor distilled above,
+but only when it has been reduced into powder. Let this liquor stand a
+second time for another 24 hours. Then pour them all together on the
+matter you still have in the retort, that is, on the other half. Close the
+retort very well and let it putrefy for at least 14 days and nights.
+However, it would be better if you take the other part of the matter
+and place it in a well closed vessel, and thus, set it to putrefy together.
+
+After that, break the top of the flask, lute a helmet to it and close it.
+Place the glass into ashes and thus, begin to distil what will rise in the
+ash-bath, so a volatile spirit will rise. When you see that nothing else
+wants to pass, take off the receiver and let the fire go out. The spirit
+with phlegm must be distilled in a bath of Mary until all phlegm is
+separated from it. After that, pour this spirit back into the vessel and
+let it stand for a day and a night so that the spirit rejoins with its body.
+Now, when everything is well closed, begin to distil again. The spirit
+will rise again, but this time in lesser quantity. Pour it back and
+cohobate it so many times until all the spirit remains behind. When
+everything is cold and the flask is still full, and you can be sure of it,
+then set it in an ash-bath. Lute a receiver to it. Then something else
+will pass during the third and fourth degree of fire, but in lesser
+quantity. A sublimate of a viscous nature will ascend. When
+everything has risen, let the fire go out and take out the receiver with
+that which has been distilled and pour it in the phlegm above. Since
+you will need this phlegm a lot, so keep it very well. Remove carefully
+the sublimate that is in the helmet, for it is the most volatile part and
+the true spirit of arsenic, before which you must guard yourself. You
+will find some sublimate in the vessel again settled around the caput
+mortuum. Take it all out. After that, place this sublimate into a clean
+vessel and let it rise seven times. Then it becomes like a pure, bright
+and transparent crystal. This dry viscous water can also be augmented
+with silver, like I told you in previous works (see Chapter IV above).
+Now, keep well this sublimate. Afterwards, remove the caput
+mortuum and lixiviate it with hot water. Keep all this solution. Let the
+caput mortuum dry again and calcine it until it becomes a grey ash.
+Then lixiviate out all the inner salt with hot water. When everything is
+lixiviated, pour it along with the previous solutions. Filter everything
+clear and pure, and let it all evaporate into a salt. This salt should be
+dissolved and coagulated several times, and gently calcined so that it
+melts like grease on fire, also remaining thus, in the cold. Finally, you
+must extract it with its own phlegm, and afterwards it must also be
+distilled many times until the salt remains in the form of oil. Then it is
+done.
+But I must say that the cause of this calcination, extraction, and
+coagulation, so know that it occurs so that all corrosive salt and
+
+sharpness come out and be separated from it, a sharpness which is
+very contrary to the work. And this impure sharpness would hinder
+everything preventing you from reaching your purpose to infinity. But
+having separated all the corrosiveness, the innermost salt and its
+innermost sweetness will be manifest, so you have what you desire.
+Afterwards, take this entire salt, place it in a vessel hermetically closed
+and set it in the furnace. Let it go through the colours, that is, white,
+green, blue and red. When it becomes red ( 󰀂 It becomes only pale
+or pale red, because this is a tincture upon white), take it out, for now
+you have male and female in your hands, which, after their
+conjunction shall become a great tincture upon silver.
+Conjunction or the Concluding Work
+
+󰀁: Now, take 4 lots of this fixed salt and 3 lots of our viscous water.
+Place them together in a phial hermetically closed. Set them in the
+furnace and let them stand until putrefaction. After that, increase the
+fire until it has passed through all the colours and it becomes a shining
+bright white powder. Then take it out and grind again 3 lots of viscous
+water with it, which is now in dry form. Place it back in a phial and let
+it pass slowly and gradually through the colours by the degrees of fire.
+Give it 3 lots of viscous water again. Repeat this augmentation until
+the seventh time. Now, take out your tincture and divide it into two
+parts. Take the first part and augment it this way: If it weighs 12 lots,
+grind 6 lots of dry viscous water with it, then let it pass through the
+colours. And you can repeat this augmentation until the seventh time.
+After that, you should divide this tincture and proceed with it further,
+as taught.
+Fermentation
+
+󰀁: Now, take the other half of the tincture, let silver be melted. And
+when it is molten, place 2 lots of tincture upon one mark of silver.
+Thus, this silver becomes a pure tincture and 1 drachm of this
+tincture tinges 1000 drachms of other metals such as tin, lead and
+mercury, into the most beautiful silver. The longer the tincture is
+augmented, the more it tinges.
+
+In the next augmentation, if 1 lot of the tincture is projected upon 1
+mark of silver, the silver becomes a pure tincture. And one drachm of
+it tinges from 3000 to 4000 drachms of other white metals into silver,
+as said before.
+Furthermore, you should also know that when our tincture is fixed
+and fire resistant, it is a great and true medicine for all pestilential and
+venomous diseases. And, in fact, it is the greatest medicine and
+panacea in all sleepwalking diseases when it is taken in a dose of just
+one grain of rapeseed. This way you see what inexhaustible treasures
+the Most High has laid down in nature.
+Now I will return again to the primordial, indeterminate hylealic
+salt, from which and by which nature generates and gives birth to
+everything, both in vegetables, animals and minerals, and where that
+celestial salt of fire must be found. This salt gives life to everything
+and promotes their growth. It is an astral and paradisical salt. If this
+had not been created by the great Creator, all nature would fall into
+disorder. It comes to us in the spring in the dew and in
+the rain, as I shall now explain to you in this last chapter.
+
+CHAPTER XI.
+HOW THE HYLEALIC SALT CAN BE FOUND OUT OF THE
+PRIMORDIAL CHAOS
+The primordial chaos is nothing else than earth. For the ancient
+father Isaac said to his son Jacob, in Genesis 27:#footnote[In Diss. de Zoroastre, Hermete et Sanchoniathone, Norimb. 1661.8.]: ‘God give thee of
+the dew of heaven and the fatness of the earth.’ This passage is read
+by many but understood by few. For the earth is full of these powers
+and glory of the Lord. The heavens emanate the blessing from above
+and moisten the earth and make it fertile. It comes with rain and dew
+during the spring but in the autumn, it is retracted and is lifted up
+again where it came from. It is nothing else than the true astral or
+mercurial salt which can be obtained out of a very pure virgin Adamic
+earth, which is found among those vegetable roots, for the earth has a
+magnetic force in itself. Therefore, this magnet attracts the universal
+spirit to itself and becomes a greasy salt. This salt is not yet specified.
+It is neither animal nor vegetable nor mineral but rather entirely pure
+and universal, fit for all creatures because it contains and possesses the
+universal spirit and the magnetic balm in large quantities. But how
+one can put one’s hands upon it, I will teach you sufficiently here.
+
+󰀁: When you know of a place during spring where there is a
+beautiful, fatty, loamy black soil, or a red earth clay, on a meadow or
+in a fertile field, then you go there at sunrise and make a pit that is
+knee deep so that all grass and roots are removed from it. Take at
+least 24 quintals#footnote[Pour pure rainwater over them as far as the earth can fill the entire barrel. Afterwards, prepare a kettle full of hot water, which you can take hot from the beginning as well. Pour enough water inside them so that it exceeds the height of one hand above the earth. Cover the barrels and let them stand one day and night. After that, open the bung hole at the bottom and let the pure water drain into a vessel placed underneath. Proceed in this way with all the earth. After that, place this lixivium in a copper kettle and evaporate it so that it is reduced to half. And when the crystals begin to shoot, set the kettle in a cool place and after a few days a salt will settle down on the bottom, like saltpetre, but it does not burn like the common one. Afterwards, remove this salt and let the lixivium evaporate again. Place the lixivium in the cold again and thus, even more salt will shoot. Continue this operation until no salt is shot. Purify the salt by means of many dissolutions, filtrations, coagulations and crystallisations, as long as is necessary with dew or rainwater until it becomes completely crystalline and transparent. This way you have in your hands the true saltpetre, which hovers in the sea of the world. And in it is found a water that does not wet your hands, a salt without which nothing can be generated in the world. Now, take 1 pound of this precious salt, grind it finely upon a glass mortar. Then mix it with your own earth, which you previously calcined. Imbibe it with rainwater and make little balls with it. After that you dry them at the sun. You can also put in the sun the earth 248 with which the salt is mixed, and imbibe this salt- earth with dew or rainwater for a whole month so that the spirit of mercury augments in it. Then you make little balls with them. Fill half of a coated retort with these little balls, set it in a furnace and lute a large receiver to it, in which you have placed at least 2 pounds of rainwater. Thus, distil a spirit and a salt, and then proceed the same way with the rest of balls, until you have distilled and separated all the salt and spirit. Now pour your spirit with the salt into a glass and distil the phlegm from it in the bath of Mary. Afterwards, set the flask in a sand-bath and distil the spirit again.] of this earth, let it be spread out for 14 days and
+nights, when the weather is bright and clear; and the best time for
+making this is in May. But if it should rain, you cover it with planks.
+After that time, when the earth is well effloresced, take it home. Then
+go to the work of the women, and for that purpose have wooden
+barrels, such as those of saltpetre makers, barrels which are made of
+timbers and have spigots or bungs. Put a good amount of raw earth
+inside them and put them in the air.
+The quintal or centner is a historical unit of mass in many countries which is usually
+defined as 100 base units of either pounds or kilograms.
+means of many dissolutions, filtrations, coagulations and
+crystallisations, as long as is necessary with dew or rainwater until it
+becomes completely crystalline and transparent. This way you have in
+your hands the true saltpetre, which hovers in the sea of the world.
+And in it is found a water that does not wet your hands, a salt without
+which nothing can be generated in the world. Now, take 1 pound of
+this precious salt, grind it finely upon a glass mortar. Then mix it with
+your own earth, which you previously calcined. Imbibe it with
+rainwater and make little balls with it. After that you dry them at the
+sun. You can also put in the sun the earth 248 with which the salt is
+mixed, and imbibe this salt- earth with dew or rainwater for a whole
+month so that the spirit of mercury augments in it. Then you make
+little balls with them. Fill half of a coated retort with these little balls,
+set it in a furnace and lute a large receiver to it, in which you have
+placed at least 2 pounds of rainwater. Thus, distil a spirit and a salt,
+and then proceed the same way with the rest of balls, until you have
+distilled and separated all the salt and spirit. Now pour your spirit
+with the salt into a glass and distil the phlegm from it in the bath of
+Mary. Afterwards, set the flask in a sand-bath and distil the spirit
+again.
+Concluding Work
+
+󰀁: Now, take 4 ounces of your universal liquor and add 1 ounce of
+pure gold into leaves. Set them together into a phial and then place
+them in gentle digestion. Thus, from this moment onward, gold will
+dissolve and cast a grey earth on the bottom of the glass. Separate this
+earth from the clear liquor, that is, put it in another glass. You cannot
+reduce the earth that is left behind into a metal, either by art or by any
+other means. Afterwards, seal the phial hermetically and set it in our
+philosophical furnace, giving, as you know, a gentle vaporous fire or
+lamp-fire for 40 days and nights. For a fierce fire does not put the
+matter into putrefaction during the concluding work which you should
+consider well. This way the blackness will appear. Change the vapour
+bath and place the phial in an ash-bath, but in such a way that the
+flask is not covered completely. Augment the fire a little so that the
+glass is as hot as the hottest sun that shines in the summer.
+Afterwards, the most beautiful colours will appear after 40 days and
+nights which the philosophers have called the Peacock’s Tail.
+Thereupon, increase the fire but in a way that the flask does not glow.
+Then the tincture will be as white as snow after 40 days and nights, a
+colour that they call moonlight or Diana. Cover the glass with ashes
+and give the fourth degree of fire. Thus, the tincture becomes
+completely red after 30 or 40 days and nights.
+
+But if it stands that way for 50 days and nights, it becomes blood
+red, and coagulates in the middle of the glass into a ruby-red shining
+stone, shedding much faeces around it. Although it is, in fact, red, it is
+not yet the tincture but it is separated from it as a great medicine.
+However, the other is the quintessence. Now, it can be augmented by
+often imbibitions and coagulations, as I have taught you in every
+detail before.
+Here, I have told and described to you again a true method of the
+ancient masters. But there is a very arduous and tedious work, in
+which you have to digest and calcine for almost 2 years. However, this
+work was not described in these previous works, for in our work the
+mineral spirits are fixed and united much sooner than one could bring
+to the desired state by that other way. But since this is a work of the
+ancient philosophers, by which they were blessed, I cannot help but
+teach it here as well.
+It should be known, too, that the ancient masters performed many
+miracles with this precious universal liquor. For instance when a vine
+or some dwarf tree which can be carried in a vase; when its fruits and
+foliage fall, then remove the roots and give it fresh earth. Prune them
+and place the vase in a warm place. Afterwards, take 4 pounds of dew
+or rainwater and pour 1 ounce of your liquor into it. Then take a
+small vessel and fill it with this solution. Set it next to the stem. Now
+place the end of a shredded cloth or a piece of linen inside the vessel
+and let the other end rest hanging over the stem of the plant.
+Thereupon the stem will begin to grow, to bloom and indeed to bear
+fruit before your eyes. The tree must receive air. When it is not cold
+outside the room, open the window so that the air can enter and the
+sun can shine and act inside the room. So the fruits will be big and
+ripe around the Candlemas Day. Similarly, the fruits are as tasty as if
+they were in those gardens at their proper time which is, in fact, a
+great miracle. The same also happens with flowers, for the most
+beautiful flowers can be seen in the middle of the winter, as has been
+practised by those great masters. These masters also kept all kinds of
+birds in their greenhouses, and that is the reason why these faithful
+men were cursed as wizards and sorcerers.
+
+Thus, the wisdom will also mock these blind, hyperopic men and
+transgressors of nature and will bring justice on them.
+Because these things are all natural and are not hidden to wise men.
+But the reason why this kind of black encyclopaedic raven does not
+want to put its hands on coals is because it wants to subject nature to
+its disputes and polished glasses. However, just as they operate, so too
+are they rewarded.
+Those who love wisdom will receive the great mystery as a reward.
+However, those who boast will only receive the wage of gout, stone,
+stroke and a long pair of donkey ears For when they fail to advance in
+the art, so benevolent nature is defamed and blasphemed by those
+who stand before the truth like a door knob and thus, they ascribe the
+noble art to the devil.
+But content yourself to have the great God for a friend. Rejoice in
+Him and consider nature, by which I desire from the bottom of my
+heart many blessings. Keep silent about it and keep it hidden so that
+you do not endanger yourself along with the secret science for, by
+doing this, you would draw the eternal curse upon you. Fear God and
+live well until your blessed end.
+Glory, praise and honour to God alone, for ever and ever. Amen!
+
+FINIS - PART III
+
+APPENDIX A
+AUTHORSHIP OF THE GOLDEN CHAIN OF HOMER
