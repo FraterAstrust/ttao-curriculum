@@ -81,16 +81,22 @@
     v(0.1em)
   }
 
-  // ── Table & figure rules ──────────────────────────────────
-  show table.header: it => {
-    set table.cell(fill: ttao-gold.lighten(75%))
-    set text(weight: "bold")
-    it
-  }
+  // ── Figure rules ─────────────────────────────────────────
   show figure: set block(breakable: true)
 
   body
 }
+
+// ── Table wrapper ────────────────────────────────────────────
+// Use #ttao-table(...) in place of #table(...) for consistent
+// header shading, bold header text, and inset across all tables.
+// y == 0 fills the header row regardless of table.header usage.
+#let ttao-table(..args) = table(
+  fill: (x, y) => if y == 0 { ttao-gold.lighten(75%) } else { none },
+  inset: (x: 0.6em, y: 0.5em),
+  stroke: 0.4pt + ttao-rule,
+  ..args,
+)
 
 // ── Block components ─────────────────────────────────────────
 // All components inherit font and base size from the global
