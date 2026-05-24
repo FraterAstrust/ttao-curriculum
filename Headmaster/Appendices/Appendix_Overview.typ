@@ -1,4 +1,5 @@
 #import "../../ttao_style.typ": *
+#show: ttao-page
 
 == Appendices
 

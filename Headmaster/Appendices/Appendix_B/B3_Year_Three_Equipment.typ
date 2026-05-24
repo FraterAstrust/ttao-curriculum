@@ -1,4 +1,5 @@
 #import "../../../ttao_style.typ": *
+#show: ttao-page
 
 == B.3 — Year Three Additional Equipment
 

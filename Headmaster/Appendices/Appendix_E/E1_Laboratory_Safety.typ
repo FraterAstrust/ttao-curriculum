@@ -1,7 +1,5 @@
 #import "../../../ttao_legal_style.typ": *
-
 #show: ttao-page
-#ttao-headings()
 
 // ── Header ───────────────────────────────────────────────────
 #appendix-banner(

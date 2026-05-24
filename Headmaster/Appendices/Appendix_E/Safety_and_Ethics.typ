@@ -1,7 +1,6 @@
 #import "../../../ttao_style.typ": *
-
 #show: ttao-page
-#ttao-headings()
+
 
 // ============================================================
 // TTAO Inner Academy — Safety Appendices

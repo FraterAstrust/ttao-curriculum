@@ -1,4 +1,5 @@
 #import "../../../ttao_style.typ": *
+#show: ttao-page
 
 === Appendix F: Assessment Framework and Grading Rubrics
 

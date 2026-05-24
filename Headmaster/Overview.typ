@@ -1,4 +1,5 @@
 #import "../ttao_style.typ": *
+#show: ttao-page
 
 #align(center)[
   #text(size: 14pt, fill: ttao-gold)[TTAO INNER ACADEMY · HEADMASTER'S MASTER GUIDE]
