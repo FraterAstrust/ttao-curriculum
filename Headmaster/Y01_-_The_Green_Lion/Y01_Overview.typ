@@ -72,7 +72,7 @@ The first year grounds the student in the principles of living nature, the three
   [*M12*], [The Plant Stone & Preparing for Year Two], [Sealed vessel digestion; colour monitoring; Year Two preview], [Desoille Rubedo; sealed letter to self; Personal Year],
 )
 
-#v(1em)
+#pagebreak()
 
 == Quarterly Gatherings
 
@@ -110,6 +110,7 @@ Acceptable evidence: photographs of each stage with dates; weight records before
 #v(0.8em)
 
 == Source Texts Active in Year One
+// This needs to be updated once all sources are consolidated into typst files.
 
 #table(
   columns: (auto, auto),
@@ -131,7 +132,7 @@ Acceptable evidence: photographs of each stage with dates; weight records before
   [*EFT*], [EFT International, _Free Tapping Manual_ — emotional blockage release; personal calcination made active],
 )
 
-#v(0.8em)
+#pagebreak()
 
 == Pedagogical Notes for the Headmaster
 
@@ -223,14 +224,14 @@ The student who completes Quarter Four will have:
 - A sealed letter written to their future self
 - A spoken or written reflection on what Year One changed
 
-#v(1em)
+#v(18em)
 #align(center)[
-  #line(length: 30%, stroke: 0.8pt + ttao-gold)
+  #line(length: 60%, stroke: 0.8pt + ttao-gold)
   #v(0.3em)
-  #text(size: 9pt, fill: ttao-slate, style: "italic")[
+  #text(size: 13pt, fill: ttao-slate, style: "italic")[
     Year One module files: Y01\_M01 through Y01\_M12. \
     Each monthly file contains the full four-week expansion, all source integrations, headmaster notes, and competency thresholds for that month.
   ]
   #v(0.3em)
-  #line(length: 30%, stroke: 0.8pt + ttao-gold)
+  #line(length: 60%, stroke: 0.8pt + ttao-gold)
 ]

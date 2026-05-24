@@ -37,7 +37,7 @@
   [4], [Patience — The Alchemist's Primary Virtue], [Maceration observed through glass; seal checked], [Review and integration; nature of time],
 )
 
-#v(0.5em)
+#pagebreak()
 
 *Month 1 Deliverables:*
 - Daily meditation practice established (minimum 20 minutes, all three practices begun)
