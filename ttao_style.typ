@@ -82,8 +82,11 @@
   }
 
   // ── Table & figure rules ──────────────────────────────────
-  show table.header: set table.cell(fill: ttao-gold.lighten(75%))
-  show table.header: set text(weight: "bold")
+  show table.header: it => {
+    set table.cell(fill: ttao-gold.lighten(75%))
+    set text(weight: "bold")
+    it
+  }
   show figure: set block(breakable: true)
 
   body
