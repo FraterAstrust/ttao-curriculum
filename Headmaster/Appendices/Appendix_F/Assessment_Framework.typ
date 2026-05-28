@@ -1,18 +1,33 @@
 #import "../../../ttao_style.typ": *
 #show: ttao-page
 
-=== Appendix F: Assessment Framework and Grading Rubrics
+// ============================================================
+// APPENDIX F — Assessment Framework
+// Competency-based evaluation system for all three tiers.
+// ============================================================
+
+= Appendix F — Assessment Framework
 
 #hm-note[
-  This appendix defines the assessment logic for the academy. It is the headmaster's reference document. Assessment criteria for each month will be distilled into the student-facing monthly syllabus in simplified form.
+  TTAO is competency-paced, not calendar-paced. The monthly structure is a suggested rhythm, not a deadline. A student may take three years to complete Year One. Advancement is determined by demonstrated integration and operative attainment — not by elapsed time. The primary competency test for Year One is the formation of a Procedurally Complete Plant Stone. There is no failure limit. A true alchemist never gives up.
 ]
 
-// F.1 Three Levels of Monthly Completion
+#v(0.5em)
 
-// F.2 Acceptable Evidence Forms
+#include "F1_Three_Levels_of_Completion.typ"
+#pagebreak()
 
-// F.3 Mandatory Diagnostic Intervention
+#include "F2_Acceptable_Evidence.typ"
+#pagebreak()
 
-// F.4 Year Level Competency Markers
+#include "F3_Mandatory_DIT.typ"
+#pagebreak()
 
-// F.5 When the Student Does Not Advance
+#include "F4_Year-Level_Competency.typ"
+#pagebreak()
+
+#include "F5_When_a_Student_Does_Not_Advance.typ"
+#pagebreak()
+
+#include "F6_Primary_Competency_Evidence.typ"
+#pagebreak()
